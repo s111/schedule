@@ -150,6 +150,10 @@ var Selection = React.createClass({displayName: "Selection",
             dataType: "json",
             cache: false,
             success: function(data) {
+                data.sort(function(a, b) {
+                    return a.Name > b.Name;
+                });
+
                 this.setState({list: data});
             }.bind(this),
             error: function(xhr, status, err) {
