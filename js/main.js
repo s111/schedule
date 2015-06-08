@@ -189,7 +189,28 @@ var Selection = React.createClass({displayName: "Selection",
                     return (A < B) ? -1 : (A > B) ? 1 : 0;
                 });
 
-                this.setState({list: data});
+                var list = data;
+
+                // don't include duplicate programs
+                if (this.props.type === "programs") {
+                    var seen = new Object();
+                    list = [];
+
+                    data.forEach(function(item) {
+                        if (!seen[item.Name + item.Subjects.toString()]) {
+                            seen[item.Name + item.Subjects.toString()] = true;
+
+                            // don't include empty programs
+                            if (item.Subjects.length < 1) {
+                                return;
+                            }
+
+                            list.push(item);
+                        }
+                    });
+                }
+
+                this.setState({list: list});
             }.bind(this),
             error: function(xhr, status, err) {
                 this.setState({list: [{Name: "Error loading " + this.props.type + "..."}]});
