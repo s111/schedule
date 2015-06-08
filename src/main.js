@@ -58,7 +58,10 @@ var CourseSchedule = React.createClass({
                 subjects.push({Name: data.Name, Id: subject});
 
                 subjects.sort(function(a, b) {
-                    return a.Name > b.Name;
+                    var A = a.Name.toUpperCase();
+                    var B = b.Name.toUpperCase();
+
+                    return (A < B) ? -1 : (A > B) ? 1 : 0;
                 });
 
                 var lectures = this.state.lectures.slice();
@@ -117,7 +120,7 @@ var CourseSchedule = React.createClass({
 
         return (
             <div className="container">
-                <Controls day={this.state.day} subjects={this.state.subjects} onSubmit={this.addSubject} onClick={this.handleClick} onChange={this.setDay} />
+                <Controls day={this.state.day} subjects={this.state.subjects} onSubmit={this.addSubject} onClick={this.handleClick} onInput={this.setDay} />
                 <LectureList data={lectures} />
             </div>
         );
@@ -135,7 +138,7 @@ var Controls = React.createClass({
         return(
             <div className="well">
                 <label htmlFor="date-input" >Date:</label>
-                <DateInput day={this.props.day} onChange={this.props.onChange}/>
+                <DateInput day={this.props.day} onInput={this.props.onInput}/>
                 <Selection type="programs" data={this.props.programs} onSubmit={this.addProgram} />
                 <Selection type="subjects" data={this.props.subjects} onSubmit={this.props.onSubmit} />
                 <SelectedSubjects data={this.props.subjects} onClick={this.props.onClick} />
@@ -145,13 +148,15 @@ var Controls = React.createClass({
 });
 
 var DateInput = React.createClass({
-    onChange: function() {
-        this.props.onChange(this.getDOMNode().value);
+    componentDidMount: function() {
+        $(this.getDOMNode()).change(function() {
+            this.props.onInput(this.getDOMNode().value);
+        }.bind(this));
     },
 
     render: function() {
         return (
-            <input id="date-input" className="form-control" type="date" defaultValue={this.props.day.toISOString().substring(0, 10)} onChange={this.onChange} />
+            <input id="date-input" className="form-control" type="date" defaultValue={this.props.day.toISOString().substring(0, 10)} />
         );
     }
 });
@@ -178,7 +183,10 @@ var Selection = React.createClass({
             cache: false,
             success: function(data) {
                 data.sort(function(a, b) {
-                    return a.Name > b.Name;
+                    var A = a.Name.toUpperCase();
+                    var B = b.Name.toUpperCase();
+
+                    return (A < B) ? -1 : (A > B) ? 1 : 0;
                 });
 
                 this.setState({list: data});

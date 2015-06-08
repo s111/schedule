@@ -58,7 +58,10 @@ var CourseSchedule = React.createClass({displayName: "CourseSchedule",
                 subjects.push({Name: data.Name, Id: subject});
 
                 subjects.sort(function(a, b) {
-                    return a.Name > b.Name;
+                    var A = a.Name.toUpperCase();
+                    var B = b.Name.toUpperCase();
+
+                    return (A < B) ? -1 : (A > B) ? 1 : 0;
                 });
 
                 var lectures = this.state.lectures.slice();
@@ -117,7 +120,7 @@ var CourseSchedule = React.createClass({displayName: "CourseSchedule",
 
         return (
             React.createElement("div", {className: "container"}, 
-                React.createElement(Controls, {day: this.state.day, subjects: this.state.subjects, onSubmit: this.addSubject, onClick: this.handleClick, onChange: this.setDay}), 
+                React.createElement(Controls, {day: this.state.day, subjects: this.state.subjects, onSubmit: this.addSubject, onClick: this.handleClick, onInput: this.setDay}), 
                 React.createElement(LectureList, {data: lectures})
             )
         );
@@ -135,7 +138,7 @@ var Controls = React.createClass({displayName: "Controls",
         return(
             React.createElement("div", {className: "well"}, 
                 React.createElement("label", {htmlFor: "date-input"}, "Date:"), 
-                React.createElement(DateInput, {day: this.props.day, onChange: this.props.onChange}), 
+                React.createElement(DateInput, {day: this.props.day, onInput: this.props.onInput}), 
                 React.createElement(Selection, {type: "programs", data: this.props.programs, onSubmit: this.addProgram}), 
                 React.createElement(Selection, {type: "subjects", data: this.props.subjects, onSubmit: this.props.onSubmit}), 
                 React.createElement(SelectedSubjects, {data: this.props.subjects, onClick: this.props.onClick})
@@ -145,13 +148,15 @@ var Controls = React.createClass({displayName: "Controls",
 });
 
 var DateInput = React.createClass({displayName: "DateInput",
-    onChange: function() {
-        this.props.onChange(this.getDOMNode().value);
+    componentDidMount: function() {
+        $(this.getDOMNode()).change(function() {
+            this.props.onInput(this.getDOMNode().value);
+        }.bind(this));
     },
 
     render: function() {
         return (
-            React.createElement("input", {id: "date-input", className: "form-control", type: "date", defaultValue: this.props.day.toISOString().substring(0, 10), onChange: this.onChange})
+            React.createElement("input", {id: "date-input", className: "form-control", type: "date", defaultValue: this.props.day.toISOString().substring(0, 10)})
         );
     }
 });
@@ -178,7 +183,10 @@ var Selection = React.createClass({displayName: "Selection",
             cache: false,
             success: function(data) {
                 data.sort(function(a, b) {
-                    return a.Name > b.Name;
+                    var A = a.Name.toUpperCase();
+                    var B = b.Name.toUpperCase();
+
+                    return (A < B) ? -1 : (A > B) ? 1 : 0;
                 });
 
                 this.setState({list: data});
