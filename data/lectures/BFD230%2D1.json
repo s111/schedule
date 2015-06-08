@@ -1,0 +1,60 @@
+{
+    "Name": "BFD230-1 Naturfag m miljølære",
+    "Id": "BFD230%2D1",
+    "Lectures": [
+        {
+            "Name": "BFD230-1 Uke 18 Naturfag m miljølære",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-29T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD230-1 Uke 15 Naturfag m miljølære",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-08T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BFD230-1 Uke 11 Naturfag m miljølære",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-12T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD230-1 Uke 3 Naturfag m miljølære",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD230-1 Uke 15 Naturfag m miljølære",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-09T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD230-1 Uke 3 Naturfag m miljølære",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-16T12:15:00+01:00",
+            "Length": 4
+        }
+    ]
+}

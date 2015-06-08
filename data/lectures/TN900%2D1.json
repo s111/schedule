@@ -1,0 +1,39 @@
+{
+    "Name": "TN900-1 Vitenskapsteori og e",
+    "Id": "TN900%2D1",
+    "Lectures": [
+        {
+            "Name": "TN900-1 Vitenskapsteori og etikk",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [
+                "Bjørkum P.A."
+            ],
+            "Date": "2015-03-02T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "TN900-1 Vitenskapsteori og etikk",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [
+                "Bjørkum P.A."
+            ],
+            "Date": "2015-03-09T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "TN900-1 Vitenskapsteori og etikk",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [
+                "Bjørkum P.A."
+            ],
+            "Date": "2015-02-23T08:15:00+01:00",
+            "Length": 8
+        }
+    ]
+}

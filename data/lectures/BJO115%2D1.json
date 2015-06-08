@@ -1,0 +1,24 @@
+{
+    "Name": "BJO115-1 Journalistikk 2: Nyh",
+    "Id": "BJO115%2D1",
+    "Lectures": [
+        {
+            "Name": "BJO115-1 Journalistikk 2: Nyh",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-10T09:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "BJO115-1 Journalistikk 2: Nyh",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 5
+        }
+    ]
+}

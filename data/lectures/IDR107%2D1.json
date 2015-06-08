@@ -1,0 +1,776 @@
+{
+    "Name": "IDR107-120-1 Friluftsliv:Tradisj",
+    "Id": "IDR107%2D1",
+    "Lectures": [
+        {
+            "Name": "IDR107-120-1 Uke 10 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-137"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-03-02T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "IDR107-120-1 Uke 24 Friluftsliv:Pr.Øv.Fjelltur",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-06-08T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 19 Friluftsliv:Pr.Øv.Sykkeltur",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-05-04T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 18 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-27T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 17 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-20T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 16 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-13T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 7 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-02-09T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 13 Friluftsliv:Jegerprøven",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-03-23T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 23 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-06-01T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 21 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-05-18T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 4 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HL U-206"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-19T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 5 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-137"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-26T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "IDR107-120-1 Uke 24 Friluftsliv:Pr.Øv.Fjelltur",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-06-09T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 22 Friluftsliv:Pr.Øv.Ro- og fisketur",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-05-26T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 19 Friluftsliv:Pr.Øv.Sykkeltur",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-05-05T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 18 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-28T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 17 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-21T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 16 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-14T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 5 Friluftsliv:Pr.Øv.Dagstur",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-27T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 3 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-137"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-13T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 13 Friluftsliv:Jegerprøven",
+            "Rooms": [
+                "KA U-137"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-03-24T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 2 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HG-R353",
+                "HG-R354-"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-06T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 4 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HG-R354-"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-20T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 3 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-137"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 11 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-137"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-03-11T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 5 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 24 Friluftsliv:Pr.Øv.Fjelltur",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-06-10T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 22 Friluftsliv:Pr.Øv.Ro- og fisketur",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-05-27T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 17 Friluftsliv:Pr.Øv.Praksis",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-22T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 6 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-04T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "IDR107-120-1 Uke 4 Friluftsliv:Pr.Øv.Vinterkurs",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 13 Friluftsliv:Jegerprøven",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-03-25T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 18 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-04-29T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 5 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 24 Friluftsliv:Pr.Øv.Fjelltur",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-06-11T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 22 Friluftsliv:Pr.Øv.Ro- og fisketur",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-05-28T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 17 Friluftsliv:Pr.Øv.Praksis",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-23T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 11 Friluftsliv:Pr.Øv.Praksis",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-12T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 2 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HG-R353",
+                "HG-R354-"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-08T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 4 Friluftsliv:Pr.Øv.Vinterkurs",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-22T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 3 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HL U-313"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 13 Friluftsliv:Jegerprøven",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-03-26T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 9 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-02-26T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 3 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HL U-313"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-16T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 2 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HG O-104"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-09T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 10 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HG O-104"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-03-06T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 12 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-03-20T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 9 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-27T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 7 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-13T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "IDR107-120-1 Uke 4 Friluftsliv:Pr.Øv.Vinterkurs",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-23T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "IDR107-120-1 Uke 16 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HG O-104"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-04-17T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 13 Friluftsliv:Jegerprøven",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-03-27T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 24 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-137"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-06-12T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 17 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HG O-104"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-04-24T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 9 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-24T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "IDR107-120-1 Uke 16 Friluftsliv:Pr.Øv.Praksis",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-15T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "IDR107-120-1 Uke 9 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-25T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "IDR107-120-1 Uke 10 Friluftsliv:Pr.Øv.Praksis",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-04T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "IDR107-120-1 Uke 16 Friluftsliv:Pr.Øv.Praksis",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-16T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "IDR107-120-1 Uke 10 Friluftsliv:Pr.Øv.Praksis",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-05T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "IDR107-120-1 Uke 11 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-03-09T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 7 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-09T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 3 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-12T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 2 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-05T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 21 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-05-18T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 4 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-19T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 4 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-20T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 2 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-06T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 3 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-13T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 11 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-11T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 9 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 3 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-15T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 2 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-08T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 23 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-06-04T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 18 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-04-30T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 16 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-17T10:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 12 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-20T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "IDR107-120-1 Uke 3 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-16T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 2 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-09T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 2 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-01-09T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 16 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-04-13T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 4 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-19T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 21 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-05-18T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 3 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-14T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "IDR107-120-1 Uke 5 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-29T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "IDR107-120-1 Uke 9 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-02-27T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 12 Friluftsliv:Tradisj teori",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Vigane Åge"
+            ],
+            "Date": "2015-03-20T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IDR107-120-1 Uke 10 Friluftsliv:Pr.Øv.",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-02T14:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

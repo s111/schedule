@@ -1,0 +1,534 @@
+{
+    "Name": "DAT520-1 DIST. SYSTEM",
+    "Id": "DAT520%2D1",
+    "Lectures": [
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-07T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-04T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-11T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-18T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-25T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-04T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-11T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-18T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-25T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-04-01T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-04-08T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM lab",
+            "Rooms": [
+                "lab KE E-353 datalab"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-04-22T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-05T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-12T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-19T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-26T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-02T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-09T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-16T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-23T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-02T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-09T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-16T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-23T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-30T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-04-06T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-04-13T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-04-20T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-06T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-20T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-01-27T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-03T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-10T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-17T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-02-24T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-03T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-10T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-17T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-24T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-03-31T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-04-07T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-04-14T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT520-1 DIST. SYSTEM",
+            "Rooms": [
+                "lab KE E-458 kyb"
+            ],
+            "Lecturers": [
+                "Meling Hein"
+            ],
+            "Date": "2015-04-21T09:15:00+02:00",
+            "Length": 3
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "Name": "BBAP20-1 Praksis",
+    "Id": "BBAP20%2D1",
+    "Lectures": [
+        {
+            "Name": "BBAP20-1 Uke 2 Praksis/- seminar",
+            "Rooms": [
+                "KA AUD2",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Bengtsson Rutt Venke"
+            ],
+            "Date": "2015-01-05T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBAP20-1 Uke 2 Praksis/- seminar",
+            "Rooms": [
+                "AR Ø-202",
+                "AR Ø-203",
+                "AR Ø-204",
+                "AR Ø-205",
+                "AR Ø-206",
+                "AR Ø-207",
+                "KA AUD2",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Bengtsson Rutt Venke"
+            ],
+            "Date": "2015-01-06T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBAP20-1 Uke 24 Praksis/- seminar",
+            "Rooms": [
+                "KA AUD2",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Bengtsson Rutt Venke"
+            ],
+            "Date": "2015-06-11T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBAP20-1 Uke 24 Praksis/- seminar",
+            "Rooms": [
+                "KA AUD2",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Bengtsson Rutt Venke"
+            ],
+            "Date": "2015-06-12T08:15:00+02:00",
+            "Length": 7
+        }
+    ]
+}

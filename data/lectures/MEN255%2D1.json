@@ -1,0 +1,78 @@
+{
+    "Name": "MEN255-1 Ledelse og rettslig",
+    "Id": "MEN255%2D1",
+    "Lectures": [
+        {
+            "Name": "MEN255-1 Ledelse og rettslig reg uke 11",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-13T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN255-1 Ledelse og rettslig reg uke 15,17",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-10T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN255-1 Ledelse og rettslig reg uke 15,17",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-24T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN255-1 Ledelse og rettslig reg uke 5,7,9,13",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-30T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN255-1 Ledelse og rettslig reg uke 5,7,9,13",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-13T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN255-1 Ledelse og rettslig reg uke 5,7,9,13",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-27T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN255-1 Ledelse og rettslig reg uke 5,7,9,13",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-27T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN255-1 Ledelse og rettslig reg uke 3",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-16T09:15:00+01:00",
+            "Length": 7
+        }
+    ]
+}

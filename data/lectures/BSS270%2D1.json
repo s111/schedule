@@ -1,0 +1,501 @@
+{
+    "Name": "BSS270-1 Arbeidsrett",
+    "Id": "BSS270%2D1",
+    "Lectures": [
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-01-14T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-01-21T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-01-28T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-01T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-08T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-15T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-22T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-29T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-01-15T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-01-22T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-01-29T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-05T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-12T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-19T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-26T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-05T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-12T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-19T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-26T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-02T11:15:00+02:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett",
+            "Rooms": [
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-09T11:15:00+02:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-01-14T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-01-21T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-01-28T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-04T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-11T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-18T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-02-25T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-04T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-11T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-18T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-03-25T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-01T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-08T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-15T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-22T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS270-1 Arbeidsrett gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom"
+            ],
+            "Lecturers": [
+                "Høie Svein Erik"
+            ],
+            "Date": "2015-04-29T14:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

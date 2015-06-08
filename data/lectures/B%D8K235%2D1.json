@@ -1,0 +1,325 @@
+{
+    "Name": "BØK235-1 Strategi",
+    "Id": "B%D8K235%2D1",
+    "Lectures": [
+        {
+            "Name": "BØK235-1 Strategi uke 4,8",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-20T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 4,8",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-17T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 6,7,11,12,13,14,15,16",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-03T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 6,7,11,12,13,14,15,16",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-10T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 6,7,11,12,13,14,15,16",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-03-17T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 6,7,11,12,13,14,15,16",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-03-24T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 6,7,11,12,13,14,15,16",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-03-31T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 6,7,11,12,13,14,15,16",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-04-07T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 6,7,11,12,13,14,15,16",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-04-14T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 9,10",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-24T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 9,10",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-03-03T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 2,3,5",
+            "Rooms": [
+                "KE F-101 Tjodhallen"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-06T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 2,3,5",
+            "Rooms": [
+                "KE F-101 Tjodhallen"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi uke 2,3,5",
+            "Rooms": [
+                "KE F-101 Tjodhallen"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-27T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-05T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-12T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-19T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-26T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-02T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-09T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-16T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-23T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-03-02T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-03-09T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-03-16T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-03-23T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-03-30T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-04-06T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK235-1 Strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-04-13T12:15:00+02:00",
+            "Length": 3
+        }
+    ]
+}

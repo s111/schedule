@@ -1,0 +1,39 @@
+{
+    "Name": "PVE102-1 Pedagogisk veil.",
+    "Id": "PVE102%2D1",
+    "Lectures": [
+        {
+            "Name": "PVE102-1 Pedagogisk veil. uke 11,17",
+            "Rooms": [
+                "KA U-136"
+            ],
+            "Lecturers": [
+                "Jernes Margrethe"
+            ],
+            "Date": "2015-03-12T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "PVE102-1 Pedagogisk veil. uke 11,17",
+            "Rooms": [
+                "KA U-136"
+            ],
+            "Lecturers": [
+                "Jernes Margrethe"
+            ],
+            "Date": "2015-04-23T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "PVE102-1 Pedagogisk veil. uke 4",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [
+                "Jernes Margrethe"
+            ],
+            "Date": "2015-01-22T09:15:00+01:00",
+            "Length": 6
+        }
+    ]
+}

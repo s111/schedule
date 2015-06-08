@@ -1,0 +1,32 @@
+{
+    "Name": "HIS370-1 Fordypn. oppg. hist",
+    "Id": "HIS370%2D1",
+    "Lectures": [
+        {
+            "Name": "HIS370-1 Fordypn. oppg. hist",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Berg Roald",
+                "Langeland Nils Rune",
+                "Nerheim Gunnar"
+            ],
+            "Date": "2015-01-05T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "HIS370-1 Fordypn. oppg. hist",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Berg Roald",
+                "Langeland Nils Rune",
+                "Nerheim Gunnar"
+            ],
+            "Date": "2015-04-13T10:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

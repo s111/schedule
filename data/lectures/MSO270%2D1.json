@@ -1,0 +1,24 @@
+{
+    "Name": "MSO270-1 Forskningsseminar",
+    "Id": "MSO270%2D1",
+    "Lectures": [
+        {
+            "Name": "MSO270-1 Uke 2 Forskningsseminar",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-09T09:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "MSO270-1 Uke 7 Forskningsseminar",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-13T09:15:00+01:00",
+            "Length": 5
+        }
+    ]
+}

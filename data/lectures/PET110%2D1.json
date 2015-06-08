@@ -1,0 +1,654 @@
+{
+    "Name": "PET110-1 GEOFYS\u0026BRØNNLOGGING",
+    "Id": "PET110%2D1",
+    "Lectures": [
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-19T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-26T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-02T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-09T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-16T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-23T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-01-06T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-01-13T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-01-20T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-01-27T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-02-03T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-02-10T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-02-17T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-02-24T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-03-03T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-03-10T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-03-17T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-03-24T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-03-31T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-04-07T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-04-14T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-04-21T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-04-28T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-102"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-06T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-102"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-13T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-102"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-20T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-102"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-27T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-102"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-03T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-102"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-10T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-102"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-17T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-102"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-24T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-102"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-01T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-01-05T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-01-12T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-01-19T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-01-26T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-02-02T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-02-09T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-02-16T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-02-23T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-03-02T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-03-09T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-03-16T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-03-23T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-03-30T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-04-06T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-04-13T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-04-20T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG lab",
+            "Rooms": [],
+            "Lecturers": [
+                "Siqveland Ola Ketil"
+            ],
+            "Date": "2015-04-27T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-23T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-30T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-06T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-13T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-20T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-27T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLNLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-04T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLNLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLNLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-18T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLNLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-25T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLNLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-01T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLNLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-08T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLNLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-15T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLNLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLNLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-29T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-03T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-17T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-24T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-31T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-07T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-14T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-21T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "PET110-1 GEOPHYS\u0026WELLLOGG",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-28T14:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

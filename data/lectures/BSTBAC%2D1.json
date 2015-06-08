@@ -1,0 +1,88 @@
+{
+    "Name": "BSTBAC-1 Bacheloroppgave",
+    "Id": "BSTBAC%2D1",
+    "Lectures": [
+        {
+            "Name": "BSTBAC-1 Bacheloroppgave uke 3",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Farsund Arild Aurvåg"
+            ],
+            "Date": "2015-01-12T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSTBAC-1 Bacheloroppgave uke 3",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Farsund Arild Aurvåg"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSTBAC-1 Bacheloroppgave uke 6",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Farsund Arild Aurvåg"
+            ],
+            "Date": "2015-02-06T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSTBAC-1 Bacheloroppgave uke 3",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Farsund Arild Aurvåg"
+            ],
+            "Date": "2015-01-12T11:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSTBAC-1 Bacheloroppgave uke 3",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Farsund Arild Aurvåg"
+            ],
+            "Date": "2015-01-13T11:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSTBAC-1 Bacheloroppgave uke 6",
+            "Rooms": [
+                "KA U-023",
+                "KA U-050",
+                "KA U-137",
+                "KA U-138",
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Farsund Arild Aurvåg"
+            ],
+            "Date": "2015-02-06T11:15:00+01:00",
+            "Length": 3
+        }
+    ]
+}

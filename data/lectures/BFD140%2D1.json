@@ -1,0 +1,87 @@
+{
+    "Name": "BFD140-1 Fysisk fostring",
+    "Id": "BFD140%2D1",
+    "Lectures": [
+        {
+            "Name": "BFD140-1 Uke 15 Fysisk fostring",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-09T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD140-1 Uke 18 Fysisk fostring",
+            "Rooms": [
+                "KA U-138",
+                "KA U-139"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-29T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD140-1 Uke 15 Fysisk fostring",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-08T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD140-1 Uke 11 Fysisk fostring",
+            "Rooms": [
+                "KA U-020",
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD 3.år deltid-1 Uke 3 Praksis-lærerdag \"eget opplegg\"",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-14T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BFD140-1 Uke 11 Fysisk fostring",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-12T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BFD140-1 Uke 3 Fysisk fostring",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD140-1 Uke 3 Fysisk fostring",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-14T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BFD 3.år deltid-1 Uke 11 Valg av fordypning",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-12T14:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

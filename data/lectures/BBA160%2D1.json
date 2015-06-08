@@ -1,0 +1,140 @@
+{
+    "Name": "BBA160-1 Barn og unges utvikl",
+    "Id": "BBA160%2D1",
+    "Lectures": [
+        {
+            "Name": "BBA160-1 Uke 3 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-16T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "BBA160-1 Uke 5 Barn og unges utvikl",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Bjørknes Linda Elisabeth"
+            ],
+            "Date": "2015-01-27T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA160-1 Uke 5 Barn og unges utvikl",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Bjørknes Linda Elisabeth"
+            ],
+            "Date": "2015-01-29T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA160-1 Uke 4 Barn og unges utvikl seminar grupper",
+            "Rooms": [
+                "KA U-023",
+                "KA U-017-Dramarom",
+                "KA U-048",
+                "KA U-049",
+                "KA U-050",
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Bjørknes Linda Elisabeth"
+            ],
+            "Date": "2015-01-23T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA160-1 Uke 2 Barn og unges utvikl seminar grupper",
+            "Rooms": [
+                "KA U-023",
+                "KA U-049",
+                "KA U-050",
+                "KA U-135",
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Bjørknes Linda Elisabeth"
+            ],
+            "Date": "2015-01-09T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA160-1 Uke 5 Barn og unges utvikl",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Bjørknes Linda Elisabeth"
+            ],
+            "Date": "2015-01-26T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA160-1 Uke 5 Barn og unges utvikl",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Bjørknes Linda Elisabeth"
+            ],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA160-1 Uke 2 Barn og unges utvikl  gr.arb.",
+            "Rooms": [
+                "KA U-023",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA U-043",
+                "KA U-048",
+                "KA U-134"
+            ],
+            "Lecturers": [
+                "Bjørknes Linda Elisabeth"
+            ],
+            "Date": "2015-01-08T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA160-1 Uke 3 Barn og unges utvikl  gr.arb.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Bjørknes Linda Elisabeth"
+            ],
+            "Date": "2015-01-15T12:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

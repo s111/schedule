@@ -1,0 +1,42 @@
+{
+    "Name": "BFD350-1 Samf.fag",
+    "Id": "BFD350%2D1",
+    "Lectures": [
+        {
+            "Name": "BFD350-1 Uke 18 Samf.fag",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-28T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD350-1 Uke 15 Samf.fag",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-10T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD350-1 Uke 11 Samf.fag",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-13T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD350-1 Uke 3 Samf.fag",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-16T08:15:00+01:00",
+            "Length": 4
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "Name": "BRV120-1 Juridisk metode I",
+    "Id": "BRV120%2D1",
+    "Lectures": [
+        {
+            "Name": "BRV120-1 Juridisk metode I uke 17",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-04-20T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "BRV120-1 Juridisk metode I uke 17",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-04-21T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "BRV120-1 Juridisk metode I uke 15",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-04-07T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "BRV120-1 Juridisk metode I uke 15",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-04-08T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "BRV120-1 Juridisk metode I uke 13",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-03-26T08:15:00+01:00",
+            "Length": 10
+        },
+        {
+            "Name": "BRV120-1 Juridisk metode I gr arb",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011"
+            ],
+            "Lecturers": [
+                "Monsen Erik"
+            ],
+            "Date": "2015-04-27T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRV120-1 Juridisk metode I gr arb",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011"
+            ],
+            "Lecturers": [
+                "Monsen Erik"
+            ],
+            "Date": "2015-05-04T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRV120-1 Juridisk metode I gr arb",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011"
+            ],
+            "Lecturers": [
+                "Monsen Erik"
+            ],
+            "Date": "2015-05-11T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRV120-1 Juridisk metode I uke 20",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-05-11T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRV120-1 Juridisk metode I uke 18",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-04-27T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRV120-1 Juridisk metode I uke 19",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-05-04T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRV120-1 Juridisk metode I uke 13",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-03-25T12:15:00+01:00",
+            "Length": 6
+        }
+    ]
+}

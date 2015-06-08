@@ -1,0 +1,86 @@
+{
+    "Name": "BBD120-1 SRE Deltid",
+    "Id": "BBD120%2D1",
+    "Lectures": [
+        {
+            "Name": "BBD120-1 SRE Uke 18 Deltid",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-01T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "BBD120-1 SRE Uke 10 Deltid",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-06T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "BBD120-1 SRE Uke 6 Deltid",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-02-06T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "BBD120-1 SRE Uke 2 Deltid",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-01-09T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "BBD120-1 SRE Uke 18 Deltid",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-30T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD120-1 SRE Uke 10 Deltid",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD120-1 SRE Uke 6 Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-02-05T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD120-1 SRE Uke 2 Deltid",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-01-08T12:15:00+01:00",
+            "Length": 4
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "Name": "BSO130-1 Profesjonelt sosialt",
+    "Id": "%23SPLUS520581",
+    "Lectures": [
+        {
+            "Name": "BSO130-1 Uke 5 Psykologi seminar",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Helgesen Leif Arne"
+            ],
+            "Date": "2015-01-27T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSO130-1 Uke 5 Psykologi seminar",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Helgesen Leif Arne"
+            ],
+            "Date": "2015-01-28T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSO130-1 Uke 5 Psykologi seminar",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Helgesen Leif Arne"
+            ],
+            "Date": "2015-01-29T09:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "BSO130-1 Uke 5 Psykologi seminar",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Helgesen Leif Arne"
+            ],
+            "Date": "2015-01-30T09:15:00+01:00",
+            "Length": 5
+        }
+    ]
+}

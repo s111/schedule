@@ -1,0 +1,42 @@
+{
+    "Name": "PUB100-1 PUB",
+    "Id": "PUB100%2D1",
+    "Lectures": [
+        {
+            "Name": "PUB100-1 Uke 22 PUB",
+            "Rooms": [
+                "KA U-136"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-27T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "PUB100-1 Uke 17  PUB",
+            "Rooms": [
+                "KA U-136"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "PUB100-1 Uke 11  PUB",
+            "Rooms": [
+                "KA U-136"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "PUB100-1 Uke 4 PUB",
+            "Rooms": [
+                "KA U-136"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 8
+        }
+    ]
+}

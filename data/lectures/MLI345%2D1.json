@@ -1,0 +1,186 @@
+{
+    "Name": "MLI345-1 Text Analysis",
+    "Id": "MLI345%2D1",
+    "Lectures": [
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-01-07T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-01-14T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-01-21T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-01-28T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-02-04T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-02-11T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-02-18T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-02-25T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-03-18T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-03-25T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-04-01T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-04-08T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-04-15T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-04-22T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "MLI345-1 Text Analysis",
+            "Rooms": [
+                "HG O-103"
+            ],
+            "Lecturers": [
+                "Drew Ion",
+                "Habegger-Conti Jena"
+            ],
+            "Date": "2015-04-29T09:15:00+02:00",
+            "Length": 3
+        }
+    ]
+}

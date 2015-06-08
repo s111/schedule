@@ -1,0 +1,94 @@
+{
+    "Name": "SAM500-1 Infrastr. og sårbarh",
+    "Id": "SAM500%2D1",
+    "Lectures": [
+        {
+            "Name": "SAM500-1 Infrastr. og sårbarh uke 17 prosjektpres",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Olsen Kjell Harald"
+            ],
+            "Date": "2015-04-23T08:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "SAM500-1 Infrastr. og sårbarh uke 04",
+            "Rooms": [
+                "KE D-302"
+            ],
+            "Lecturers": [
+                "Olsen Kjell Harald"
+            ],
+            "Date": "2015-01-22T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "SAM500-1 Infrastr. og sårbarh uke 02",
+            "Rooms": [
+                "KE D-302"
+            ],
+            "Lecturers": [
+                "Olsen Kjell Harald"
+            ],
+            "Date": "2015-01-08T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "SAM500-1 Infrastr. og sårbarh uke 05",
+            "Rooms": [
+                "KE D-302"
+            ],
+            "Lecturers": [
+                "Olsen Kjell Harald"
+            ],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "SAM500-1 Infrastr. og sårbarh uke 12",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Olsen Kjell Harald"
+            ],
+            "Date": "2015-03-19T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "SAM500-1 Infrastr. og sårbarh uke 11",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Olsen Kjell Harald"
+            ],
+            "Date": "2015-03-12T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "SAM500-1 Infrastr. og sårbarh uke 09",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Olsen Kjell Harald"
+            ],
+            "Date": "2015-02-26T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "SAM500-1 Infrastr. og sårbarh uke 07",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Olsen Kjell Harald"
+            ],
+            "Date": "2015-02-12T08:15:00+01:00",
+            "Length": 7
+        }
+    ]
+}

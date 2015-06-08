@@ -1,0 +1,165 @@
+{
+    "Name": "SVEXPHIL-2 ExPhil -IH",
+    "Id": "SVEXPHIL%2D2",
+    "Lectures": [
+        {
+            "Name": "SVEXPHIL-2  uke 18 ExPhil -IH",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Rehnman Sebastian"
+            ],
+            "Date": "2015-04-28T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "SVEXPHIL-2  uke 17 ExPhil -IH",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Rehnman Sebastian"
+            ],
+            "Date": "2015-04-21T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "SVEXPHIL-2  uke 16 ExPhil -IH",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Rehnman Sebastian"
+            ],
+            "Date": "2015-04-14T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "SVEXPHIL-2  uke 17 ExPhil -IH",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Rehnman Sebastian"
+            ],
+            "Date": "2015-04-22T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "SVEXPHIL-2  uke 18 ExPhil -IH",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Rehnman Sebastian"
+            ],
+            "Date": "2015-04-29T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "SVEXPHIL-2  uke 16 ExPhil -IH",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Rehnman Sebastian"
+            ],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "SVEXPHIL-2  uke 18 ExPhil -IH gr.arbeid",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Rehnman Sebastian"
+            ],
+            "Date": "2015-04-29T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "SVEXPHIL-2  uke 17 ExPhil -IH gr.arbeid",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Rehnman Sebastian"
+            ],
+            "Date": "2015-04-22T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "SVEXPHIL-2  uke 16 ExPhil -IH gr.arbeid",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Rehnman Sebastian"
+            ],
+            "Date": "2015-04-15T13:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

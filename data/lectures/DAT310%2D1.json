@@ -1,0 +1,369 @@
+{
+    "Name": "DAT310-1 WEBPROGRAMMERING",
+    "Id": "DAT310%2D1",
+    "Lectures": [
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING uke 2 og 4",
+            "Rooms": [
+                "HL A-117-datarom"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-01-09T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING uke 2 og 4",
+            "Rooms": [
+                "HL A-117-datarom"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-01-23T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-01-16T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-02-06T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-02-13T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-02-20T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-02-27T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-03-06T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-03-13T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-03-20T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-03-27T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-04-03T08:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-04-10T08:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-04-17T08:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-04-24T08:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-05-01T08:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-01-27T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-02-03T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-02-10T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-02-17T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-02-24T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-03-03T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-03-10T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-03-17T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-03-24T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-03-31T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-04-07T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-04-14T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-04-21T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-04-28T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "DAT310-1 WEBPROGRAMMERING uke 4",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Balog Krisztian"
+            ],
+            "Date": "2015-01-19T15:15:00+01:00",
+            "Length": 3
+        }
+    ]
+}

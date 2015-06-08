@@ -1,0 +1,431 @@
+{
+    "Name": "MUT204-1 Å studere praksis, f",
+    "Id": "MUT204%2D1",
+    "Lectures": [
+        {
+            "Name": "MUT204-1 Uke 3- Å studere praksis,",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-15T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-08T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-22T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-29T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-02-05T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-02-12T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-02-19T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-02-26T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-03-05T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-03-12T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-03-19T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-03-26T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-04-02T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-04-09T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-04-16T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-04-23T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-04-30T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Uke -3 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR G-101",
+                "AR V-205",
+                "AR V-206",
+                "AR V-207"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-15T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-08T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-22T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-29T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-02-05T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-02-12T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-02-19T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-02-26T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-03-05T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-03-12T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-03-19T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-03-26T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-04-02T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-04-09T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-04-16T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-04-23T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MUT204-1 Å studere praksis, f gr.rom",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-04-30T14:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

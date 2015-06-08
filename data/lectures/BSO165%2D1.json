@@ -1,0 +1,182 @@
+{
+    "Name": "BSO165-1 Velferdssamfunn, vel",
+    "Id": "BSO165%2D1",
+    "Lectures": [
+        {
+            "Name": "BSO165-1 Uke 21 Samf.økonomi",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Meland Eilef A."
+            ],
+            "Date": "2015-05-19T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 20 Samf.økonomi",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Meland Eilef A."
+            ],
+            "Date": "2015-05-12T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 19 Samf.økonomi",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Meland Eilef A."
+            ],
+            "Date": "2015-05-05T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 17 Samf.økonomi",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Meland Eilef A."
+            ],
+            "Date": "2015-04-21T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 16 Samf.økonomi",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Meland Eilef A."
+            ],
+            "Date": "2015-04-14T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 9 Sosialrett 1",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-02-24T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 21 Samf.økonomi",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Meland Eilef A."
+            ],
+            "Date": "2015-05-21T10:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSO165-1 Uke 15 Samf.økonomi",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Meland Eilef A."
+            ],
+            "Date": "2015-04-09T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 18 Samf.økonomi",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Meland Eilef A."
+            ],
+            "Date": "2015-04-30T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 11 Sosialrett 7",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-03-09T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 10 Sosialrett 5",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-03-04T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 10 Sosialrett 6",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-03-05T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 9 Sosialrett 2",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-02-26T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 10 Sosialrett 4",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-03-06T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 9 Sosialrett 3",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-02-27T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO165-1 Uke 11 Oppsum. oppg.seminar",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-03-12T13:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

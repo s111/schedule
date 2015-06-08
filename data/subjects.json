@@ -1,0 +1,1274 @@
+[
+    {
+        "Name": ".BBL100-1 BULL/SRLE Heltid",
+        "Id": "BBL100%2D1"
+    },
+    {
+        "Name": ".BBL110-1 NHB Heltid 1.",
+        "Id": "%23SPLUS88D47B"
+    },
+    {
+        "Name": ".BBL110-1 NHB Naturfag Heltid 1.",
+        "Id": "%23SPLUS88D464"
+    },
+    {
+        "Name": ".BBL110-1 NHB/Fys.fos. Heltid 1.",
+        "Id": "BBL110%2D1"
+    },
+    {
+        "Name": "BBA/BSOBACH- 5- Skrivekurs",
+        "Id": "%23SPLUS12B33A"
+    },
+    {
+        "Name": "BBA/BSOBACH- Forskingmetode",
+        "Id": "BBABAC%2D5"
+    },
+    {
+        "Name": "BBA160-1 Barn og unges utvikl",
+        "Id": "BBA160%2D1"
+    },
+    {
+        "Name": "BBA165-1 Velferdssamfunn, vel",
+        "Id": "%23SPLUSE297CF"
+    },
+    {
+        "Name": "BBA165-BSO-1 Velferdssamfunn, vel",
+        "Id": "BBA165%2D1"
+    },
+    {
+        "Name": "BBAP20-1 Praksis",
+        "Id": "BBAP20%2D1"
+    },
+    {
+        "Name": "BBD100-1 BULL Deltid",
+        "Id": "BBD100%2D1"
+    },
+    {
+        "Name": "BBD110-1 NHB Deltid",
+        "Id": "BBD110%2D1"
+    },
+    {
+        "Name": "BBD120-1 SRE Deltid",
+        "Id": "BBD120%2D1"
+    },
+    {
+        "Name": "BBD200-1 KKK Deltid",
+        "Id": "BBD200%2D1"
+    },
+    {
+        "Name": "BBL120-1 SRE Heltid",
+        "Id": "BBL120%2D1"
+    },
+    {
+        "Name": "BBL200-1 KKK Heltid",
+        "Id": "BBL200%2D1"
+    },
+    {
+        "Name": "BBL210-1 STM Heltid",
+        "Id": "BBL210%2D1"
+    },
+    {
+        "Name": "BFD102-2 Ped. 3.st.år",
+        "Id": "BFD102%2D2"
+    },
+    {
+        "Name": "BFD140-1 Fysisk fostring",
+        "Id": "BFD140%2D1"
+    },
+    {
+        "Name": "BFD230-1 Naturfag m miljølære",
+        "Id": "BFD230%2D1"
+    },
+    {
+        "Name": "BFD301-1 Org. og ledelse",
+        "Id": "BFD301%2D1"
+    },
+    {
+        "Name": "BFD350-1 Samf.fag",
+        "Id": "BFD350%2D1"
+    },
+    {
+        "Name": "BFØ301-1 Org. og ledelse",
+        "Id": "BF%D8301%2D1"
+    },
+    {
+        "Name": "BFØ305-1 Småbarnsped",
+        "Id": "BF%D8305%2D1"
+    },
+    {
+        "Name": "BFØ335-1 Komp. ped.1",
+        "Id": "BF%D8335%2D1"
+    },
+    {
+        "Name": "BFØ365-1 Forming fordypning",
+        "Id": "BF%D8365%2D1"
+    },
+    {
+        "Name": "BFØ380-1 Musikk fordypning",
+        "Id": "BF%D8380%2D1"
+    },
+    {
+        "Name": "BHO115-1 Stat. og metode",
+        "Id": "BHO115%2D1"
+    },
+    {
+        "Name": "BHO130-1 Serv.led. og serv.or",
+        "Id": "BHO130%2D1"
+    },
+    {
+        "Name": "BHO150-2 Bedr.øk. analyse",
+        "Id": "BHO150%2D2"
+    },
+    {
+        "Name": "BHO275-1 Markedsanalyse og ma",
+        "Id": "BHO275%2D1"
+    },
+    {
+        "Name": "BHO285-1 Vertskapsplanlegging",
+        "Id": "BHO285%2D1"
+    },
+    {
+        "Name": "BHO290-1 Pers.ledelse og komm",
+        "Id": "BHO290%2D1"
+    },
+    {
+        "Name": "BHO295-1 Operativ ledelse av",
+        "Id": "BHO295%2D1"
+    },
+    {
+        "Name": "BIO110-1 ANATOMI OG FYS. FOR",
+        "Id": "BIO110%2D1"
+    },
+    {
+        "Name": "BIO200-1 BIOKJEMI",
+        "Id": "BIO200%2D1"
+    },
+    {
+        "Name": "BIO210-1 BIOTEKNOLOGI",
+        "Id": "BIO210%2D1"
+    },
+    {
+        "Name": "BIO300-1 Sykdomslære",
+        "Id": "BIO300%2D1"
+    },
+    {
+        "Name": "BIO530-1 Forsknings- og indus",
+        "Id": "BIO530%2D1"
+    },
+    {
+        "Name": "BIO540-1 Protein biokj",
+        "Id": "BIO540%2D1"
+    },
+    {
+        "Name": "BIO560-1 Molekylær kreftbiolo",
+        "Id": "BIO560%2D1"
+    },
+    {
+        "Name": "BIO600-1 Næringsmiddelmikrob.",
+        "Id": "BIO600%2D1"
+    },
+    {
+        "Name": "BJO115-1 Journalistikk 2: Nyh",
+        "Id": "BJO115%2D1"
+    },
+    {
+        "Name": "BRE235-1 Intro til strategi",
+        "Id": "BRE235%2D1"
+    },
+    {
+        "Name": "BRE255-1 Makroøkonomi",
+        "Id": "BRE255%2D1"
+    },
+    {
+        "Name": "BRE260-1 Videregående re",
+        "Id": "BRE260%2D1"
+    },
+    {
+        "Name": "BRE320-2 Årsregnskap",
+        "Id": "BRE320%2D2"
+    },
+    {
+        "Name": "BRE330-2 Revisjonsteori og me",
+        "Id": "BRE330%2D2"
+    },
+    {
+        "Name": "BRE340-1 Skatterett",
+        "Id": "BRE340%2D1"
+    },
+    {
+        "Name": "BRL260-1 Reiselivsplanlegging",
+        "Id": "BRL260%2D1"
+    },
+    {
+        "Name": "BRL270-1 Attraksjonsutvikling",
+        "Id": "BRL270%2D1"
+    },
+    {
+        "Name": "BRL340-1 Talekunst og presen.",
+        "Id": "BRL340%2D1"
+    },
+    {
+        "Name": "BRV100-1 Familie og barnerett",
+        "Id": "BRV100%2D1"
+    },
+    {
+        "Name": "BRV110-1 Kontraktsrett I",
+        "Id": "BRV110%2D1"
+    },
+    {
+        "Name": "BRV120-1 Juridisk metode I",
+        "Id": "BRV120%2D1"
+    },
+    {
+        "Name": "BRV210-1 Forvaltningsrett II",
+        "Id": "BRV210%2D1"
+    },
+    {
+        "Name": "BRV220-1 Erstatningsrett",
+        "Id": "BRV220%2D1"
+    },
+    {
+        "Name": "BRV230-1 Intl menneskerettigh",
+        "Id": "BRV230%2D1"
+    },
+    {
+        "Name": "BRV310-1 Kontraktsrett II",
+        "Id": "BRV310%2D1"
+    },
+    {
+        "Name": "BSA145-1 Risikosamfunnet",
+        "Id": "BSA145%2D1"
+    },
+    {
+        "Name": "BSA240-1 Sårbarhet og teknolo",
+        "Id": "BSA240%2D1"
+    },
+    {
+        "Name": "BSA250-1 Kriser og samfunnssi",
+        "Id": "BSA250%2D1"
+    },
+    {
+        "Name": "BSA260-1 Risiko og BU",
+        "Id": "BSA260%2D1"
+    },
+    {
+        "Name": "BSN143-1 Sykepleiens samfunns",
+        "Id": "BSN143%2D1"
+    },
+    {
+        "Name": "BSO130-1 Profesjonelt sosialt",
+        "Id": "%23SPLUS520581"
+    },
+    {
+        "Name": "BSO130/BBA-160-1 Profesjonelt sosialt",
+        "Id": "BSO130%2D1"
+    },
+    {
+        "Name": "BSO165-1 Velferdssamfunn, vel",
+        "Id": "BSO165%2D1"
+    },
+    {
+        "Name": "BSOP20-2 Praksis",
+        "Id": "BSOP20%2D2"
+    },
+    {
+        "Name": "BSP250-1 Kjønn, kultur og sam",
+        "Id": "BSP250%2D1"
+    },
+    {
+        "Name": "BSS120-1 Forskningsteori",
+        "Id": "BSS120%2D1"
+    },
+    {
+        "Name": "BSS130-1 Samfunnsstruktur i",
+        "Id": "BSS130%2D1"
+    },
+    {
+        "Name": "BSS220-1 Helse-, miljø- og",
+        "Id": "BSS220%2D1"
+    },
+    {
+        "Name": "BSS235-1 Organisasjonsendring",
+        "Id": "BSS235%2D1"
+    },
+    {
+        "Name": "BSS270-1 Arbeidsrett",
+        "Id": "BSS270%2D1"
+    },
+    {
+        "Name": "BSS320-1 Arbeidslivssos",
+        "Id": "BSS320%2D1"
+    },
+    {
+        "Name": "BSSBAC-1 Bacheloroppgave",
+        "Id": "BSSBAC%2D1"
+    },
+    {
+        "Name": "BST120-1 Offentlig politikk o",
+        "Id": "BST120%2D1"
+    },
+    {
+        "Name": "BST130-1 Internasj. politikk",
+        "Id": "BST130%2D1"
+    },
+    {
+        "Name": "BST300-1 Velferdspolitikk",
+        "Id": "BST300%2D1"
+    },
+    {
+        "Name": "BSTBAC-1 Bacheloroppgave",
+        "Id": "BSTBAC%2D1"
+    },
+    {
+        "Name": "BSY/BSN-153-1 Legemiddelregning",
+        "Id": "BSY153%2D1"
+    },
+    {
+        "Name": "BSY/BSN-154-1 Sykepleiens samfunns",
+        "Id": "BSY154%2D1"
+    },
+    {
+        "Name": "BSY/BSN-242-1 Sykepl - akutt og",
+        "Id": "BSY242%2D1"
+    },
+    {
+        "Name": "BSY/BSN-341-1 Sykepl grunnlagstenk",
+        "Id": "BSY341%2D1"
+    },
+    {
+        "Name": "BSY/BSNP01-1 Praksisstudier sykep",
+        "Id": "BSYP01%2D1"
+    },
+    {
+        "Name": "BSYBAC-3 Bachelor oppg. i syk",
+        "Id": "BSYBAC%2D3"
+    },
+    {
+        "Name": "BYG102-1 BYGGMATGEOTEK",
+        "Id": "BYG102%2D1"
+    },
+    {
+        "Name": "BYG105-1 INTRO URBAN DESIGN",
+        "Id": "BYG105%2D1"
+    },
+    {
+        "Name": "BYG110-1 BYROMMET",
+        "Id": "BYG110%2D1"
+    },
+    {
+        "Name": "BYG125-1 VANNAVLØP",
+        "Id": "BYG125%2D1"
+    },
+    {
+        "Name": "BYG140-1 KONSMEK 1",
+        "Id": "BYG140%2D1"
+    },
+    {
+        "Name": "BYG210-1 BYGNINGSFYSIKK",
+        "Id": "BYG210%2D1"
+    },
+    {
+        "Name": "BYG215-1 BYUTVIKLING",
+        "Id": "BYG215%2D1"
+    },
+    {
+        "Name": "BYG220-1 BETONGKONS",
+        "Id": "BYG220%2D1"
+    },
+    {
+        "Name": "BYG520-1 NATURLASTER",
+        "Id": "BYG520%2D1"
+    },
+    {
+        "Name": "BYG530-1 Plastic analysis",
+        "Id": "BYG530%2D1"
+    },
+    {
+        "Name": "BYG610-1 Regional urbaniserin",
+        "Id": "BYG610%2D1"
+    },
+    {
+        "Name": "BYG640-1 Byutviklingsprosjekt",
+        "Id": "BYG640%2D1"
+    },
+    {
+        "Name": "BYGBBAC-1 BACHELOROPPG BYGG-BY",
+        "Id": "BYGBBAC%2D1"
+    },
+    {
+        "Name": "BYGKBAC-1 BACHOPPGAVE BYGG KON",
+        "Id": "BYGKBAC%2D1"
+    },
+    {
+        "Name": "BYGTBAC-1 BACHELOROPPG BYGG-TE",
+        "Id": "BYGTBAC%2D1"
+    },
+    {
+        "Name": "BØK103-1 Økonomistyring",
+        "Id": "B%D8K103%2D1"
+    },
+    {
+        "Name": "BØK104-1 Statistikk",
+        "Id": "B%D8K104%2D1"
+    },
+    {
+        "Name": "BØK225-1 Org. og ledelse",
+        "Id": "B%D8K225%2D1"
+    },
+    {
+        "Name": "BØK235-1 Strategi",
+        "Id": "B%D8K235%2D1"
+    },
+    {
+        "Name": "BØK255-1 Makroøkonomi",
+        "Id": "B%D8K255%2D1"
+    },
+    {
+        "Name": "BØK275-1 Rettslære-revisoreks",
+        "Id": "B%D8K275%2D1"
+    },
+    {
+        "Name": "BØK285-1 Financial markets.",
+        "Id": "B%D8K285%2D1"
+    },
+    {
+        "Name": "BØK310-1 Personlig økonomi",
+        "Id": "B%D8K310%2D1"
+    },
+    {
+        "Name": "BØK350-1 Operation Management",
+        "Id": "B%D8K350%2D1"
+    },
+    {
+        "Name": "BØK375-1 International Busine",
+        "Id": "B%D8K375%2D1"
+    },
+    {
+        "Name": "BØK395-1 Consumer",
+        "Id": "B%D8K395%2D1"
+    },
+    {
+        "Name": "DAT100-1 PROG",
+        "Id": "DAT100%2D1"
+    },
+    {
+        "Name": "DAT220-1 DATABASER",
+        "Id": "DAT220%2D1"
+    },
+    {
+        "Name": "DAT230-1 Komtek 1",
+        "Id": "DAT230%2D1"
+    },
+    {
+        "Name": "DAT310-1 WEBPROGRAMMERING",
+        "Id": "DAT310%2D1"
+    },
+    {
+        "Name": "DAT520-1 DIST. SYSTEM",
+        "Id": "DAT520%2D1"
+    },
+    {
+        "Name": "DAT600-1 ALGORITMETEORI",
+        "Id": "DAT600%2D1"
+    },
+    {
+        "Name": "DATBAC-1 BACH.OPPG. DATA",
+        "Id": "DATBAC%2D1"
+    },
+    {
+        "Name": "DSP100-3 Phd-kurs i vitensk",
+        "Id": "DSP100%2D3"
+    },
+    {
+        "Name": "EIS100-1 Norsk kultur \u0026 utd.",
+        "Id": "EIS100%2D1"
+    },
+    {
+        "Name": "EIS120-2 Mus. over grensene 1",
+        "Id": "EIS120%2D2"
+    },
+    {
+        "Name": "ELE100-1 Elektronikk 1",
+        "Id": "ELE100%2D1"
+    },
+    {
+        "Name": "ELE220-1 INSTR.TEK",
+        "Id": "ELE220%2D1"
+    },
+    {
+        "Name": "ELE300-1 SIGNALER OG SYSTEMER",
+        "Id": "ELE300%2D1"
+    },
+    {
+        "Name": "ELE520-1 MØNSTERGJENKJENNING",
+        "Id": "ELE520%2D1"
+    },
+    {
+        "Name": "ELE600-1 VIDEREGÅENDE REGULER",
+        "Id": "ELE600%2D1"
+    },
+    {
+        "Name": "ELE610-1 PROJ ROB",
+        "Id": "ELE610%2D1"
+    },
+    {
+        "Name": "ELEBAC-1 BACHELOROPPG. ELEK",
+        "Id": "ELEBAC%2D1"
+    },
+    {
+        "Name": "EMM221-1 Migration and Integr",
+        "Id": "EMM221%2D1"
+    },
+    {
+        "Name": "ENG175/LENG175-1 Am. litteratur",
+        "Id": "ENG175%2D1"
+    },
+    {
+        "Name": "ENG195/LENG195-1 English Phonology",
+        "Id": "ENG195%2D1"
+    },
+    {
+        "Name": "ENG370-1 Fordypningsoppg. eng",
+        "Id": "ENG370%2D1"
+    },
+    {
+        "Name": "FIN100-2 Matematikk - Forkurs",
+        "Id": "FIN100%2D2"
+    },
+    {
+        "Name": "FIN101-1 Matematikk - Forkurs",
+        "Id": "FIN101%2D1"
+    },
+    {
+        "Name": "FIN110-3 Norsk - Forkurs ing",
+        "Id": "FIN110%2D3"
+    },
+    {
+        "Name": "FIN120-3 Norsk for fremmedspr",
+        "Id": "FIN120%2D3"
+    },
+    {
+        "Name": "FIN130-1 Fysikk - Forkurs ing",
+        "Id": "FIN130%2D1"
+    },
+    {
+        "Name": "FIN131 Fysikk forkurs",
+        "Id": "%23SPLUSA8DFE1"
+    },
+    {
+        "Name": "FIN170-2 Teknol - Forkurs",
+        "Id": "FIN170%2D2"
+    },
+    {
+        "Name": "FYS210-1 FYSIKKLAB",
+        "Id": "FYS210%2D1"
+    },
+    {
+        "Name": "FYS300-1 ELMAG",
+        "Id": "FYS300%2D1"
+    },
+    {
+        "Name": "FYS310-1 STATFASTFYS",
+        "Id": "FYS310%2D1"
+    },
+    {
+        "Name": "FYS520-1 PETROLEUMSFYSIKK",
+        "Id": "FYS520%2D1"
+    },
+    {
+        "Name": "FYS600-1 Generell relativitet",
+        "Id": "FYS600%2D1"
+    },
+    {
+        "Name": "FYS610-1 Mangepartikkel kvant",
+        "Id": "FYS610%2D1"
+    },
+    {
+        "Name": "FYS620-1 RØNTGENFYS",
+        "Id": "FYS620%2D1"
+    },
+    {
+        "Name": "GEO100-1 GEOLOGI",
+        "Id": "GEO100%2D1"
+    },
+    {
+        "Name": "GEO260-1 GEOSCIENCE SEMINAR",
+        "Id": "GEO260%2D1"
+    },
+    {
+        "Name": "GEO530-1 DA\u0026G",
+        "Id": "GEO530%2D1"
+    },
+    {
+        "Name": "GEO540-1 3D STRUKTURELL OG GE",
+        "Id": "GEO540%2D1"
+    },
+    {
+        "Name": "GEO600-1 SEISMIC INTERPRETATI",
+        "Id": "GEO600%2D1"
+    },
+    {
+        "Name": "GEOBAC-1 BACH.OPPG. PETGEO",
+        "Id": "GEOBAC%2D1"
+    },
+    {
+        "Name": "GLU0001-1 Obl. Drama  5-10 1.år 2.sem  Matematikk",
+        "Id": "%23SPLUSBFD85F"
+    },
+    {
+        "Name": "GLU0001-1 Obl. Drama  5-10 1.år 2.sem.norsk",
+        "Id": "%23SPLUSBFD85E"
+    },
+    {
+        "Name": "GLU0001-1 Obl. Drama 1-7 1.år",
+        "Id": "GLU0001%2D1"
+    },
+    {
+        "Name": "GLU0083-1 Drama 2",
+        "Id": "GLU0083%2D1"
+    },
+    {
+        "Name": "GLU1032/2032-1 Eng 1, em1 (1.-7/5-10)",
+        "Id": "GLU1032%2D1"
+    },
+    {
+        "Name": "GLU1041-42/2041-421 RLE, emne 1 (1.-7/5-10)",
+        "Id": "GLU1041%2D1"
+    },
+    {
+        "Name": "GLU1060-2060-1 Kroppsøving 1 (1.-7",
+        "Id": "GLU1060%2D1"
+    },
+    {
+        "Name": "GLU1071-2071-1 Musikk 1 - e. 2 (1-7/5-10",
+        "Id": "GLU1071%2D1"
+    },
+    {
+        "Name": "GLU1080-83/2080-83-1 Nat.1. biolo(5.-10.)",
+        "Id": "GLU2080%2D1"
+    },
+    {
+        "Name": "GLU1111-1 Matematikk 1- emne 2",
+        "Id": "GLU1111%2D1"
+    },
+    {
+        "Name": "GLU1120-1 Norsk 1 - emne1",
+        "Id": "GLU1120%2D1"
+    },
+    {
+        "Name": "GLU1300-1 PEL 3. år (1. - 7.)",
+        "Id": "GLU1300%2D1"
+    },
+    {
+        "Name": "GLU1340-1 PEL 4 - BA-oppg.",
+        "Id": "GLU1340%2D1"
+    },
+    {
+        "Name": "GLU2051-1 Samfunnsfag 2 (5.-10",
+        "Id": "GLU2051%2D1"
+    },
+    {
+        "Name": "GLU2060-1 Kroppsøving 1 (5.-10",
+        "Id": "GLU2060%2D1"
+    },
+    {
+        "Name": "GLU2113-1 Matematikk 1 (5.-10.",
+        "Id": "GLU2113%2D1"
+    },
+    {
+        "Name": "GLU2121-1 Norsk 1 - emne 2",
+        "Id": "GLU2121%2D1"
+    },
+    {
+        "Name": "GLU2122-1 Norsk 2 - emne 1",
+        "Id": "GLU2122%2D1"
+    },
+    {
+        "Name": "GLU2300-1 PEL 3. år (5. - 10.)",
+        "Id": "GLU2300%2D1"
+    },
+    {
+        "Name": "HIS165-1 Moderne historie",
+        "Id": "HIS165%2D1"
+    },
+    {
+        "Name": "HIS175-1 Hva er historie?",
+        "Id": "HIS175%2D1"
+    },
+    {
+        "Name": "HIS370-1 Fordypn. oppg. hist",
+        "Id": "HIS370%2D1"
+    },
+    {
+        "Name": "HNO200-1 Norsk språk, tr 1-2",
+        "Id": "HNO200%2D1"
+    },
+    {
+        "Name": "IDR101-2 Idrett- samfunn",
+        "Id": "IDR101%2D2"
+    },
+    {
+        "Name": "IDR105-3 Treningslære 2",
+        "Id": "IDR105%2D3"
+    },
+    {
+        "Name": "IDR107-120-1 Friluftsliv:Tradisj",
+        "Id": "IDR107%2D1"
+    },
+    {
+        "Name": "IDR115-1 Aktivitetslære",
+        "Id": "IDR115%2D1"
+    },
+    {
+        "Name": "IND520-1 Beslutningsan.",
+        "Id": "IND520%2D1"
+    },
+    {
+        "Name": "IND530-1 Kontraktstrategi",
+        "Id": "IND530%2D1"
+    },
+    {
+        "Name": "IND540-1 Avtalerett",
+        "Id": "IND540%2D1"
+    },
+    {
+        "Name": "IND600-1 PROJECT MANAGEMENT 2",
+        "Id": "IND600%2D1"
+    },
+    {
+        "Name": "ING200-1 TEKNOLOGILEDELSE",
+        "Id": "ING200%2D1"
+    },
+    {
+        "Name": "KJE150-1 GENERELL KJEMI",
+        "Id": "KJE150%2D1"
+    },
+    {
+        "Name": "KJE240-1 Analytisk miljøkjemi",
+        "Id": "KJE240%2D1"
+    },
+    {
+        "Name": "KJEBAC-1 BACHELOROPPGAVE KJEM",
+        "Id": "KJEBAC%2D1"
+    },
+    {
+        "Name": "M- Anestesi/operasjon/intensiv",
+        "Id": "%23SPLUS81AB3E"
+    },
+    {
+        "Name": "MAFBAC-1 BACHOPPG",
+        "Id": "MAFBAC%2D1"
+    },
+    {
+        "Name": "MAT200-1 MATEMATISKE MET. 2",
+        "Id": "MAT200%2D1"
+    },
+    {
+        "Name": "MAT210-1 Reell og kompleks ka",
+        "Id": "MAT210%2D1"
+    },
+    {
+        "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+        "Id": "MAT230%2D1"
+    },
+    {
+        "Name": "MAT240-1 MATEMATIKKENS HISTOR",
+        "Id": "MAT240%2D1"
+    },
+    {
+        "Name": "MAT320-1 DIFFLIGNINGER",
+        "Id": "MAT320%2D1"
+    },
+    {
+        "Name": "MAT600-1 Topologi og sym",
+        "Id": "MAT600%2D1"
+    },
+    {
+        "Name": "MAT610-1 Matematisk ana II",
+        "Id": "MAT610%2D1"
+    },
+    {
+        "Name": "MAT620-1 KROPPSTEORI",
+        "Id": "MAT620%2D1"
+    },
+    {
+        "Name": "MBV125-1 Barnet i barnehagen",
+        "Id": "MBV125%2D1"
+    },
+    {
+        "Name": "MBV160-170-1 Vitenskapsteori og f",
+        "Id": "MBV160%2D1"
+    },
+    {
+        "Name": "MEM100-1 Children, Youth and",
+        "Id": "MEM100%2D1"
+    },
+    {
+        "Name": "MEM110-1 Welfare state and",
+        "Id": "MEM110%2D1"
+    },
+    {
+        "Name": "MEM110/MSO121- velferdspolitikk/ Welfare stat",
+        "Id": "%23SPLUS937892"
+    },
+    {
+        "Name": "MEN135-1 Endringsledelse II",
+        "Id": "MEN135%2D1"
+    },
+    {
+        "Name": "MEN145-1 Ledelse, bære",
+        "Id": "MEN145%2D1"
+    },
+    {
+        "Name": "MEN165-1 Endringsled fra teor",
+        "Id": "MEN165%2D1"
+    },
+    {
+        "Name": "MEN255-1 Ledelse og rettslig",
+        "Id": "MEN255%2D1"
+    },
+    {
+        "Name": "MHI330-1 Historisk fagteori..",
+        "Id": "MHI330%2D1"
+    },
+    {
+        "Name": "MHI345-1 Historievit. afri.",
+        "Id": "MHI345%2D1"
+    },
+    {
+        "Name": "MHIMAS-1 Masteroppgave",
+        "Id": "MHIMAS%2D1"
+    },
+    {
+        "Name": "MHR195-1 Diversity Management",
+        "Id": "MHR195%2D1"
+    },
+    {
+        "Name": "MHR210-1 Event and Meeting Ma",
+        "Id": "MHR210%2D1"
+    },
+    {
+        "Name": "MHR220-2 Turisme: Teori",
+        "Id": "MHR220%2D2"
+    },
+    {
+        "Name": "MHV/MSO-Forskningstorget",
+        "Id": "%23SPLUS81AB51"
+    },
+    {
+        "Name": "MHV141-1 Brukermedvirkning; s",
+        "Id": "MHV141%2D1"
+    },
+    {
+        "Name": "MHV142-1 Forskningsmetode",
+        "Id": "MHV142%2D1"
+    },
+    {
+        "Name": "MHVMAS-1 Masteroppgave i hels",
+        "Id": "MHVMAS%2D1"
+    },
+    {
+        "Name": "MHVP-1 Faglige perspektiver",
+        "Id": "MHVPP10%2D1"
+    },
+    {
+        "Name": "MHVP201-1 Grunnlagsforst. psy",
+        "Id": "MHVP201%2D1"
+    },
+    {
+        "Name": "MHVPMAS/MHVRMAS-1 M-oppg i helsv",
+        "Id": "MHVPMAS%2D1"
+    },
+    {
+        "Name": "MHVR201-202-1 Rusmidler/rusmiddelb",
+        "Id": "MHVR201%2D1"
+    },
+    {
+        "Name": "MKK150-1 Kjønn, kultur",
+        "Id": "MKK150%2D1"
+    },
+    {
+        "Name": "MLE345-1 Skriftspråk",
+        "Id": "MLE345%2D1"
+    },
+    {
+        "Name": "MLEMAS-1 Masteroppgåve",
+        "Id": "MLEMAS%2D1"
+    },
+    {
+        "Name": "MLI315-1 English Writing",
+        "Id": "MLI315%2D1"
+    },
+    {
+        "Name": "MLI335-1 1st and 2nd lang",
+        "Id": "MLI335%2D1"
+    },
+    {
+        "Name": "MLI345-1 Text Analysis",
+        "Id": "MLI345%2D1"
+    },
+    {
+        "Name": "MLIMAS-1 Dissert. oral exam",
+        "Id": "MLIMAS%2D1"
+    },
+    {
+        "Name": "MLJ550-1 Videregående organis",
+        "Id": "MLJ550%2D1"
+    },
+    {
+        "Name": "MLJ600-1 INTERFACIAL CHEM.",
+        "Id": "MLJ600%2D1"
+    },
+    {
+        "Name": "MLJ610-1 Vannteknologi og mem",
+        "Id": "MLJ610%2D1"
+    },
+    {
+        "Name": "MLJ620-1 Renseteknikk",
+        "Id": "MLJ620%2D1"
+    },
+    {
+        "Name": "MLJ630-1 Separasjonstekno",
+        "Id": "MLJ630%2D1"
+    },
+    {
+        "Name": "MSA125-1 Krisehåndtering",
+        "Id": "MSA125%2D1"
+    },
+    {
+        "Name": "MSA270-1 Internasjonale human",
+        "Id": "MSA270%2D1"
+    },
+    {
+        "Name": "MSA290-1 Oppgaveseminar",
+        "Id": "MSA290%2D1"
+    },
+    {
+        "Name": "MSK210-1 MASKINKONS",
+        "Id": "MSK210%2D1"
+    },
+    {
+        "Name": "MSK220-1 PRODUKTOG3D",
+        "Id": "MSK220%2D1"
+    },
+    {
+        "Name": "MSK500-1 Offshore Materials",
+        "Id": "MSK500%2D1"
+    },
+    {
+        "Name": "MSK510-1 Elektronmikroskopi",
+        "Id": "MSK510%2D1"
+    },
+    {
+        "Name": "MSK520-1 Korrosjon",
+        "Id": "MSK520%2D1"
+    },
+    {
+        "Name": "MSK530-1 Mechanics of Solids,",
+        "Id": "MSK530%2D1"
+    },
+    {
+        "Name": "MSK600-1 CFD",
+        "Id": "MSK600%2D1"
+    },
+    {
+        "Name": "MSKBAC-1 BACH.OPPG. MASKIN",
+        "Id": "MSKBAC%2D1"
+    },
+    {
+        "Name": "MSO121-2 Velferdspolitikk",
+        "Id": "MSO121%2D2"
+    },
+    {
+        "Name": "MSO130-2 Forskningsmetoder",
+        "Id": "MSO130%2D2"
+    },
+    {
+        "Name": "MSO150-2 Samhandling og kommu",
+        "Id": "MSO150%2D2"
+    },
+    {
+        "Name": "MSO190-1 Barn, ungdom og medv",
+        "Id": "MSO190%2D1"
+    },
+    {
+        "Name": "MSO230-1 Avvik, ondskap, mv",
+        "Id": "MSO230%2D1"
+    },
+    {
+        "Name": "MSO270-1 Forskningsseminar",
+        "Id": "MSO270%2D1"
+    },
+    {
+        "Name": "MUT204-1 Å studere praksis, f",
+        "Id": "MUT204%2D1"
+    },
+    {
+        "Name": "MUT205-1 Utagerende og sosia",
+        "Id": "MUT205%2D1"
+    },
+    {
+        "Name": "MUT206-1 Intro.Iese- og skriv",
+        "Id": "MUT206%2D1"
+    },
+    {
+        "Name": "MUT207-1 Lese- og skrivevansk",
+        "Id": "MUT207%2D1"
+    },
+    {
+        "Name": "MUT302-1 Matem. historie for",
+        "Id": "MUT302%2D1"
+    },
+    {
+        "Name": "MUT303-1 Underv.kval. i matem",
+        "Id": "MUT303%2D1"
+    },
+    {
+        "Name": "MUT402-1 Litt.i det flerkultu",
+        "Id": "MUT402%2D1"
+    },
+    {
+        "Name": "MUT403-1 Saktekster",
+        "Id": "MUT403%2D1"
+    },
+    {
+        "Name": "MUT502-1 Utd.og samf. - kr.øv",
+        "Id": "MUT502%2D1"
+    },
+    {
+        "Name": "MØA185-1 Strategic Sourcing",
+        "Id": "M%D8A185%2D1"
+    },
+    {
+        "Name": "MØA205-1 Investments",
+        "Id": "M%D8A205%2D1"
+    },
+    {
+        "Name": "MØA220-2 Fin. statement anal.",
+        "Id": "M%D8A220%2D2"
+    },
+    {
+        "Name": "MØA280-1 Empirical Labor Econ",
+        "Id": "M%D8A280%2D1"
+    },
+    {
+        "Name": "MØA285-1 Energy Markets",
+        "Id": "M%D8A285%2D1"
+    },
+    {
+        "Name": "MØA290-1 Applied game theory",
+        "Id": "M%D8A290%2D1"
+    },
+    {
+        "Name": "MØA295-1 Empirical Methods",
+        "Id": "M%D8A295%2D1"
+    },
+    {
+        "Name": "MØA310-1 Corporate Finance",
+        "Id": "M%D8A310%2D1"
+    },
+    {
+        "Name": "MØA415-1 KnowEntre",
+        "Id": "M%D8A415%2D1"
+    },
+    {
+        "Name": "NOR115-1 Nordisk språk",
+        "Id": "NOR115%2D1"
+    },
+    {
+        "Name": "NOR165-1 Tekst og tolkning",
+        "Id": "NOR165%2D1"
+    },
+    {
+        "Name": "NOR370-1 Fordypn. oppg. nord.",
+        "Id": "NOR370%2D1"
+    },
+    {
+        "Name": "NSP100-2 Småbarnsped",
+        "Id": "NSP100%2D2"
+    },
+    {
+        "Name": "OFF510-1 Operations and maint",
+        "Id": "OFF510%2D1"
+    },
+    {
+        "Name": "OFF540-1 Condition monitoring",
+        "Id": "OFF540%2D1"
+    },
+    {
+        "Name": "OFF560-1 Decision Engineering",
+        "Id": "OFF560%2D1"
+    },
+    {
+        "Name": "OFF580-1 Marine Techn/design",
+        "Id": "OFF580%2D1"
+    },
+    {
+        "Name": "PET110-1 GEOFYS\u0026BRØNNLOGGING",
+        "Id": "PET110%2D1"
+    },
+    {
+        "Name": "PET120-1 RESERVOARTEKNIKK",
+        "Id": "PET120%2D1"
+    },
+    {
+        "Name": "PET525-1 Advanced drilling",
+        "Id": "PET525%2D1"
+    },
+    {
+        "Name": "PET530-1 Management and drill",
+        "Id": "PET530%2D1"
+    },
+    {
+        "Name": "PET535-1 MODERN WELL DESIGN",
+        "Id": "PET535%2D1"
+    },
+    {
+        "Name": "PET540-1 Nat. Gas Eng.",
+        "Id": "PET540%2D1"
+    },
+    {
+        "Name": "PET545-1 Gas Value Chain",
+        "Id": "PET545%2D1"
+    },
+    {
+        "Name": "PET550-1 Process \u0026 Transport",
+        "Id": "PET550%2D1"
+    },
+    {
+        "Name": "PET560-1 Improved Recovery",
+        "Id": "PET560%2D1"
+    },
+    {
+        "Name": "PET565-1 Kjerneskalamodeller",
+        "Id": "PET565%2D1"
+    },
+    {
+        "Name": "PET570-1 Reservoarkjemi",
+        "Id": "PET570%2D1"
+    },
+    {
+        "Name": "PETBAC-1 BACHELOROPPGAVE",
+        "Id": "PETBAC%2D1"
+    },
+    {
+        "Name": "PPU112-1 Ped: Ledelse av...",
+        "Id": "PPU112%2D1"
+    },
+    {
+        "Name": "PPU114-1 Læring",
+        "Id": "PPU114%2D1"
+    },
+    {
+        "Name": "PPU132-1 Eng. fagdid. del 2",
+        "Id": "PPU132%2D1"
+    },
+    {
+        "Name": "PPU134-1 Samf. fagdid. del 2",
+        "Id": "PPU134%2D1"
+    },
+    {
+        "Name": "PPU137-1 Norsk fagdid. del 2",
+        "Id": "PPU137%2D1"
+    },
+    {
+        "Name": "PPU139-1 Rel. fagdid. del 2",
+        "Id": "PPU139%2D1"
+    },
+    {
+        "Name": "PPU142-1 Fr.spr. fagdid. 2",
+        "Id": "PPU142%2D1"
+    },
+    {
+        "Name": "PPU144-1 Matem. fagdid. del 2",
+        "Id": "PPU144%2D1"
+    },
+    {
+        "Name": "PPU146-1 Nat.fag. fagdid. 2",
+        "Id": "PPU146%2D1"
+    },
+    {
+        "Name": "PPU180-1 Kroppsøving fagdidak",
+        "Id": "PPU180%2D1"
+    },
+    {
+        "Name": "PPU200/240-1 Spes.y.did.formgivn.",
+        "Id": "PPU240%2D1"
+    },
+    {
+        "Name": "PPU220-1 Spes.y.did-Teknisk industriell prod.",
+        "Id": "PPU220%2D1"
+    },
+    {
+        "Name": "PUB100-1 PUB",
+        "Id": "PUB100%2D1"
+    },
+    {
+        "Name": "PVE102-1 Pedagogisk veil.",
+        "Id": "PVE102%2D1"
+    },
+    {
+        "Name": "REL165/LREL165-1 Etikk og livssyn",
+        "Id": "REL165%2D1"
+    },
+    {
+        "Name": "REL175-1 Hinduisme, buddhisme",
+        "Id": "REL175%2D1"
+    },
+    {
+        "Name": "RIS510-1 Pålitelighetsanalyse",
+        "Id": "RIS510%2D1"
+    },
+    {
+        "Name": "RIS530-1 Helhetlig ris.styrin",
+        "Id": "RIS530%2D1"
+    },
+    {
+        "Name": "SAM500-1 Infrastr. og sårbarh",
+        "Id": "SAM500%2D1"
+    },
+    {
+        "Name": "STA100-1 SANNS-STAT-1",
+        "Id": "STA100%2D1"
+    },
+    {
+        "Name": "STA600-1 Generaliserte lineær",
+        "Id": "STA600%2D1"
+    },
+    {
+        "Name": "SVEXPHIL-2 ExPhil -IH",
+        "Id": "SVEXPHIL%2D2"
+    },
+    {
+        "Name": "TN900-1 Vitenskapsteori og e",
+        "Id": "TN900%2D1"
+    },
+    {
+        "Name": "TN910-1 Innovasjon og prosje",
+        "Id": "TN910%2D1"
+    },
+    {
+        "Name": "VGS340-1 Teknologi",
+        "Id": "VGS340%2D1"
+    },
+    {
+        "Name": "VHE121-1 Helsesøstertj, barn",
+        "Id": "VHE121%2D1"
+    },
+    {
+        "Name": "VKK120-VKKP10-1 Veiledningsteori II",
+        "Id": "VKK120%2D1"
+    },
+    {
+        "Name": "VKS110-1 Kreftsykepleie 1",
+        "Id": "VKS110%2D1"
+    },
+    {
+        "Name": "YMF110-1 REALFAG 2",
+        "Id": "YMF110%2D1"
+    },
+    {
+        "Name": "ÅKH102-105-106-1 K \u0026 H 1",
+        "Id": "%C5KH102%2D1"
+    }
+]

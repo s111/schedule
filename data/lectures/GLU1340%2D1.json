@@ -1,0 +1,81 @@
+{
+    "Name": "GLU1340-1 PEL 4 - BA-oppg.",
+    "Id": "GLU1340%2D1",
+    "Lectures": [
+        {
+            "Name": "GLU1340-1 PEL 4 - BA-oppg. bibl.kurs uke 3",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-12T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "GLU1340-1 PEL 4 - BA-oppg. uke 4",
+            "Rooms": [
+                "KA U-049",
+                "KA U-136",
+                "KA U-137",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-20T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "GLU1340-1 PEL 4 - BA-oppg. uke 2",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-06T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "GLU1340-1 PEL 4 - BA-oppg.  uke 4",
+            "Rooms": [
+                "KA U-020",
+                "KA U-049",
+                "KA U-135",
+                "KA U-136"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-22T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "GLU1340-1 PEL 4 - BA-oppg.  uke 3",
+            "Rooms": [
+                "KA U-021",
+                "KA U-049",
+                "KA U-137",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "GLU1340-1 PEL 4 - BA-oppg. uke 5",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Moen Vegard"
+            ],
+            "Date": "2015-01-27T09:15:00+01:00",
+            "Length": 3
+        }
+    ]
+}

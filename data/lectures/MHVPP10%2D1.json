@@ -1,0 +1,117 @@
+{
+    "Name": "MHVP-1 Faglige perspektiver",
+    "Id": "MHVPP10%2D1",
+    "Lectures": [
+        {
+            "Name": "MHVP-1 Faglige perspektiver",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Rovik Anne Marie"
+            ],
+            "Date": "2015-01-12T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MHVP-1 Faglige perspektiver",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Rovik Anne Marie"
+            ],
+            "Date": "2015-01-05T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MHVP-1 Faglige perspektiver",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Rovik Anne Marie"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MHVP-1 Faglige perspektiver",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Rovik Anne Marie"
+            ],
+            "Date": "2015-01-06T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MHVP-1 Faglige perspektiver",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Rovik Anne Marie"
+            ],
+            "Date": "2015-01-14T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MHVP-1 Faglige perspektiver",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Rovik Anne Marie"
+            ],
+            "Date": "2015-01-07T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MHVP-1 Faglige perspektiver",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Rovik Anne Marie"
+            ],
+            "Date": "2015-01-15T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MHVP-1 Faglige perspektiver",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Rovik Anne Marie"
+            ],
+            "Date": "2015-01-08T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MHVP-1 Faglige perspektiver",
+            "Rooms": [
+                "KA U-134",
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Rovik Anne Marie"
+            ],
+            "Date": "2015-01-05T11:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MHVP-1 Faglige perspektiver veil.",
+            "Rooms": [
+                "KA U-137"
+            ],
+            "Lecturers": [
+                "Rovik Anne Marie"
+            ],
+            "Date": "2015-01-15T12:15:00+01:00",
+            "Length": 3
+        }
+    ]
+}

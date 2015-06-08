@@ -1,0 +1,94 @@
+{
+    "Name": "MSA125-1 Krisehåndtering",
+    "Id": "MSA125%2D1",
+    "Lectures": [
+        {
+            "Name": "MSA125-1 Krisehåndtering uke 11",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-03-09T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MSA125-1 Krisehåndtering",
+            "Rooms": [
+                "KE D-302"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-01-12T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MSA125-1 Krisehåndtering",
+            "Rooms": [
+                "KE D-302"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-01-19T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MSA125-1 Krisehåndtering",
+            "Rooms": [
+                "KE D-302"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-02-09T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MSA125-1 Krisehåndtering",
+            "Rooms": [
+                "KE D-302"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-02-23T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MSA125-1 Krisehåndtering",
+            "Rooms": [
+                "KE D-302"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-03-23T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MSA125-1 Krisehåndtering",
+            "Rooms": [
+                "KE D-302"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-04-13T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "MSA125-1 Krisehåndtering uke 10",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-03-03T08:15:00+01:00",
+            "Length": 7
+        }
+    ]
+}

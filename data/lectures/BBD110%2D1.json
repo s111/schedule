@@ -1,0 +1,131 @@
+{
+    "Name": "BBD110-1 NHB Deltid",
+    "Id": "BBD110%2D1",
+    "Lectures": [
+        {
+            "Name": "BBD110-1 Uke 16 NHB Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD110-1 Uke 12 NHB Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-18T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBD110-1 Uke 3 Praksislærerdag eget opplegg\"",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBD110-1 Uke 19 NHB Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-07T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD110-1 Uke 16 NHB Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-16T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD110-1 Uke 12 NHB Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-19T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBD110-1 Uke 3 NHB Deltid",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD110-1 Uke 19 NHB Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-08T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBD110-1 Uke 12 Skilek \"eget opplegg\"",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-20T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "BBD110-1 Uke 12 NHB Deltid",
+            "Rooms": [
+                "KA U-021",
+                "KA U-138"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-19T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBD110-1 Uke 19 NHB Deltid",
+            "Rooms": [
+                "KA U-136",
+                "KA U-138"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-08T10:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD110-1 Uke 16 NHB Deltid",
+            "Rooms": [
+                "KA U-138",
+                "KA U-139"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-15T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD110-1 Uke 3 NHB Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-14T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD110-1 Uke 19 NHB Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-08T14:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

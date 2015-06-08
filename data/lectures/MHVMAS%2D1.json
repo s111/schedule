@@ -1,0 +1,72 @@
+{
+    "Name": "MHVMAS-1 Masteroppgave i hels",
+    "Id": "MHVMAS%2D1",
+    "Lectures": [
+        {
+            "Name": "MHVMAS-1 Uke 25  Masteroppgave i hels eks. seminar",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Alstveit Marit"
+            ],
+            "Date": "2015-06-16T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "MHVMAS-1 Uke 25  Masteroppgave i hels eks. seminar",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Alstveit Marit"
+            ],
+            "Date": "2015-06-17T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "MHVMAS-1 Uke 9  Masteroppgave i hels",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Alstveit Marit"
+            ],
+            "Date": "2015-02-25T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MHVMAS-1 Uke 5  Masteroppgave i hels",
+            "Rooms": [
+                "KA U-137"
+            ],
+            "Lecturers": [
+                "Alstveit Marit"
+            ],
+            "Date": "2015-01-28T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MHVMAS-1 Uke 15  Masteroppgave i hels",
+            "Rooms": [
+                "KA U-137"
+            ],
+            "Lecturers": [
+                "Alstveit Marit"
+            ],
+            "Date": "2015-04-09T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "MHVMAS-1 Uke 12  Masteroppgave i hels",
+            "Rooms": [
+                "KA U-137"
+            ],
+            "Lecturers": [
+                "Alstveit Marit"
+            ],
+            "Date": "2015-03-19T09:15:00+01:00",
+            "Length": 6
+        }
+    ]
+}

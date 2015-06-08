@@ -1,0 +1,138 @@
+{
+    "Name": "BØK310-1 Personlig økonomi",
+    "Id": "B%D8K310%2D1",
+    "Lectures": [
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 09",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-02-23T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 08",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-02-16T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 07",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-02-09T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 11",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-03-09T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 12",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-03-17T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 09",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-02-24T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 08",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-02-17T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 07",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-02-10T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 17",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-04-22T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 12",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-03-18T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 16",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-04-13T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK310-1 Personlig økonomi uke 13",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Sikveland Marius"
+            ],
+            "Date": "2015-03-23T12:15:00+01:00",
+            "Length": 3
+        }
+    ]
+}

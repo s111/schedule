@@ -1,0 +1,534 @@
+{
+    "Name": "STA600-1 Generaliserte lineær",
+    "Id": "STA600%2D1",
+    "Lectures": [
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-01-12T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-01-19T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-01-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-02T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-09T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-16T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-23T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-02T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-09T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-16T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-23T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-30T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-06T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-13T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-20T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod øving",
+            "Rooms": [
+                "KE D-225"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-27T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-01-13T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-01-20T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-01-27T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-03T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-10T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-17T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-24T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-03T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-10T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-17T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-24T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-31T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-07T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-14T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-21T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-28T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-01-14T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-01-21T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-01-28T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-02-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-03-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-01T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-08T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-15T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-22T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "STA600-1 Generaliserte lineære mod",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Kleppe Tore Selland"
+            ],
+            "Date": "2015-04-29T10:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

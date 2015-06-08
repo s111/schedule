@@ -1,0 +1,72 @@
+{
+    "Name": "MEN135-1 Endringsledelse II",
+    "Id": "MEN135%2D1",
+    "Lectures": [
+        {
+            "Name": "MEN135-1 Endringsledelse  II uke 16",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Røvik Kjell Arne"
+            ],
+            "Date": "2015-04-14T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN135-1 Endringsledelse  II uke 3",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Røvik Kjell Arne"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN135-1 Endringsledelse  II uke 13,15",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [
+                "Røvik Kjell Arne"
+            ],
+            "Date": "2015-03-25T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN135-1 Endringsledelse  II uke 13,15",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [
+                "Røvik Kjell Arne"
+            ],
+            "Date": "2015-04-08T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN135-1 Endringsledelse  II uke 10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Røvik Kjell Arne"
+            ],
+            "Date": "2015-03-04T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN135-1 Endringsledelse  II uke 6",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Røvik Kjell Arne"
+            ],
+            "Date": "2015-02-04T09:15:00+01:00",
+            "Length": 7
+        }
+    ]
+}

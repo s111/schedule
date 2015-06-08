@@ -1,0 +1,145 @@
+{
+    "Name": "BSO130/BBA-160-1 Profesjonelt sosialt",
+    "Id": "BSO130%2D1",
+    "Lectures": [
+        {
+            "Name": "BSO130/BBA-160-1 Uke 3 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "BSO130/BBA-160-1 Uke 3 Sos.antropologi 3",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Myking Thonette"
+            ],
+            "Date": "2015-01-13T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO130/BBA-160-1 2 Uke Sos.antropologi 1",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Myking Thonette"
+            ],
+            "Date": "2015-01-06T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO130/BBA-160-1 Uke 2 Psykologi  2",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Helgesen Leif Arne"
+            ],
+            "Date": "2015-01-07T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO130/BBA-160-1 Uke 4 Psykologi 5",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Helgesen Leif Arne"
+            ],
+            "Date": "2015-01-22T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO130/BBA-160-1 Uke 3 Psykologi 3",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Helgesen Leif Arne"
+            ],
+            "Date": "2015-01-15T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO130/BBA-160-1 Uke 2 Sos.antropologi 2",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Myking Thonette"
+            ],
+            "Date": "2015-01-08T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO130/BBA-160-1 Uke 4 Sosiologi 3",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Ørvik Kjersti"
+            ],
+            "Date": "2015-01-19T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO130/BBA-160-1 Uke 3 Sosiologi 3",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Ørvik Kjersti"
+            ],
+            "Date": "2015-01-12T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO130/BBA-160-1 Uke 2 Psykologi  1",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Helgesen Leif Arne"
+            ],
+            "Date": "2015-01-05T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO130/BBA-160-1 Uke 4  Psykologi 4",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Helgesen Leif Arne"
+            ],
+            "Date": "2015-01-21T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO130/BBA-160-1 Uke 2 Sosiologi 1",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Ørvik Kjersti"
+            ],
+            "Date": "2015-01-07T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSO130/BBA-160-1 Uke 4 Psykologi 6",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Helgesen Leif Arne"
+            ],
+            "Date": "2015-01-22T12:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

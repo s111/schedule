@@ -1,0 +1,556 @@
+{
+    "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+    "Id": "MAT230%2D1",
+    "Lectures": [
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-01-08T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-01-22T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-05T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-12T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-19T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-26T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-05T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-12T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-19T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-26T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-02T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-09T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-16T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-23T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI øv",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-30T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-01-07T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-01-14T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-01-21T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-01-28T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-01T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-08T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-15T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-22T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-29T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI week 15",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-10T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI uke 11",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-13T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-01-09T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-01-23T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-01-30T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-06T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-13T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-20T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-02-27T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-06T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-20T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-03-27T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-03T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-17T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-04-24T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MAT230-1 GRUPPER OG SYMMETRI",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Shogin Dmitry"
+            ],
+            "Date": "2015-05-01T12:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

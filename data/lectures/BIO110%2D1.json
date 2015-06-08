@@ -1,0 +1,193 @@
+{
+    "Name": "BIO110-1 ANATOMI OG FYS. FOR",
+    "Id": "BIO110%2D1",
+    "Lectures": [
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS. uke 17",
+            "Rooms": [
+                "KE E-102"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-04-23T10:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS. uke 11",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-03-12T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-01-08T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-01-15T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-01-22T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-01-29T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-02-05T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-02-12T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-02-19T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-02-26T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-03-05T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-03-19T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-03-26T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-04-02T10:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-04-09T10:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-04-16T10:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BIO110-1 ANATOMI OG FYS.",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Brekkå Kleng"
+            ],
+            "Date": "2015-04-30T10:15:00+02:00",
+            "Length": 3
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Name": "MSO150-2 Samhandling og kommu",
+    "Id": "MSO150%2D2",
+    "Lectures": [
+        {
+            "Name": "MSO150-2 Uke 16 Samhandling og kommu",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-14T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "MSO150-2 Uke 10 Samhandling og kommu",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-03T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MSO150-2 Uke 7 Samhandling og kommu",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-10T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MSO150-2 Uke 18 Samhandling og kommu",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-30T09:15:00+02:00",
+            "Length": 5
+        },
+        {
+            "Name": "MSO150-2 Uke 7 Samhandling og kommu",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-12T09:15:00+01:00",
+            "Length": 5
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "Name": "MEM100-1 Children, Youth and",
+    "Id": "MEM100%2D1",
+    "Lectures": [
+        {
+            "Name": "MEM100-1 Uke 20 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-11T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 6 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-02T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 5 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-26T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 11 Children, Youth and",
+            "Rooms": [
+                "KA U-017-Dramarom"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-10T09:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "MEM100-1 Uke 4 Children, Youth and",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-20T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MEM100-1 Uke 5 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-27T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 11 Children, Youth and",
+            "Rooms": [
+                "KA U-017-Dramarom"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T09:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "MEM100-1 Uke 5 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 3 Children, Youth and",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T09:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MEM100-1 Uke 22 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-28T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 9 Children, Youth and",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-26T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 4 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-22T09:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "MEM100-1 Uke 7 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-12T09:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MEM100-1 Uke 6 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-05T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 5 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-29T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 9 Children, Youth and",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-27T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 4 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-23T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 3 Children, Youth and",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-16T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 5 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-30T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MEM100-1 Uke 10 Children, Youth and",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-03T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MEM100-1 Uke 10 Children, Youth and",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T10:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "MEM100-1 Uke 3 Children, Youth and",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-14T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MEM100-1 Uke 3 Children, Youth and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T13:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MEM100-1 Uke 3 Children, Youth and",
+            "Rooms": [
+                "KA U-020",
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-12T15:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MEM100-1 Uke 3 Children, Youth and",
+            "Rooms": [
+                "KA U-020",
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-13T15:15:00+01:00",
+            "Length": 4
+        }
+    ]
+}

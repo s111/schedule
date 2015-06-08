@@ -1,0 +1,78 @@
+{
+    "Name": "MSO230-1 Avvik, ondskap, mv",
+    "Id": "MSO230%2D1",
+    "Lectures": [
+        {
+            "Name": "MSO230-1 Uke 16 Avvik, ondskap, mv",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-14T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "MSO230-1 Uke 4 Avvik, ondskap, mv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-20T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MSO230-1 Uke 2 Avvik, ondskap, mv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-06T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MSO230-1 Uke 17 Avvik, ondskap, mv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T09:15:00+02:00",
+            "Length": 5
+        },
+        {
+            "Name": "MSO230-1 Uke 18 Avvik, ondskap, mv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-30T09:15:00+02:00",
+            "Length": 5
+        },
+        {
+            "Name": "MSO230-1 Uke 13 Avvik, ondskap, mv",
+            "Rooms": [
+                "KA U-136"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-26T09:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "MSO230-1 Uke 10 Avvik, ondskap, mv",
+            "Rooms": [
+                "KA U-136"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T09:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "MSO230-1 Uke 7 Avvik, ondskap, mv",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-12T09:15:00+01:00",
+            "Length": 5
+        }
+    ]
+}

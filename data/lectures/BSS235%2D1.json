@@ -1,0 +1,294 @@
+{
+    "Name": "BSS235-1 Organisasjonsendring",
+    "Id": "BSS235%2D1",
+    "Lectures": [
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 16",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-04-17T09:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 9,11,13 og 18",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-02-27T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 9,11,13 og 18",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-03-13T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 9,11,13 og 18",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-03-27T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 9,11,13 og 18",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-05-01T09:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 03,5,7",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-01-16T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 03,5,7",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-01-30T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 03,5,7",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-02-13T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring gr arb",
+            "Rooms": [
+                "KA U-023",
+                "KA U-048",
+                "KA U-134",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-01-16T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring gr arb",
+            "Rooms": [
+                "KA U-023",
+                "KA U-048",
+                "KA U-134",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-01-30T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring gr arb",
+            "Rooms": [
+                "KA U-023",
+                "KA U-048",
+                "KA U-134",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-02-13T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring gr arb",
+            "Rooms": [
+                "KA U-023",
+                "KA U-048",
+                "KA U-134",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-02-27T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring gr arb",
+            "Rooms": [
+                "KA U-023",
+                "KA U-048",
+                "KA U-134",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-03-13T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring gr arb",
+            "Rooms": [
+                "KA U-023",
+                "KA U-048",
+                "KA U-134",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-03-27T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring gr arb",
+            "Rooms": [
+                "KA U-023",
+                "KA U-048",
+                "KA U-134",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-04-17T11:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring gr arb",
+            "Rooms": [
+                "KA U-023",
+                "KA U-048",
+                "KA U-134",
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-05-01T11:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 16",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-04-17T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 9,11,13 og 18",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-02-27T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 9,11,13 og 18",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-03-13T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 9,11,13 og 18",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-03-27T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 9,11,13 og 18",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-05-01T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 03,5,7",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-01-16T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 03,5,7",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-01-30T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSS235-1 Organisasjonsendring uke 03,5,7",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Klemsdal Lars"
+            ],
+            "Date": "2015-02-13T13:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Name": "BSA250-1 Kriser og samfunnssi",
+    "Id": "BSA250%2D1",
+    "Lectures": [
+        {
+            "Name": "BSA250-1 Kriser og samfunnssikkerhet",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA250-1 Kriser og samfunnssikkerhet",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA250-1 Kriser og samfunnssikkerhet",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-02-04T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA250-1 Kriser og samfunnssikkerhet",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-02-25T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA250-1 Kriser og samfunnssikkerhet",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-03-11T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA250-1 Kriser og samfunnssikkerhet",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-03-25T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA250-1 Kriser og samfunnssikkerhet",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Kruke Bjørn Ivar"
+            ],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 7
+        }
+    ]
+}

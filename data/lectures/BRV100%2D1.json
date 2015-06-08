@@ -1,0 +1,290 @@
+{
+    "Name": "BRV100-1 Familie og barnerett",
+    "Id": "BRV100%2D1",
+    "Lectures": [
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 22",
+            "Rooms": [
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-27T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 13",
+            "Rooms": [
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-27T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 09",
+            "Rooms": [
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-23T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 13",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-24T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 10",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-03T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 18",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-28T09:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 22",
+            "Rooms": [
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-26T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 13",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-25T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 12",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-18T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 10",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-04T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 07",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-11T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 17",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T09:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 05",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 12",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-19T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 05",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-29T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 06",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-05T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 07",
+            "Rooms": [
+                "AR Ø-202",
+                "AR Ø-203",
+                "AR Ø-204",
+                "AR Ø-205",
+                "AR Ø-206",
+                "AR Ø-207"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-12T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 17",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T09:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 19",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-07T09:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 12",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-20T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 10",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-06T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 19",
+            "Rooms": [
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-08T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 20",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-12T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 11",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 06",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 11",
+            "Rooms": [
+                "EAL H-317"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-12T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 17",
+            "Rooms": [
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR V-220"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T11:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRV100-1 Familie og barnerett uke 11",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-09T12:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

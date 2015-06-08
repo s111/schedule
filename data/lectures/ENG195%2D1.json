@@ -1,0 +1,606 @@
+{
+    "Name": "ENG195/LENG195-1 English Phonology",
+    "Id": "ENG195%2D1",
+    "Lectures": [
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-07T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-04T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-11T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-18T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-25T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-04T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-11T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-18T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-25T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-01T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-08T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-22T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195-/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-29T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-06T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-13T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-20T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-27T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-03T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-10T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-17T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-24T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-03T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-17T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-24T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-31T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-07T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-14T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-21T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-28T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-07T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-14T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-21T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-01-28T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-04T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-11T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-18T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-02-25T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-04T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-11T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-18T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-03-25T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-01T10:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-08T10:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-15T10:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-22T10:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "ENG195/LENG195-1 English Phonetics sem. grupper",
+            "Rooms": [
+                "HG P-230"
+            ],
+            "Lecturers": [
+                "Aidan Keally Conti",
+                "Savic Milica"
+            ],
+            "Date": "2015-04-29T10:15:00+02:00",
+            "Length": 4
+        }
+    ]
+}

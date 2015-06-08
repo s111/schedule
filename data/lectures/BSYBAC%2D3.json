@@ -1,0 +1,133 @@
+{
+    "Name": "BSYBAC-3 Bachelor oppg. i syk",
+    "Id": "BSYBAC%2D3",
+    "Lectures": [
+        {
+            "Name": "BSYBAC-3 Uke 5 Bachelor oppg. Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSYBAC-3 Uke 23 Bachelor oppg.",
+            "Rooms": [
+                "KA AUD129",
+                "KA AUD2",
+                "KA AUD3",
+                "KA U-021",
+                "KA U-136",
+                "KA U-137",
+                "KA U-139"
+            ],
+            "Lecturers": [],
+            "Date": "2015-06-01T09:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSYBAC-3 Uke 5 Bachelor oppg. Kvalitativ met.",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Kristoffersen Margareth"
+            ],
+            "Date": "2015-01-26T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYBAC-3 Uke 4 Bachelor oppg. Forskningsprossessen",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Kristoffersen Margareth"
+            ],
+            "Date": "2015-01-19T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSYBAC-3 Uke 5 Bachelor oppg. Kvantativ met.",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Murberg Terje Arnfinn"
+            ],
+            "Date": "2015-01-27T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYBAC-3 Uke 5 Bachelor oppg. Statistikk",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Bentsen Signe Berit"
+            ],
+            "Date": "2015-01-28T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYBAC-3 Uke 5 Bachelor oppg. Innholdanalyse",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Friberg Febe"
+            ],
+            "Date": "2015-01-30T09:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSYBAC-3 Uke 8 Bachelor oppg. gruppeveiledning",
+            "Rooms": [
+                "KA U-023",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125",
+                "KA U-048",
+                "KA U-134",
+                "KA U-135"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-16T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSYBAC-3 Uke 5 \"Ut å søke tjeneste v/ Arild Berland NSF",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-26T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSYBAC-3 Uke 5 Bachelor oppg. Datasøk",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T13:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYBAC-3 Uke 5 Bachelor oppg. Datasøk",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-27T14:15:00+01:00",
+            "Length": 3
+        }
+    ]
+}

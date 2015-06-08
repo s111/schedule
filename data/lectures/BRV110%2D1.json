@@ -1,0 +1,95 @@
+{
+    "Name": "BRV110-1 Kontraktsrett I",
+    "Id": "BRV110%2D1",
+    "Lectures": [
+        {
+            "Name": "BRV110-1 Kontraktsrett I uke 2",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [
+                "Giertsen Johan"
+            ],
+            "Date": "2015-01-06T08:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "BRV110-1 Kontraktsrett I uke 3",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [
+                "Giertsen Johan"
+            ],
+            "Date": "2015-01-13T08:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "BRV110-1 Kontraktsrett I uke 4",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Giertsen Johan"
+            ],
+            "Date": "2015-01-20T08:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "BRV110-1 Kontraktsrett I uke 5",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [
+                "Giertsen Johan"
+            ],
+            "Date": "2015-01-27T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BRV110-1 Kontraktsrett I uke 7",
+            "Rooms": [
+                "KA AUD052",
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-02-13T09:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRV110-1 Kontraktsrett I uke 6",
+            "Rooms": [
+                "KA AUD052",
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-02-03T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRV110-1 Kontraktsrett I uke 4",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [
+                "Eliassen Sveinung"
+            ],
+            "Date": "2015-01-22T12:15:00+01:00",
+            "Length": 4
+        }
+    ]
+}

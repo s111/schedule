@@ -1,0 +1,385 @@
+{
+    "Name": "BFØ301-1 Org. og ledelse",
+    "Id": "BF%D8301%2D1",
+    "Lectures": [
+        {
+            "Name": "BFØ301-1 Org. og ledelse uke 9",
+            "Rooms": [
+                "KA U-138",
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-02-24T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-05-12T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse veil.",
+            "Rooms": [
+                "KA U-135",
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-04-21T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse veil.",
+            "Rooms": [
+                "KA U-135",
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-04-14T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-04-07T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-27T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-06T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-13T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-20T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-02-03T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-02-10T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-03-03T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse uke 9",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-02-25T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse veil.",
+            "Rooms": [
+                "KA U-135",
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-04-22T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse veil.",
+            "Rooms": [
+                "KA U-135",
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-04-08T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse felles med  BFD",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-07T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-02-04T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-02-11T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-03-04T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse uke 9",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-02-26T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse veil.",
+            "Rooms": [
+                "KA U-135",
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-04-23T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse veil.",
+            "Rooms": [
+                "KA U-135",
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-04-16T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-04-09T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse felles med  BFD rom KA-053",
+            "Rooms": [],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-08T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-01-22T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-02-05T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-02-12T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFØ301-1 Org. og ledelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Hole Karin"
+            ],
+            "Date": "2015-03-05T08:15:00+01:00",
+            "Length": 4
+        }
+    ]
+}

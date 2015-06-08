@@ -1,0 +1,171 @@
+{
+    "Name": "BØK375-1 International Busine",
+    "Id": "B%D8K375%2D1",
+    "Lectures": [
+        {
+            "Name": "BØK375-1 International Business uke 4 og 6",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-01-22T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business uke 4 og 6",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-02-05T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-01-15T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-01-29T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-02-12T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-02-19T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-02-26T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-03-05T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-03-12T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-03-19T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-03-26T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-04-02T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-04-09T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-04-16T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK375-1 International Business",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [
+                "Laudal Thomas"
+            ],
+            "Date": "2015-04-23T12:15:00+02:00",
+            "Length": 3
+        }
+    ]
+}

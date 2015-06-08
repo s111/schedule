@@ -1,0 +1,57 @@
+{
+    "Name": "KJEBAC-1 BACHELOROPPGAVE KJEM",
+    "Id": "KJEBAC%2D1",
+    "Lectures": [
+        {
+            "Name": "KJEBAC-1 BACHELOROPPGAVE KJEM/MILJØ",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [
+                "Bjørkum P.A."
+            ],
+            "Date": "2015-01-05T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "KJEBAC-1 BACHELOROPPGAVE KJEM/MILJØ",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [
+                "Bjørkum P.A."
+            ],
+            "Date": "2015-01-12T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "KJEBAC-1 BACHELOROPPGAVE KJEM/MILJØ",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [
+                "Bjørkum P.A."
+            ],
+            "Date": "2015-01-19T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "KJEBAC-1 BACHELOROPPGAVE KJEM/MILJØ",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-26T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "KJEBAC-1 BACHELOROPPGAVE KJEM/MILJØ",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-02T12:15:00+01:00",
+            "Length": 4
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Name": "MEM110-1 Welfare state and",
+    "Id": "MEM110%2D1",
+    "Lectures": [
+        {
+            "Name": "MEM110-1 Uke 10 Welfare state and",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-04T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MEM110-1 Uke 4 Welfare state and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-21T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MEM110-1 Uke 16 Welfare state and",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-13T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "MEM110-1 Uke 10 Welfare state and",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-02T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MEM110-1 Uke 3 Welfare state and",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-14T15:15:00+01:00",
+            "Length": 3
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "Name": "MUT502-1 Utd.og samf. - kr.øv",
+    "Id": "MUT502%2D1",
+    "Lectures": [
+        {
+            "Name": "MUT502-1 Utd.og samf. - kr.øv uke 19",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Giske Rune"
+            ],
+            "Date": "2015-05-07T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "MUT502-1 Utd.og samf. - kr.øv uke 11",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Giske Rune"
+            ],
+            "Date": "2015-03-12T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "MUT502-1 Utd.og samf. - kr.øv uke 3",
+            "Rooms": [
+                "AR Ø-213"
+            ],
+            "Lecturers": [
+                "Giske Rune"
+            ],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "MUT502-1 Utd.og samf. - kr.øv uke 19",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Giske Rune"
+            ],
+            "Date": "2015-05-08T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "MUT502-1 Utd.og samf. - kr.øv uke 11",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Giske Rune"
+            ],
+            "Date": "2015-03-13T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "MUT502-1 Utd.og samf. - kr.øv uke 3",
+            "Rooms": [
+                "KA U-135"
+            ],
+            "Lecturers": [
+                "Giske Rune"
+            ],
+            "Date": "2015-01-16T08:15:00+01:00",
+            "Length": 8
+        }
+    ]
+}

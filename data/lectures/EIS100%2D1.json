@@ -1,0 +1,594 @@
+{
+    "Name": "EIS100-1 Norsk kultur \u0026 utd.",
+    "Id": "EIS100%2D1",
+    "Lectures": [
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand.",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-01-26T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand.",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-02-02T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand.",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-02-09T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand.",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-02T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand.",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-09T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand.",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-16T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. tirsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-10T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. tirsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-01-20T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. tirsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-01-27T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. tirsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-02-03T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. tirsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-02-10T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. tirsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-03T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. tirsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-17T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. tirsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-24T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. tirsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-04-07T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. tirsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-04-14T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. onsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. onsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. onsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-02-04T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. onsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-02-11T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. onsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-04T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. onsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-11T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. onsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-18T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. onsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-25T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. onsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-04-08T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. onsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. torsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-01-22T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. torsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. torsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-02-05T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. torsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-02-12T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. torsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-05T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. torsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-12T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. torsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-19T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. torsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-26T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. torsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-04-09T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. torsd.",
+            "Rooms": [
+                "HL U-301"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-04-16T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. gr.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. gr.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-02T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. gr.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-09T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. gr.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-02T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. gr.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-09T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. gr.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-16T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. 12-13",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-01-26T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. 12-13",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-02-02T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. 12-13",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-02-09T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. 12-13",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-02T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. 12-13",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-09T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "EIS100-1 Norsk kultur \u0026 utd. mand. 12-13",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Røthle Monika Anna",
+                "Åbotnes Marit"
+            ],
+            "Date": "2015-03-16T11:15:00+01:00",
+            "Length": 1
+        }
+    ]
+}

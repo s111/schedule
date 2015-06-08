@@ -1,0 +1,114 @@
+{
+    "Name": "BRL260-1 Reiselivsplanlegging",
+    "Id": "BRL260%2D1",
+    "Lectures": [
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-06T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-13T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-20T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-27T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-03T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-10T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-05T10:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-12T10:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-19T10:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-26T10:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-02T10:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "BRL260-1 Reiselivsplanlegging",
+            "Rooms": [
+                "EAL H-007 blått aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-09T10:15:00+01:00",
+            "Length": 5
+        }
+    ]
+}

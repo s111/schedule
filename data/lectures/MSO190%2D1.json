@@ -1,0 +1,143 @@
+{
+    "Name": "MSO190-1 Barn, ungdom og medv",
+    "Id": "MSO190%2D1",
+    "Lectures": [
+        {
+            "Name": "MSO190-1 Uke 5 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-26T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MSO190-1 Uke 10 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-02T09:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MSO190-1 Uke 4 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-20T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MSO190-1 Uke 5 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-27T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MSO190-1 Uke 5 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MSO190-1 Uke 4 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-22T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MSO190-1 Uke 5 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-29T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MSO190-1 Uke 9 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-26T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MSO190-1 Barn, ungdom og medv",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-16T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MSO190-1 Uke 5 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-30T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MSO190-1 Uke 9 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-27T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "MSO190-1 Uke 10 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T10:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "MSO190-1 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T13:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MSO190-1 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-020",
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-12T15:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MSO190-1 Barn, ungdom og medv",
+            "Rooms": [
+                "KA U-020",
+                "KA U-021"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-13T15:15:00+01:00",
+            "Length": 4
+        }
+    ]
+}

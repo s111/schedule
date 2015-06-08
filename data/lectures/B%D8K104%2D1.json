@@ -1,0 +1,662 @@
+{
+    "Name": "BØK104-1 Statistikk",
+    "Id": "B%D8K104%2D1",
+    "Lectures": [
+        {
+            "Name": "BØK104-1 Statistikk datalab uke 12",
+            "Rooms": [
+                "HL A-117-datarom"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-19T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk datalab uke 3,4 og 13",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk datalab uke 3,4 og 13",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-22T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk datalab uke 3,4 og 13",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-26T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-05T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-12T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-19T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-26T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-02T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-09T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-16T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-23T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-02T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-09T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-16T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-23T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-30T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-06T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-13T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-20T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-27T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-07T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-14T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-21T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-28T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-01T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-08T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-15T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-22T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-29T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-07T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-14T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-21T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-04T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-11T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-18T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-02-25T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-04T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-11T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-18T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-03-25T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-01T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-08T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-15T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-22T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BØK104-1 Statistikk gr",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-203",
+                "KE D-225",
+                "KE D-301"
+            ],
+            "Lecturers": [
+                "Foldnes Njål"
+            ],
+            "Date": "2015-04-29T12:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Name": "BFD102-2 Ped. 3.st.år",
+    "Id": "BFD102%2D2",
+    "Lectures": [
+        {
+            "Name": "BFD102-2 Uke 11 Ped. 3.st.år",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD102-2 Uke 3 Ped. 3.st.år",
+            "Rooms": [
+                "KA U-023",
+                "KA AUD129",
+                "KA U-020",
+                "KA U-049"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BFD102-2 Uke 18 Ped. 3.st.år",
+            "Rooms": [
+                "KA AUD129",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-30T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "BFD102-2 Uke 11 Ped. 3.st.år",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-13T12:15:00+01:00",
+            "Length": 4
+        }
+    ]
+}

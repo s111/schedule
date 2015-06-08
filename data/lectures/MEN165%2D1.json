@@ -1,0 +1,66 @@
+{
+    "Name": "MEN165-1 Endringsled fra teor",
+    "Id": "MEN165%2D1",
+    "Lectures": [
+        {
+            "Name": "MEN165-1 Endringsled fra teori uke 6,13",
+            "Rooms": [
+                "AR V-209"
+            ],
+            "Lecturers": [
+                "Hatteland Øystein",
+                "Ottesen Otto"
+            ],
+            "Date": "2015-02-02T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN165-1 Endringsled fra teori uke 6,13",
+            "Rooms": [
+                "AR V-209"
+            ],
+            "Lecturers": [
+                "Hatteland Øystein",
+                "Ottesen Otto"
+            ],
+            "Date": "2015-03-23T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN165-1 Endringsled fra teori uke 10",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Hatteland Øystein",
+                "Ottesen Otto"
+            ],
+            "Date": "2015-03-02T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN165-1 Endringsled fra teori uke 16",
+            "Rooms": [
+                "EAL H-211"
+            ],
+            "Lecturers": [
+                "Hatteland Øystein",
+                "Ottesen Otto"
+            ],
+            "Date": "2015-04-14T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN165-1 Endringsled fra teori uke 10",
+            "Rooms": [
+                "KE A-205"
+            ],
+            "Lecturers": [
+                "Hatteland Øystein",
+                "Ottesen Otto"
+            ],
+            "Date": "2015-03-03T09:15:00+01:00",
+            "Length": 3
+        }
+    ]
+}

@@ -1,0 +1,407 @@
+{
+    "Name": "BSY/BSN-154-1 Sykepleiens samfunns",
+    "Id": "BSY154%2D1",
+    "Lectures": [
+        {
+            "Name": "BSY/BSN-154-1 Uke 20 Sykepl. Intro til  emne",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Risa Eva Christina Furskog"
+            ],
+            "Date": "2015-05-11T08:15:00+02:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 3 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-13T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 2 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-06T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 21 Sykepl. pedagogikk",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Husebø Sissel Iren Eikeland"
+            ],
+            "Date": "2015-05-19T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 3 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 2 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-08T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 23 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-06-05T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 23 Sykepl. Bruker perspektiv",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Storm Marianne"
+            ],
+            "Date": "2015-06-01T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 21 Sykepl. pedagogikk",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Husebø Sissel Iren Eikeland"
+            ],
+            "Date": "2015-05-18T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 20 Sykepl. Psykologi",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Sand Liv"
+            ],
+            "Date": "2015-05-11T09:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 3 Sykepl. Juss",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Kjellevold Alice"
+            ],
+            "Date": "2015-01-12T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 2 Sykepl. Intro til vår sem.",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Handeland Maria",
+                "Risa Eva Christina Furskog"
+            ],
+            "Date": "2015-01-05T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 3 Refleksjonsgr. 1",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [
+                "Rusdal Merethe"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 23 Sykepl. Juss",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Kjellevold Alice"
+            ],
+            "Date": "2015-06-02T09:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY-154-1 Uke 2 Sykepl. Intro til kommunikasjon",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Grønnestad Trond",
+                "Hammervold Unn Elisabeth",
+                "Harbin Elisabeth"
+            ],
+            "Date": "2015-01-07T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 23 Sykepl. Case-seminar",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Risa Eva Christina Furskog"
+            ],
+            "Date": "2015-06-03T09:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 21 Sykepl. gr.arb. kommunikasjon",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125",
+                "KA U-043",
+                "KA U-048",
+                "KA U-134"
+            ],
+            "Lecturers": [
+                "Grønnestad Trond",
+                "Hammervold Unn Elisabeth",
+                "Harbin Elisabeth"
+            ],
+            "Date": "2015-05-20T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSY-154-1 Uke 3 Sykepl. Psykologi",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Sand Liv"
+            ],
+            "Date": "2015-01-14T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 21 Sykepl. freml. kommunikasjon",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Harbin Elisabeth",
+                "Risa Eva Christina Furskog"
+            ],
+            "Date": "2015-05-21T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 21 Sykepl. freml. kommunikasjon",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Grønnestad Trond",
+                "Hammervold Unn Elisabeth"
+            ],
+            "Date": "2015-05-22T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 2 Sykepl. Intro til kommunikasjon",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Grønnestad Trond",
+                "Hammervold Unn Elisabeth",
+                "Harbin Elisabeth"
+            ],
+            "Date": "2015-01-09T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 21 Sykepl. Juss",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Kjellevold Alice"
+            ],
+            "Date": "2015-05-19T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 2 Sykepl. Psykologi",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Sand Liv"
+            ],
+            "Date": "2015-01-05T11:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 3 Refleksjonsgr. 2",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [
+                "Rusdal Merethe"
+            ],
+            "Date": "2015-01-13T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 23 Sykepl. Case-seminar",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Risa Eva Christina Furskog"
+            ],
+            "Date": "2015-06-02T11:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 21 Sykepl. Juss",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Kjellevold Alice"
+            ],
+            "Date": "2015-05-18T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY-154-1 Uke 3 Sykepl. Intro til kommunikasjon del 2",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Grønnestad Trond",
+                "Hammervold Unn Elisabeth",
+                "Harbin Elisabeth"
+            ],
+            "Date": "2015-01-12T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 2 Sykepl. Psykologi",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Kjellevold Alice"
+            ],
+            "Date": "2015-01-07T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 3 Sykepl. Kommunikasjon del 2",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Grønnestad Trond",
+                "Hammervold Unn Elisabeth",
+                "Harbin Elisabeth"
+            ],
+            "Date": "2015-01-14T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 2 Sykepl. Psykologi",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Sand Liv"
+            ],
+            "Date": "2015-01-07T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 2 Sykepl. Juss",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Kjellevold Alice"
+            ],
+            "Date": "2015-01-09T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 20 Sykepl. Juss",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Kjellevold Alice"
+            ],
+            "Date": "2015-05-11T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 3 Refleksjonsgr. 3",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [
+                "Rusdal Merethe"
+            ],
+            "Date": "2015-01-13T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 23 Sykepl.  Info om eksamen",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Risa Eva Christina Furskog"
+            ],
+            "Date": "2015-06-03T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-154-1 Uke 2 Sykepl. Juss",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Kjellevold Alice"
+            ],
+            "Date": "2015-01-05T14:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

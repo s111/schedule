@@ -1,0 +1,182 @@
+{
+    "Name": "BRE260-1 Videregående re",
+    "Id": "BRE260%2D1",
+    "Lectures": [
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 17",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-04-23T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 12",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-03-20T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 3,5,6,7,8,9",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-01-16T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 3,5,6,7,8,9",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 3,5,6,7,8,9",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-02-06T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 3,5,6,7,8,9",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-02-13T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 3,5,6,7,8,9",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-02-20T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 3,5,6,7,8,9",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-02-27T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 12",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-03-19T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 5,6,7",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-01-29T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 5,6,7",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-02-05T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 5,6,7",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-02-12T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 8,9",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-02-19T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 8,9",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-02-26T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 3",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-01-15T10:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BRE260-1 Videregående regnskap uke 3",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Kjøde Lars Atle"
+            ],
+            "Date": "2015-01-15T11:15:00+01:00",
+            "Length": 3
+        }
+    ]
+}

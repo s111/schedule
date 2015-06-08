@@ -1,0 +1,677 @@
+{
+    "Name": "MSK220-1 PRODUKTOG3D",
+    "Id": "MSK220%2D1",
+    "Lectures": [
+        {
+            "Name": "MSK220-1 PRODUKTOG3D",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-02-04T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D",
+            "Rooms": [
+                "KE E-164"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-02-11T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D øv on8",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D øv on8",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D øv on8",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-02-04T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D øv on8",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-02-11T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D øv on8",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-01-07T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D øv on8",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-25T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D øv on8",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-01T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D øv on8",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-08T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D øv on8",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D øv on8",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-22T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D øv on8",
+            "Rooms": [
+                "KE E-162"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-29T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D.tor10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-01-22T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D.tor10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-01-29T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D.tor10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-02-05T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D.tor10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-02-12T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-01-15T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-02-19T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-02-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-05T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-12T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-19T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-01-08T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-02T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-09T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-16T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-23T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor10",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-30T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D.tor12",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-01-15T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D.tor12",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-02-19T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D.tor12",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-02-26T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D.tor12",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-05T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D.tor12",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-12T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D.tor12",
+            "Rooms": [
+                "lab KE D-258"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-19T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-01-13T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-02-17T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-02-24T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-03T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-10T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-17T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-01-20T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-01-27T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-02-03T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Ratnayake Mudiyanselage Chandima Ratnayake"
+            ],
+            "Date": "2015-02-10T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-01-06T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-24T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-31T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-07T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-14T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-21T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tir 14",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-04-28T14:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-01-15T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-02-19T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-02-26T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-05T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-12T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "MSK220-1 PRODUKTOG3D. tor 14",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [
+                "Mikkelsen Ove"
+            ],
+            "Date": "2015-03-19T14:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

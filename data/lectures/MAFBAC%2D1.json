@@ -1,0 +1,57 @@
+{
+    "Name": "MAFBAC-1 BACHOPPG",
+    "Id": "MAFBAC%2D1",
+    "Lectures": [
+        {
+            "Name": "MAFBAC-1 BACHOPPG",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [
+                "Bjørkum P.A."
+            ],
+            "Date": "2015-01-05T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MAFBAC-1 BACHOPPG",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [
+                "Bjørkum P.A."
+            ],
+            "Date": "2015-01-12T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MAFBAC-1 BACHOPPG",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [
+                "Bjørkum P.A."
+            ],
+            "Date": "2015-01-19T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MAFBAC-1 BACHOPPG",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-26T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MAFBAC-1 BACHOPPG",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-02T12:15:00+01:00",
+            "Length": 4
+        }
+    ]
+}

@@ -1,0 +1,1218 @@
+{
+    "Name": "BBL210-1 STM Heltid",
+    "Id": "BBL210%2D1",
+    "Lectures": [
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid obs-kun uke 2 og 3.",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-07T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid obs-kun uke 2 og 3.",
+            "Rooms": [
+                "KE C-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101",
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-04T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-04T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-11T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-18T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-25T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-18T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-25T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-01T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-08T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-29T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-06T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-05T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-12T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-19T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-26T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-12T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-19T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-26T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-02T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-09T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-16T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-30T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-05T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-12T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-19T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-26T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-12T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-19T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-26T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-02T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-09T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-16T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-09T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-16T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-06T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-13T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-20T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-27T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-06T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-13T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-20T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-27T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-03T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-10T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-17T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-24T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Matematikk Heltid",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-01T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-07T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-14T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-01T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-08T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-15T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-29T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-05T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-12T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-19T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-12T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-19T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-02T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-09T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-16T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HL A-124",
+                "HL U-313"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-05T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-12T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-19T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-12T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-19T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-02T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-09T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-16T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-09T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-16T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-06T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-13T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-20T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-27T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-06T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-13T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-20T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-27T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-03T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-10T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-17T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-24T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM matematikk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-01T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-07T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-14T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-04T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-11T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-18T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-25T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-04T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-18T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-25T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-01T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-08T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-15T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL210-1 STM Norsk Heltid",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-29T12:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

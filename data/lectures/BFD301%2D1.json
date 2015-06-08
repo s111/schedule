@@ -1,0 +1,210 @@
+{
+    "Name": "BFD301-1 Org. og ledelse",
+    "Id": "BFD301%2D1",
+    "Lectures": [
+        {
+            "Name": "BFD301-1 Uke 5 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 21 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-05-20T08:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 18 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-04-29T08:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 15 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053",
+                "KA U-040",
+                "KA U-042"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-04-08T08:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 10 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-03-04T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 2 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-01-07T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 21 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-05-21T08:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 18 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-04-30T08:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 15 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053",
+                "KA U-040",
+                "KA U-042"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-04-09T08:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 10 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-03-05T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 5 Org. og ledelse",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 2 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-01-08T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 21 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-05-22T08:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 18 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-05-01T08:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 15 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053",
+                "KA U-040",
+                "KA U-042"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-04-10T08:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 10 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-03-06T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 5 Org. og ledelse",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BFD301-1 Uke 2 Org. og ledelse",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Knaben Åse Dagmar"
+            ],
+            "Date": "2015-01-09T08:15:00+01:00",
+            "Length": 6
+        }
+    ]
+}

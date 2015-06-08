@@ -1,0 +1,39 @@
+{
+    "Name": "TN910-1 Innovasjon og prosje",
+    "Id": "TN910%2D1",
+    "Lectures": [
+        {
+            "Name": "TN910-1 Innovasjon og prosjektforståelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Brun Eric Christian"
+            ],
+            "Date": "2015-03-02T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "TN910-1 Innovasjon og prosjektforståelse",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Brun Eric Christian"
+            ],
+            "Date": "2015-02-09T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "TN910-1 Innovasjon og prosjektforståelse",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Brun Eric Christian"
+            ],
+            "Date": "2015-03-11T08:15:00+01:00",
+            "Length": 8
+        }
+    ]
+}

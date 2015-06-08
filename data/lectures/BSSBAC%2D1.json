@@ -1,0 +1,133 @@
+{
+    "Name": "BSSBAC-1 Bacheloroppgave",
+    "Id": "BSSBAC%2D1",
+    "Lectures": [
+        {
+            "Name": "BSSBAC-1 Bacheloroppgave uke 4",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Sjurseike Ragnhild Johanne",
+                "Wadel Carl Cato"
+            ],
+            "Date": "2015-01-21T09:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSSBAC-1 Bacheloroppgave uke 3",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Sjurseike Ragnhild Johanne",
+                "Wadel Carl Cato"
+            ],
+            "Date": "2015-01-14T09:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSSBAC-1 Bacheloroppgave uke 2",
+            "Rooms": [
+                "KA AUD129",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125",
+                "KA U-043"
+            ],
+            "Lecturers": [
+                "Sjurseike Ragnhild Johanne",
+                "Wadel Carl Cato"
+            ],
+            "Date": "2015-01-07T09:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSSBAC-1 Bacheloroppgave uke 2 bibliotekkurs",
+            "Rooms": [
+                "KE A-259 lab"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSSBAC-1 Bacheloroppgave uke 4",
+            "Rooms": [
+                "KE  Gr.D 10 rom",
+                "KE A-204",
+                "KE D-223"
+            ],
+            "Lecturers": [
+                "Sjurseike Ragnhild Johanne",
+                "Wadel Carl Cato"
+            ],
+            "Date": "2015-01-21T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSSBAC-1 Bacheloroppgave uke 3",
+            "Rooms": [
+                "KA AUD052",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Sjurseike Ragnhild Johanne",
+                "Wadel Carl Cato"
+            ],
+            "Date": "2015-01-14T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSSBAC-1 Bacheloroppgave uke 3",
+            "Rooms": [
+                "AR V-201",
+                "AR V-202",
+                "AR V-203",
+                "AR V-204",
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "AR V-213",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Sjurseike Ragnhild Johanne",
+                "Wadel Carl Cato"
+            ],
+            "Date": "2015-01-15T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSSBAC-1 Bacheloroppgave uke 2 bibliotekkurs",
+            "Rooms": [
+                "KE A-259 lab"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T12:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

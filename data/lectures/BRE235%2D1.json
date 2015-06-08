@@ -1,0 +1,160 @@
+{
+    "Name": "BRE235-1 Intro til strategi",
+    "Id": "BRE235%2D1",
+    "Lectures": [
+        {
+            "Name": "BRE235-1 Intro til strategi uke 4,8",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-20T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi uke 4,8",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-17T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi uke 6,7",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-03T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi uke 6,7",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-10T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi uke 2,3,5",
+            "Rooms": [
+                "KE F-101 Tjodhallen"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-06T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi uke 2,3,5",
+            "Rooms": [
+                "KE F-101 Tjodhallen"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi uke 2,3,5",
+            "Rooms": [
+                "KE F-101 Tjodhallen"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-27T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-05T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-12T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-19T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-01-26T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-02T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-09T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BRE235-1 Intro til strategi",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Våland Terje Ingebrigt"
+            ],
+            "Date": "2015-02-16T12:15:00+01:00",
+            "Length": 3
+        }
+    ]
+}

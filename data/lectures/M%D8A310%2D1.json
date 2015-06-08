@@ -1,0 +1,78 @@
+{
+    "Name": "MØA310-1 Corporate Finance",
+    "Id": "M%D8A310%2D1",
+    "Lectures": [
+        {
+            "Name": "MØA310-1 Corporate Finance uke 11",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-12T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MØA310-1 Corporate Finance uke 15",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-09T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "MØA310-1 Corporate Finance uke 08",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-19T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MØA310-1 Corporate Finance uke 15",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-10T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "MØA310-1 Corporate Finance uke 17",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-24T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "MØA310-1 Corporate Finance uke 11",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-13T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MØA310-1 Corporate Finance uke 08",
+            "Rooms": [
+                "EAL H-316"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-20T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "MØA310-1 Corporate Finance uke 17",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T13:15:00+02:00",
+            "Length": 4
+        }
+    ]
+}

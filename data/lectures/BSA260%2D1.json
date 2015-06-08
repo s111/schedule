@@ -1,0 +1,83 @@
+{
+    "Name": "BSA260-1 Risiko og BU",
+    "Id": "BSA260%2D1",
+    "Lectures": [
+        {
+            "Name": "BSA260-1 Risiko og BU",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Olsen Odd Einar Falnes"
+            ],
+            "Date": "2015-01-28T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA260-1 Risiko og BU",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Olsen Odd Einar Falnes"
+            ],
+            "Date": "2015-02-11T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA260-1 Risiko og BU",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Olsen Odd Einar Falnes"
+            ],
+            "Date": "2015-03-04T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA260-1 Risiko og BU",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Olsen Odd Einar Falnes"
+            ],
+            "Date": "2015-03-18T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA260-1 Risiko og BU",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Olsen Odd Einar Falnes"
+            ],
+            "Date": "2015-04-08T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA260-1 Risiko og BU",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Olsen Odd Einar Falnes"
+            ],
+            "Date": "2015-04-22T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSA260-1 Risiko og BU",
+            "Rooms": [
+                "KE E-166 aud"
+            ],
+            "Lecturers": [
+                "Olsen Odd Einar Falnes"
+            ],
+            "Date": "2015-04-29T09:15:00+02:00",
+            "Length": 7
+        }
+    ]
+}

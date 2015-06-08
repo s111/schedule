@@ -1,0 +1,898 @@
+{
+    "Name": ".BBL100-1 BULL/SRLE Heltid",
+    "Id": "BBL100%2D1",
+    "Lectures": [
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-06T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-13T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-20T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-27T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-17T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-24T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-03T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-21T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-28T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-05T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-12T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid uke 16",
+            "Rooms": [
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "AR V-213",
+                "AR Ø-202",
+                "AR Ø-205",
+                "AR Ø-206",
+                "AR Ø-207",
+                "AR Ø-208",
+                "AR Ø-209"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-07T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-18T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-25T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-04T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-29T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-06T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-13T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid uke 16",
+            "Rooms": [
+                "AR V-201",
+                "AR V-202",
+                "AR V-203",
+                "AR V-204",
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "AR V-213",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-16T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/ prosjektuke 3",
+            "Rooms": [
+                "AR V-201",
+                "AR V-202",
+                "AR V-203",
+                "AR V-204",
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "AR V-213",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR V-220",
+                "AR V-221",
+                "KE C-101"
+            ],
+            "Lecturers": [
+                "Jernes Margrethe",
+                "Rosell Lars Yngve"
+            ],
+            "Date": "2015-01-12T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE prosjektuke 3",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Jernes Margrethe",
+                "Rosell Lars Yngve"
+            ],
+            "Date": "2015-01-16T09:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-07T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-21T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-29T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-07T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-21T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-04T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-29T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid prosjektuke 3 + PC-rom",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [
+                "Jernes Margrethe",
+                "Rosell Lars Yngve"
+            ],
+            "Date": "2015-01-14T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-22T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-29T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-19T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-30T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-22T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-29T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-19T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-30T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE prosjektuke 3 + PC-rom",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [
+                "Jernes Margrethe",
+                "Rosell Lars Yngve"
+            ],
+            "Date": "2015-01-15T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/ prosjektuke 3",
+            "Rooms": [
+                "AR V-201",
+                "AR V-202",
+                "AR V-203",
+                "AR V-204",
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "AR V-213",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR V-220",
+                "AR V-221"
+            ],
+            "Lecturers": [
+                "Jernes Margrethe",
+                "Rosell Lars Yngve"
+            ],
+            "Date": "2015-01-13T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-07T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-21T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-18T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-25T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-04T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-29T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-07T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-21T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-18T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-25T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-04T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 SRLE Heltid/",
+            "Rooms": [
+                "HL A-124"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-29T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-22T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-29T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-19T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-26T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-30T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-22T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-29T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-19T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-26T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-05T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": ".BBL100-1 BULL/SRLE Heltid/",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-30T12:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

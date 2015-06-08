@@ -1,0 +1,116 @@
+{
+    "Name": "PPU132-1 Eng. fagdid. del 2",
+    "Id": "PPU132%2D1",
+    "Lectures": [
+        {
+            "Name": "PPU132-1 Eng. fagdid. del 2",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [
+                "Savic Milica"
+            ],
+            "Date": "2015-01-05T14:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "PPU132-1 Eng. fagdid. del 2",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [
+                "Savic Milica"
+            ],
+            "Date": "2015-01-12T14:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "PPU132-1 Eng. fagdid. del 2",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [
+                "Savic Milica"
+            ],
+            "Date": "2015-01-19T14:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "PPU132-1 Eng. fagdid. del 2",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [
+                "Savic Milica"
+            ],
+            "Date": "2015-03-16T14:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "PPU132-1 Eng. fagdid. del 2",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [
+                "Savic Milica"
+            ],
+            "Date": "2015-03-23T14:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "PPU132-1 Eng. fagdid. del 2",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [
+                "Savic Milica"
+            ],
+            "Date": "2015-03-30T14:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "PPU132-1 Eng. fagdid. del 2",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [
+                "Savic Milica"
+            ],
+            "Date": "2015-04-06T14:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "PPU132-1 Eng. fagdid. del 2",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [
+                "Savic Milica"
+            ],
+            "Date": "2015-04-13T14:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "PPU132-1 Eng. fagdid. del 2",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [
+                "Savic Milica"
+            ],
+            "Date": "2015-04-20T14:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "PPU132-1 Eng. fagdid. del 2",
+            "Rooms": [
+                "HG P-231"
+            ],
+            "Lecturers": [
+                "Savic Milica"
+            ],
+            "Date": "2015-04-27T14:15:00+02:00",
+            "Length": 3
+        }
+    ]
+}

@@ -1,0 +1,380 @@
+{
+    "Name": "BIO200-1 BIOKJEMI",
+    "Id": "BIO200%2D1",
+    "Lectures": [
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-01-06T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-01-13T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-01-20T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-01-27T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-02-03T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-02-10T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-02-17T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-02-24T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-03-03T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-03-10T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-03-17T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-03-24T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-03-31T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-04-07T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-04-14T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-04-21T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-04-28T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-01-09T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-01-16T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-01-23T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-02-06T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-02-13T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-02-20T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-02-27T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-03-06T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-03-13T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-03-20T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-03-27T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-04-03T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-04-10T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-04-17T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-04-24T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BIO200-1 BIOKJEMI",
+            "Rooms": [
+                "KE A-204"
+            ],
+            "Lecturers": [
+                "Chowdhary Gopal"
+            ],
+            "Date": "2015-05-01T08:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

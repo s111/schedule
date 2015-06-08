@@ -1,0 +1,184 @@
+{
+    "Name": "BSOP20-2 Praksis",
+    "Id": "BSOP20%2D2",
+    "Lectures": [
+        {
+            "Name": "BSOP20-2 Uke 2 Praksis-seminar",
+            "Rooms": [
+                "KA AUD3",
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-05T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSOP20-2 Uke 19 Praksis-seminar",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA U-040",
+                "KA U-041",
+                "KA U-043"
+            ],
+            "Lecturers": [],
+            "Date": "2015-06-11T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSOP20-2 Uke 19 Praksis-seminar",
+            "Rooms": [
+                "AR V-101",
+                "AR V-201",
+                "AR V-202",
+                "AR V-203",
+                "AR V-204",
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "AR V-208",
+                "AR V-209",
+                "AR V-213",
+                "AR V-214"
+            ],
+            "Lecturers": [],
+            "Date": "2015-06-12T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSOP20-2 Uke 19 Praksis-seminar",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [],
+            "Date": "2015-06-10T10:15:00+02:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSOP20-2 Uke 11 Praksis-seminar",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSOP20-2 Uke 19 Praksis-seminar",
+            "Rooms": [
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [],
+            "Date": "2015-06-10T11:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSOP20-2 Uke 2 Praksis-seminar",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-05T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSOP20-2 Uke 2 Praksis-seminar",
+            "Rooms": [
+                "KA AUD3",
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-06T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSOP20-2 Uke 19 Praksis-seminar",
+            "Rooms": [
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-06T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSOP20-2 Uke 11 Praksis-seminar",
+            "Rooms": [
+                "KA U-040",
+                "KA U-041",
+                "KA U-042",
+                "KA U-043",
+                "KA U-048",
+                "KA U-134",
+                "KA U-135",
+                "KA U-137"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSOP20-2 Uke 2 Praksis-seminar",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-06T14:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

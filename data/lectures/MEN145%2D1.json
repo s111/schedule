@@ -1,0 +1,66 @@
+{
+    "Name": "MEN145-1 Ledelse, bære",
+    "Id": "MEN145%2D1",
+    "Lectures": [
+        {
+            "Name": "MEN145-1 Ledelse, bære uke 6,13 og 15",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Blindheim Bjørn-Tore",
+                "Langhelle Oluf"
+            ],
+            "Date": "2015-02-05T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN145-1 Ledelse, bære uke 6,13 og 15",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Blindheim Bjørn-Tore",
+                "Langhelle Oluf"
+            ],
+            "Date": "2015-03-26T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN145-1 Ledelse, bære uke 6,13 og 15",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Blindheim Bjørn-Tore",
+                "Langhelle Oluf"
+            ],
+            "Date": "2015-04-09T09:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN145-1 Ledelse, bære uke 10",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Blindheim Bjørn-Tore",
+                "Langhelle Oluf"
+            ],
+            "Date": "2015-03-05T09:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "MEN145-1 Ledelse, bære uke 3",
+            "Rooms": [
+                "HL U-205 aud"
+            ],
+            "Lecturers": [
+                "Blindheim Bjørn-Tore",
+                "Langhelle Oluf"
+            ],
+            "Date": "2015-01-15T09:15:00+01:00",
+            "Length": 7
+        }
+    ]
+}

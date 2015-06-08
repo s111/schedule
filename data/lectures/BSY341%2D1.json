@@ -1,0 +1,248 @@
+{
+    "Name": "BSY/BSN-341-1 Sykepl grunnlagstenk",
+    "Id": "BSY341%2D1",
+    "Lectures": [
+        {
+            "Name": "BSY/BSN-341-1 Uke 3 Kunnskapsformer og kunnskapssyn i sykepleie",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Jaastad Turid Anita"
+            ],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 3 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-16T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 3 Kari Martinsens omsorgstenkning",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Jaastad Turid Anita"
+            ],
+            "Date": "2015-01-12T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 4  Seminar gr.arb.",
+            "Rooms": [
+                "AR V-201",
+                "AR V-202",
+                "AR V-203",
+                "AR V-204",
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "AR V-213",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR V-220",
+                "AR V-221",
+                "AR V-222"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-20T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 3 Menneskerettigheter og sykepleie",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Kjellevold Alice"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 2 Sykepleiens historie",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Adriansen Kristin Kavli"
+            ],
+            "Date": "2015-01-06T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 4  Seminar gr.arb.",
+            "Rooms": [
+                "AR V-201",
+                "AR V-202",
+                "AR V-203",
+                "AR V-204",
+                "AR V-213",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR V-220",
+                "AR V-221",
+                "AR V-222",
+                "AR Ø-202",
+                "AR Ø-203",
+                "AR Ø-204",
+                "AR Ø-205"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-21T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 2 Sykepleiens  Internasjonal info",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Teigen Tove Hovde"
+            ],
+            "Date": "2015-01-07T09:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 4  Seminar gr.arb.",
+            "Rooms": [
+                "KA AUD052",
+                "KA AUD129"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-22T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 2 Innføring i kunnskapsformer og sykepleieteorier",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Jaastad Turid Anita"
+            ],
+            "Date": "2015-01-08T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 4  Seminar gr.arb.",
+            "Rooms": [
+                "KA AUD052",
+                "KA AUD129"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-23T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 2 Sykepleiens historie- Info om oppstart",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Adriansen Kristin Kavli"
+            ],
+            "Date": "2015-01-05T10:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 3 Informasjon om hjemmeeksamen og seminararbeid",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T10:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 4  Seminar gr.arb.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-19T11:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 2 Sykepleiens historie",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Adriansen Kristin Kavli"
+            ],
+            "Date": "2015-01-05T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 3 Yrkesmesse",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-15T11:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 3 Sykepleiens profesjonelle utvikling",
+            "Rooms": [
+                "KA AUD2"
+            ],
+            "Lecturers": [
+                "Bø Brit"
+            ],
+            "Date": "2015-01-14T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY-341-1 Uke 3 Info om Bac-oppg.",
+            "Rooms": [
+                "KA AUD3"
+            ],
+            "Lecturers": [
+                "Harbin Elisabeth"
+            ],
+            "Date": "2015-01-15T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-341-1 Uke 2 Menneskerettigheter og sykepleie",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Kjellevold Alice"
+            ],
+            "Date": "2015-01-08T12:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

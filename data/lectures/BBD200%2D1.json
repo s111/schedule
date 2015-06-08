@@ -1,0 +1,138 @@
+{
+    "Name": "BBD200-1 KKK Deltid",
+    "Id": "BBD200%2D1",
+    "Lectures": [
+        {
+            "Name": "BBD200-1 KKK Uke 2 Deltid",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-01-07T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBD200-1 KKK Uke 6 Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-02-04T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBD200-1 KKK Uke 10 Deltid",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-03-04T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBD200-1 KKK Uke 18 Deltid",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Gryte Mari Anne Ellingsen"
+            ],
+            "Date": "2015-04-29T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBD200-1 KKK Uke 18 Deltid",
+            "Rooms": [
+                "HL U-220-forming"
+            ],
+            "Lecturers": [
+                "Gryte Mari Anne Ellingsen"
+            ],
+            "Date": "2015-04-30T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD200-1 KKK Uke 10 Deltid",
+            "Rooms": [
+                "HG O-101 aud"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-03-05T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD200-1 KKK Uke 6 Deltid",
+            "Rooms": [
+                "AR G-201"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-02-05T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD200-1 KKK Uke 2 Deltid",
+            "Rooms": [
+                "HL U-220-forming"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-01-08T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD200-1 KKK Uke 2 Deltid",
+            "Rooms": [
+                "HL U-220-forming"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-01-07T10:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BBD200-1 KKK Uke 18 Deltid",
+            "Rooms": [
+                "HL U-220-forming"
+            ],
+            "Lecturers": [
+                "Gryte Mari Anne Ellingsen"
+            ],
+            "Date": "2015-04-29T10:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BBD200-1 KKK Uke 10 Deltid",
+            "Rooms": [
+                "HL U-220-forming"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-03-04T10:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BBD200-1 KKK Uke 6 Deltid",
+            "Rooms": [
+                "HL U-220-forming"
+            ],
+            "Lecturers": [
+                "Krogh von Fie"
+            ],
+            "Date": "2015-02-04T10:15:00+01:00",
+            "Length": 6
+        }
+    ]
+}

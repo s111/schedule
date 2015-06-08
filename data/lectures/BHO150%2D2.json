@@ -1,0 +1,168 @@
+{
+    "Name": "BHO150-2 Bedr.øk. analyse",
+    "Id": "BHO150%2D2",
+    "Lectures": [
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 19",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-06T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-08T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 17",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 19",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-07T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-09T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 17",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-24T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-10T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15, 17 og 19",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-08T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15, 17 og 19",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15, 17 og 19",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-06T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15, 17 og 19",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-09T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15, 17 og 19",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15, 17 og 19",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-07T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15, 17 og 19",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-10T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15, 17 og 19",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-24T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 15, 17 og 19",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-08T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 17",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-22T16:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BHO150-2 Bedr.øk. analyse uke 17",
+            "Rooms": [
+                "EAL H-127 rødt aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-23T16:15:00+02:00",
+            "Length": 4
+        }
+    ]
+}

@@ -1,0 +1,567 @@
+{
+    "Name": "FYS210-1 FYSIKKLAB",
+    "Id": "FYS210%2D1",
+    "Lectures": [
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-07T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-04T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-11T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-18T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-25T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-04T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-11T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-18T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-25T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-01T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-08T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-22T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB lab",
+            "Rooms": [
+                "lab KE D-356 fysikklab"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-29T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-05T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-12T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-19T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-26T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-02T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-09T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-16T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-23T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-02T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-09T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-16T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-23T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-30T10:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-06T10:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-13T10:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-20T10:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-27T10:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-07T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-14T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-21T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-01-28T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-04T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-11T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-18T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-02-25T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-04T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-11T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-18T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-03-25T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-01T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-08T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-15T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-22T13:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "FYS210-1 FYSIKKLAB",
+            "Rooms": [
+                "KE A-202"
+            ],
+            "Lecturers": [
+                "Thorkildsen Gunnar"
+            ],
+            "Date": "2015-04-29T13:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

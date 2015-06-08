@@ -1,0 +1,28 @@
+{
+    "Name": "IND600-1 PROJECT MANAGEMENT 2",
+    "Id": "IND600%2D1",
+    "Lectures": [
+        {
+            "Name": "IND600-1 PROJECT MANAGEMENT 2",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Brun Eric Christian"
+            ],
+            "Date": "2015-02-26T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "IND600-1 PROJECT MANAGEMENT 2",
+            "Rooms": [
+                "KE E-101 aud"
+            ],
+            "Lecturers": [
+                "Brun Eric Christian"
+            ],
+            "Date": "2015-04-30T10:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

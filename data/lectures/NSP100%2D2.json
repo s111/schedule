@@ -1,0 +1,154 @@
+{
+    "Name": "NSP100-2 Småbarnsped",
+    "Id": "NSP100%2D2",
+    "Lectures": [
+        {
+            "Name": "NSP100-2 Uke 11 Småbarnsped",
+            "Rooms": [
+                "KA AUD051",
+                "KA U-049"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "NSP100-2 Uke 11 Småbarnsped Musikk",
+            "Rooms": [
+                "HL MG-157"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-12T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "NSP100-2 Uke 19 Småbarnsped",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-07T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "NSP100-2 Uke 2 Småbarnsped",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "NSP100-2 Uke 19 Småbarnsped",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-08T09:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "NSP100-2 Uke 11 Småbarnsped Norsk",
+            "Rooms": [
+                "KA AUD051"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-13T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "NSP100-2 Uke 2 Småbarnsped",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-09T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "NSP100-2 Uke 19 Småbarnsped",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-06T11:15:00+02:00",
+            "Length": 5
+        },
+        {
+            "Name": "NSP100-2 Uke 11 Småbarnsped Musikk",
+            "Rooms": [
+                "HL MG-157"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-11T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "NSP100-2 Uke 19 Småbarnsped",
+            "Rooms": [
+                "AR Ø-202",
+                "AR Ø-203",
+                "AR Ø-204",
+                "AR Ø-205",
+                "AR Ø-206",
+                "AR Ø-207",
+                "AR Ø-208",
+                "AR Ø-209"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-07T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "NSP100-2 Uke 2 Småbarnsped",
+            "Rooms": [
+                "KA AUD052",
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-037",
+                "KA GR-038"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "NSP100-2 Uke 19 Småbarnsped",
+            "Rooms": [
+                "AR Ø-202",
+                "AR Ø-203",
+                "AR Ø-204",
+                "AR Ø-205",
+                "AR Ø-206",
+                "AR Ø-207",
+                "AR Ø-208",
+                "AR Ø-209"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-08T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "NSP100-2 Uke 2 Småbarnsped",
+            "Rooms": [
+                "KA AUD052",
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-037",
+                "KA GR-038"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-09T12:15:00+01:00",
+            "Length": 3
+        }
+    ]
+}

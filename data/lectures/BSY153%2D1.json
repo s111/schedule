@@ -1,0 +1,138 @@
+{
+    "Name": "BSY/BSN-153-1 Legemiddelregning",
+    "Id": "BSY153%2D1",
+    "Lectures": [
+        {
+            "Name": "BSY/BSN-153-1 Uke 3 Refleksjonsgr.1 legemid.reg.",
+            "Rooms": [
+                "KA U-048"
+            ],
+            "Lecturers": [
+                "Aamodt Horgen Kristine"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-153-1 Uke 3 Refleksjonsgr.2 legemid.reg.",
+            "Rooms": [
+                "AR V-208"
+            ],
+            "Lecturers": [
+                "Aamodt Horgen Kristine"
+            ],
+            "Date": "2015-01-15T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-153-1 Uke 4 FOV",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Foss Brynjar"
+            ],
+            "Date": "2015-01-23T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSY/BSN-153-1 Uke 4 Legemiddelregning",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Foss Brynjar"
+            ],
+            "Date": "2015-01-19T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-153-1 Uke 4 Legemiddelregning",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Foss Brynjar"
+            ],
+            "Date": "2015-01-21T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-153-1 Uke 4 Legemiddelregning",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [
+                "Foss Brynjar"
+            ],
+            "Date": "2015-01-20T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-153-1 Uke 3 refleksjonsgr.2 legemidl.regn.",
+            "Rooms": [
+                "KA U-018-Formingsrom"
+            ],
+            "Lecturers": [
+                "Bøe Eli"
+            ],
+            "Date": "2015-01-14T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-153-1 Uke 3 Refleksjonsgr. legemiddelregn.",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [
+                "Jaastad Turid Anita"
+            ],
+            "Date": "2015-01-15T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-153-1 Uke 3 Refleksjonsgr.3 legemid.reg.",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [
+                "Aamodt Horgen Kristine"
+            ],
+            "Date": "2015-01-15T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-153-1 Uke 3 refleksjonsgr.1 legemidl.regn.",
+            "Rooms": [
+                "KA U-049"
+            ],
+            "Lecturers": [
+                "Bøe Eli"
+            ],
+            "Date": "2015-01-13T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-153-1 Uke 3 refleksjonsgr.3 legemidl.regn.",
+            "Rooms": [
+                "KA U-134"
+            ],
+            "Lecturers": [
+                "Bøe Eli"
+            ],
+            "Date": "2015-01-14T14:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-153-1 Uke 4 Legemiddelregning",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Foss Brynjar"
+            ],
+            "Date": "2015-01-22T15:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

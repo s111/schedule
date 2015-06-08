@@ -1,0 +1,375 @@
+{
+    "Name": "BSY/BSN-242-1 Sykepl - akutt og",
+    "Id": "BSY242%2D1",
+    "Lectures": [
+        {
+            "Name": "BSY/BSN-242-1 Uke 17 intro til hjemmesykepl.",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Rusdal Merethe"
+            ],
+            "Date": "2015-04-20T08:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSY-242-1 Uke 5 sykepl. Intro hjemmesykepl.",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [
+                "Rusdal Merethe"
+            ],
+            "Date": "2015-01-26T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 4 sykepl. Komplementær behandling selvstudie",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-19T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 3 sykepl. Fagseminar HIV",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Bjerga Grethe Heidi"
+            ],
+            "Date": "2015-01-12T08:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 4 sykepl. Forskningsprosj. om Gud og kreft",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Lauvik Høyland Marta Postdoktor"
+            ],
+            "Date": "2015-01-20T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 4 sykepl. Info om eksamen",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Ueland Venke Irene"
+            ],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 3 sykepl. Travelbee, lidelse,håp og mening",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Bjerga Grethe Heidi",
+                "Ueland Venke Irene"
+            ],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 4 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-23T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 4 sykepl. Sorg,tap og eksistens",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Bjelland Leif Lie Sykehus prest"
+            ],
+            "Date": "2015-01-20T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 3 sykepl. Org.og ledelse",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Akerjordet Kristin"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 2 Sykepl - Info om BSY/BSN-242",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-06T09:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 3 sykepl. Fagseminar kreft",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Steine Hildegunn Oma"
+            ],
+            "Date": "2015-01-14T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 2 Internasjonalisering",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Teigen Tove Hovde"
+            ],
+            "Date": "2015-01-07T09:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 4 sykepl. Praksisforberedende info",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Grøtteland Sigrid",
+                "Michaelsen Ragnhild"
+            ],
+            "Date": "2015-01-22T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 2 sykepl. Org. og ledelse",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Akerjordet Kristin"
+            ],
+            "Date": "2015-01-08T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 3 sykepl. Sorg og sorgterapi",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Moen Kjetil"
+            ],
+            "Date": "2015-01-16T09:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 2 sykepl. Pårørende",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Kjellevold Alice"
+            ],
+            "Date": "2015-01-09T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 2 Sykepl - Oppg.skriving og arb. krav",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Harbin Elisabeth"
+            ],
+            "Date": "2015-01-06T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 4 sykepl. Pasientsikkerhet",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Aase Karina"
+            ],
+            "Date": "2015-01-21T10:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 3 Yrkesmesse",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-15T10:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 4 sykepl. Praksisforberedende info",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Grøtteland Sigrid",
+                "Michaelsen Ragnhild"
+            ],
+            "Date": "2015-01-22T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 3 sykepl. Travelbee, lidelse,håp og mening",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Bjerga Grethe Heidi",
+                "Ueland Venke Irene"
+            ],
+            "Date": "2015-01-15T11:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 2 sykepl. Pårørende",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Norheim Anne"
+            ],
+            "Date": "2015-01-09T11:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 2 sykepl. Stell av døde",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Husebø Mia"
+            ],
+            "Date": "2015-01-08T12:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 2 Sykepl - Bibl.kurs",
+            "Rooms": [
+                "AR V-102 pc"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-07T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 3 sykepl. Travelbee, lidelse,håp og mening  gr.arb.",
+            "Rooms": [
+                "AR V-201",
+                "AR V-202",
+                "AR V-203",
+                "AR V-204",
+                "AR V-213",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR Ø-203",
+                "AR Ø-204",
+                "AR Ø-205",
+                "AR Ø-206",
+                "AR Ø-207",
+                "AR Ø-208",
+                "AR Ø-209",
+                "AR Ø-210"
+            ],
+            "Lecturers": [
+                "Bjerga Grethe Heidi",
+                "Ueland Venke Irene"
+            ],
+            "Date": "2015-01-15T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 2 Sykepl - Bibl.kurs",
+            "Rooms": [
+                "HL A-117-datarom"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-08T13:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 2 sykepl. Pårørende",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Nilsen Frode"
+            ],
+            "Date": "2015-01-09T13:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-242-1 Uke 15 Praksisforberd. møte m/ praksisveil.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125",
+                "KA U-043",
+                "KA U-048",
+                "KA U-134",
+                "KA U-135",
+                "KA U-138",
+                "KA U-139"
+            ],
+            "Lecturers": [
+                "Michaelsen Ragnhild"
+            ],
+            "Date": "2015-04-10T14:15:00+02:00",
+            "Length": 2
+        }
+    ]
+}

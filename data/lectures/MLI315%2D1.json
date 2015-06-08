@@ -1,0 +1,15 @@
+{
+    "Name": "MLI315-1 English Writing",
+    "Id": "MLI315%2D1",
+    "Lectures": [
+        {
+            "Name": "MLI305 - Mundtlig eksamen",
+            "Rooms": [
+                "HG O-104"
+            ],
+            "Lecturers": [],
+            "Date": "2015-02-13T09:15:00+01:00",
+            "Length": 1
+        }
+    ]
+}

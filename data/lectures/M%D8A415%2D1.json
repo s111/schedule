@@ -1,0 +1,116 @@
+{
+    "Name": "MØA415-1 KnowEntre",
+    "Id": "M%D8A415%2D1",
+    "Lectures": [
+        {
+            "Name": "MØA415-1 KnowEntre",
+            "Rooms": [
+                "EAL H-211"
+            ],
+            "Lecturers": [
+                "Iakovleva Tatiana"
+            ],
+            "Date": "2015-02-18T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MØA415-1 KnowEntre",
+            "Rooms": [
+                "EAL H-211"
+            ],
+            "Lecturers": [
+                "Iakovleva Tatiana"
+            ],
+            "Date": "2015-02-25T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MØA415-1 KnowEntre",
+            "Rooms": [
+                "EAL H-211"
+            ],
+            "Lecturers": [
+                "Iakovleva Tatiana"
+            ],
+            "Date": "2015-03-04T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MØA415-1 KnowEntre",
+            "Rooms": [
+                "EAL H-211"
+            ],
+            "Lecturers": [
+                "Iakovleva Tatiana"
+            ],
+            "Date": "2015-03-11T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MØA415-1 KnowEntre",
+            "Rooms": [
+                "EAL H-211"
+            ],
+            "Lecturers": [
+                "Iakovleva Tatiana"
+            ],
+            "Date": "2015-03-18T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MØA415-1 KnowEntre",
+            "Rooms": [
+                "EAL H-211"
+            ],
+            "Lecturers": [
+                "Iakovleva Tatiana"
+            ],
+            "Date": "2015-03-25T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "MØA415-1 KnowEntre",
+            "Rooms": [
+                "EAL H-211"
+            ],
+            "Lecturers": [
+                "Iakovleva Tatiana"
+            ],
+            "Date": "2015-04-01T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "MØA415-1 KnowEntre",
+            "Rooms": [
+                "EAL H-211"
+            ],
+            "Lecturers": [
+                "Iakovleva Tatiana"
+            ],
+            "Date": "2015-04-08T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "MØA415-1 KnowEntre",
+            "Rooms": [
+                "EAL H-211"
+            ],
+            "Lecturers": [
+                "Iakovleva Tatiana"
+            ],
+            "Date": "2015-04-15T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "MØA415-1 KnowEntre",
+            "Rooms": [
+                "EAL H-211"
+            ],
+            "Lecturers": [
+                "Iakovleva Tatiana"
+            ],
+            "Date": "2015-04-22T12:15:00+02:00",
+            "Length": 3
+        }
+    ]
+}

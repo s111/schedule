@@ -1,0 +1,42 @@
+{
+    "Name": "BBA/BSOBACH- 5- Skrivekurs",
+    "Id": "%23SPLUS12B33A",
+    "Lectures": [
+        {
+            "Name": "BBA/BSOBACH- 5-  Uke 7 Skrivekurs",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Tønnessen Morten",
+                "Ørvik Kjersti"
+            ],
+            "Date": "2015-02-13T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA/BSOBACH- 5-  Uke 7 Skrivekurs",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Tønnessen Morten",
+                "Ørvik Kjersti"
+            ],
+            "Date": "2015-02-13T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA/BSOBACH- 5-  Uke 2 Skrivekurs",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Tønnessen Morten",
+                "Ørvik Kjersti"
+            ],
+            "Date": "2015-01-06T14:15:00+01:00",
+            "Length": 2
+        }
+    ]
+}

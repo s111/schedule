@@ -1,0 +1,948 @@
+{
+    "Name": "BBA165-BSO-1 Velferdssamfunn, vel",
+    "Id": "BBA165%2D1",
+    "Lectures": [
+        {
+            "Name": "BBA165-BSO-1 Uke 19 Forvaltningsrett 10",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-05-04T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 8 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-16T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 11 Åpen dag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-10T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 22 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-05-26T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 20 Forvaltningsrett 14",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-05-12T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 15 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-07T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 13 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-24T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 16 Forvaltningsrett 4",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Bie Turid"
+            ],
+            "Date": "2015-04-14T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 17 Organisasjonsteori",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-04-21T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 8 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-17T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 22 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-05-27T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 21 Veiledning i grupper",
+            "Rooms": [
+                "AR V-213",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR V-220",
+                "AR V-221",
+                "AR V-222",
+                "AR Ø-202",
+                "AR Ø-203",
+                "AR Ø-204",
+                "AR Ø-205",
+                "AR Ø-206",
+                "AR Ø-207",
+                "AR Ø-208",
+                "AR Ø-209",
+                "AR Ø-210"
+            ],
+            "Lecturers": [
+                "Meland Eilef A.",
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-05-20T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 20 Oppgaveseminar m/veil.",
+            "Rooms": [
+                "AR V-204",
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "AR V-213",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR V-220",
+                "AR V-221",
+                "AR V-222",
+                "AR Ø-202",
+                "AR Ø-203",
+                "AR Ø-204",
+                "AR Ø-205",
+                "AR Ø-206",
+                "AR Ø-207",
+                "AR Ø-208"
+            ],
+            "Lecturers": [
+                "Bie Turid",
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-05-13T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO165-1 Uke 16 Oppgaveseminar m/veil.",
+            "Rooms": [
+                "AR V-201",
+                "AR V-202",
+                "AR V-203",
+                "AR V-204",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR V-220",
+                "AR V-221",
+                "AR V-222",
+                "AR Ø-210"
+            ],
+            "Lecturers": [
+                "Bie Turid"
+            ],
+            "Date": "2015-04-15T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 13 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-25T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 11 Oppgaveseminar m/veil.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Bie Turid",
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-03-11T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 8 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-18T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 22 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-05-28T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 13 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-26T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 11 Oppgaveseminar m/veil.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Bie Turid",
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-03-12T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 8 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-19T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 18 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-05-01T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 16 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-17T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 10 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-06T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 22 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-05-29T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 21 Oppgaveseminar m/veil.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Bie Turid",
+                "Ristesund Torbjørg",
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-05-22T08:15:00+02:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 17 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-04-24T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 19 Forvaltningsrett 12",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-05-08T08:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 13 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-27T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 8 Studiedag",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-02-20T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 1 Oppgaveseminar m/veil.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-03-23T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 9 Info om velferdsrett",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Bie Turid",
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-02-24T09:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 17 Veiledning i grupper, Britt-Ingunn Misund",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-04-23T09:15:00+02:00",
+            "Length": 6
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 7 Organisering av NAV",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-02-12T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 16 Forvaltningsrett 5 oppg.seminar",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Bie Turid"
+            ],
+            "Date": "2015-04-16T09:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 12 Sosialpolitikk",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Nysæther Lars Andre"
+            ],
+            "Date": "2015-03-19T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 9 Sosialpolitikk",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Nysæther Lars Andre"
+            ],
+            "Date": "2015-02-27T09:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 20 Organisasjonsteori",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-05-11T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 19 Organisasjonsteori",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-05-04T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 18 Organisasjonsteori",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-04-27T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 16 Organisasjonsteori",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-04-13T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 10 Sosialpolitikk",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Nysæther Lars Andre"
+            ],
+            "Date": "2015-03-02T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 9 Sosialpolitikk",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Nysæther Lars Andre"
+            ],
+            "Date": "2015-02-23T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 7 Velferdssamfunn, Info om emne",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-02-09T10:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 21  oppsum. oppgaveseminar",
+            "Rooms": [
+                "AR G-001 aud"
+            ],
+            "Lecturers": [
+                "Bie Turid",
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-05-19T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 12 Sosialpolitikk",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Nysæther Lars Andre"
+            ],
+            "Date": "2015-03-17T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 10 Sosialpolitikk",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Nysæther Lars Andre"
+            ],
+            "Date": "2015-03-03T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 7 Stat og kommunal kunnskap",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-02-10T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 19 Organisasjonsteori",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-05-06T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 17 Organisasjonsteori",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-04-22T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 15 Organisasjonsteori",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-04-08T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 9 Sosialpolitikk",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Nysæther Lars Andre"
+            ],
+            "Date": "2015-02-25T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 19 Samfunnsøkonomi",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-07T10:15:00+02:00",
+            "Length": 5
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 11 Sosialpolitikk",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-13T10:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 15 Forvaltningsrett 2",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Bie Turid"
+            ],
+            "Date": "2015-04-10T10:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 12 familierett 3",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Bie Turid"
+            ],
+            "Date": "2015-03-20T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 7 Stat og kommunal kunnskap",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Nysæther Lars Andre"
+            ],
+            "Date": "2015-02-13T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 7 Stat og kommunal kunnskap",
+            "Rooms": [
+                "AR V-201",
+                "AR V-202",
+                "AR V-203",
+                "AR V-204",
+                "AR V-205",
+                "AR V-206",
+                "AR V-207",
+                "AR V-213",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR V-220",
+                "AR V-221",
+                "AR V-222",
+                "AR Ø-210"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-02-12T11:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 20 Forvaltningsrett 13",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-05-11T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 18 Forvaltningsrett 8",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-04-27T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 16 Forvaltningsrett 3",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Bie Turid"
+            ],
+            "Date": "2015-04-13T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 12 Juridisk metode",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Bie Turid"
+            ],
+            "Date": "2015-03-16T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 17 Forvaltningsrett 6",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-04-20T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 7 Stat og kommunal kunnskap",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Nysæther Lars Andre"
+            ],
+            "Date": "2015-02-09T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 19 Forvaltningsrett 11",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-05-06T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 18 Forvaltningsrett 9",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-04-29T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 17 Forvaltningsrett 7",
+            "Rooms": [
+                "AR V-101"
+            ],
+            "Lecturers": [
+                "Skippervik Liv Jorunn"
+            ],
+            "Date": "2015-04-22T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 15 Lovgivnings pros./rettssystem i Norge",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Bie Turid"
+            ],
+            "Date": "2015-04-08T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 12 familierett 1",
+            "Rooms": [
+                "AR Ø-110 aud"
+            ],
+            "Lecturers": [
+                "Bie Turid"
+            ],
+            "Date": "2015-03-18T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 7 Stat og kommunal kunnskap",
+            "Rooms": [
+                "AR Ø-130 aud"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-02-11T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 21 Veil i grupper veilning",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-21T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 16 Oppgaveseminar m/veil.",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125"
+            ],
+            "Lecturers": [
+                "Misund Britt Ingunn"
+            ],
+            "Date": "2015-04-16T12:15:00+02:00",
+            "Length": 3
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 15 Forvaltningsrett 1",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Bie Turid"
+            ],
+            "Date": "2015-04-09T12:15:00+02:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 12 familierett 2",
+            "Rooms": [
+                "AR Ø-120 aud"
+            ],
+            "Lecturers": [
+                "Bie Turid"
+            ],
+            "Date": "2015-03-19T12:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBA165-BSO-1 Uke 11",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-03-13T14:15:00+01:00",
+            "Length": 1
+        }
+    ]
+}

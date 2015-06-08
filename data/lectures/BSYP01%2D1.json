@@ -1,0 +1,733 @@
+{
+    "Name": "BSY/BSNP01-1 Praksisstudier sykep",
+    "Id": "BSYP01%2D1",
+    "Lectures": [
+        {
+            "Name": "BSYP01-1 uke 4 Ferdighetstren. ernæring gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-19T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 3 Ferdighetstren. akt. og hvile gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-12T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSNP01-1 uke 5 Intro til praksis",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-27T08:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BSYP01-1 uke 4 Ferdighetstren. eliminasjon gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Urstad Kristin H"
+            ],
+            "Date": "2015-01-20T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom AR-G101\"OBS\" Film kl. 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom HL-U313\"OBS\" Film kl. 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom AR-G202\"OBS\" Film kl. 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-020\"OBS\" Film kl. 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-136\"OBS\" Film kl. 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-139\"OBS\" Film kl. 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-049\"OBS\" Film kl. 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5 rom KA-052\"OBS\" Film kl. 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-28T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSYP01-1 uke 4 Ferdighetstren. eliminasjon gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Urstad Kristin H"
+            ],
+            "Date": "2015-01-21T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 3 Ferdighetstren. ernæring gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-14T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSNP01-1 uke 2 Ferdighetstren. ernæring gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-07T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-049\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-136\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-137\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-138\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-017\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom AR-G201\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom AR-G101\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSYP01-1 uke 2 Ferdighetstren. akt. og hvile gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-08T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 4 Ferdighetstren. eliminasjon gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Urstad Kristin H"
+            ],
+            "Date": "2015-01-22T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 3 Ferdighetstren. ernæring gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-15T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom AR-G202\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-29T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-049\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-136\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-137\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-050\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-017\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-139\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-138\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSY/BSN-P01-1uke 5- rom KA-020\"OBS\" Intro for dagen 0915-0930+fordel. av gr.rom",
+            "Rooms": [],
+            "Lecturers": [],
+            "Date": "2015-01-30T08:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSYP01-1 uke 2 Ferdighetstren. akt. og hvile gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-09T08:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 3 BHLR",
+            "Rooms": [
+                "KA U-017-Dramarom"
+            ],
+            "Lecturers": [
+                "Eskeland Arild"
+            ],
+            "Date": "2015-01-16T08:15:00+01:00",
+            "Length": 7
+        },
+        {
+            "Name": "BSNP01-1 uke 2 Ferdighetstren. akt. og hvile gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-06T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 3 Ferdighetstren. ernæring gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-13T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01/BSNP01-1 uke 5 Jobbe med case/prakis grupper",
+            "Rooms": [
+                "AR V-201",
+                "AR V-202",
+                "AR V-213",
+                "AR V-214",
+                "AR V-215",
+                "AR V-216",
+                "AR V-218",
+                "AR V-219",
+                "AR V-220",
+                "AR V-221",
+                "AR V-222",
+                "AR Ø-202",
+                "AR Ø-203",
+                "AR Ø-204",
+                "AR Ø-205",
+                "AR Ø-206",
+                "AR Ø-207",
+                "AR Ø-208",
+                "AR Ø-209",
+                "AR Ø-210",
+                "AR Ø-211",
+                "AR Ø-212",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T09:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01/BSNP01-1 uke 8 Praksis",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Jaastad Turid Anita"
+            ],
+            "Date": "2015-02-18T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSYP01-1 uke 5 Jobbe med case/praksis grupper",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-29T09:15:00+01:00",
+            "Length": 6
+        },
+        {
+            "Name": "BSNP01-1 uke 2 Systematisk observasjoner",
+            "Rooms": [
+                "KA U-017-Dramarom"
+            ],
+            "Lecturers": [
+                "Eskeland Arild"
+            ],
+            "Date": "2015-01-08T09:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSYP01-1 uke 5 Jobbe med case/prakis grupper",
+            "Rooms": [
+                "KA GR-006",
+                "KA GR-007",
+                "KA GR-008",
+                "KA GR-009",
+                "KA GR-010",
+                "KA GR-011",
+                "KA GR-030",
+                "KA GR-031",
+                "KA GR-032",
+                "KA GR-033",
+                "KA GR-034",
+                "KA GR-035",
+                "KA GR-036",
+                "KA GR-037",
+                "KA GR-038",
+                "KA GR-120",
+                "KA GR-121",
+                "KA GR-122",
+                "KA GR-123",
+                "KA GR-124",
+                "KA GR-125",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-30T09:15:00+01:00",
+            "Length": 5
+        },
+        {
+            "Name": "BSNP01-1 uke 2 BHLR",
+            "Rooms": [
+                "KA U-017-Dramarom"
+            ],
+            "Lecturers": [
+                "Eskeland Arild"
+            ],
+            "Date": "2015-01-08T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BSYP01-1 uke 5 Info om prak. muntlig eks.",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Handeland Maria"
+            ],
+            "Date": "2015-01-26T12:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSYP01-1 uke 3 Ferdighetstren. akt. og hvile gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-12T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01/BSNP01-1 uke 5 Fremlegg av gr. arb. kl.vis",
+            "Rooms": [
+                "KA U-139"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01/BSNP01-1 uke 5 Fremlegg av gr. arb. kl.vis",
+            "Rooms": [
+                "AR G-101"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01/BSNP01-1 uke 5 Fremlegg av gr. arb. kl.vis",
+            "Rooms": [
+                "KA U-138"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01/BSNP01-1 uke 5 Fremlegg av gr. arb. kl.vis",
+            "Rooms": [
+                "KA U-050"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01/BSNP01-1 uke 5 Fremlegg av gr. arb. kl.vis",
+            "Rooms": [
+                "KA U-020"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01/BSNP01-1 uke 5 Fremlegg av gr. arb. kl.vis",
+            "Rooms": [
+                "KA U-136"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01/BSNP01-1 uke 5 Fremlegg av gr. arb. kl.vis",
+            "Rooms": [
+                "HL U-206"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01/BSNP01-1 uke 5 Fremlegg av gr. arb. kl.vis",
+            "Rooms": [
+                "KA AUD052"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-28T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 3 Ferdighetstren. ernæring gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-14T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 2 Ferdighetstren. akt. og hvile gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-07T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSNP01-1 uke 2 Ferdighetstren. eliminasjon gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Urstad Kristin H"
+            ],
+            "Date": "2015-01-08T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 3 Ferdighetstren. ernæring gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-15T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 4 Ferdighetstren. eliminasjon gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Urstad Kristin H"
+            ],
+            "Date": "2015-01-22T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 2 Ferdighetstren. akt. og hvile gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-09T12:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 5 Info om prak. muntlig eks.",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Handeland Maria"
+            ],
+            "Date": "2015-01-26T13:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSYP01-1 uke 4 Ferdighetstren. eliminasjon gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Urstad Kristin H"
+            ],
+            "Date": "2015-01-19T13:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 4 Ferdighetstren. eliminasjon gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Urstad Kristin H"
+            ],
+            "Date": "2015-01-21T13:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 5 Info om prak. muntlig eks.",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Handeland Maria"
+            ],
+            "Date": "2015-01-26T14:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSYP01-1 uke 4 Ferdighetstren. eliminasjon gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Urstad Kristin H"
+            ],
+            "Date": "2015-01-20T14:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 3 Ferdighetstren. ernæring gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-13T14:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 2 Ferdighetstren. akt. og hvile gr.1,2,3",
+            "Rooms": [
+                "KA AUD4 øv.avd",
+                "KA ØV.AVD."
+            ],
+            "Lecturers": [
+                "Våga Bodil Bø"
+            ],
+            "Date": "2015-01-06T14:15:00+01:00",
+            "Length": 3
+        },
+        {
+            "Name": "BSYP01-1 uke 5 Info om prak. muntlig eks.",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [
+                "Handeland Maria"
+            ],
+            "Date": "2015-01-26T15:15:00+01:00",
+            "Length": 1
+        },
+        {
+            "Name": "BSNP01-1 uke 3 Systematisk observasjoner",
+            "Rooms": [
+                "KA AUD1"
+            ],
+            "Lecturers": [
+                "Eskeland Arild"
+            ],
+            "Date": "2015-01-15T15:15:00+01:00",
+            "Length": 1
+        }
+    ]
+}

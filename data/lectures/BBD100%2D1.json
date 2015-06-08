@@ -1,0 +1,121 @@
+{
+    "Name": "BBD100-1 BULL Deltid",
+    "Id": "BBD100%2D1",
+    "Lectures": [
+        {
+            "Name": "BBD100-1 Uke 19 BULL Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-06T08:15:00+02:00",
+            "Length": 1
+        },
+        {
+            "Name": "BBD100-1 Uke 16 BULL Deltid",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-17T08:15:00+02:00",
+            "Length": 8
+        },
+        {
+            "Name": "BBD100-1 Uke 3 BULL Deltid",
+            "Rooms": [
+                "AR G-202"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-16T08:15:00+01:00",
+            "Length": 8
+        },
+        {
+            "Name": "BBD100-1 Uke 19 BULL Deltid",
+            "Rooms": [
+                "KA U-135",
+                "KA U-136",
+                "KA U-139"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-06T09:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD100-1 Uke 12 BULL Deltid",
+            "Rooms": [
+                "KA AUD053",
+                "KA U-040",
+                "KA U-041",
+                "KA U-042",
+                "KA U-048",
+                "KA U-134"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-18T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBD100-1 Uke 3 BULL Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-14T10:15:00+01:00",
+            "Length": 2
+        },
+        {
+            "Name": "BBD100-1 Uke 12 BULL Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-18T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD100-1 Uke 19 BULL Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-07T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD100-1 Uke 16 BULL Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-04-16T12:15:00+02:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD100-1 Uke 12 BULL Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-03-19T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD100-1 Uke 3 BULL Deltid",
+            "Rooms": [
+                "KA AUD129"
+            ],
+            "Lecturers": [],
+            "Date": "2015-01-15T12:15:00+01:00",
+            "Length": 4
+        },
+        {
+            "Name": "BBD100-1 Uke 19 BULL Deltid",
+            "Rooms": [
+                "KA AUD053"
+            ],
+            "Lecturers": [],
+            "Date": "2015-05-06T13:15:00+02:00",
+            "Length": 3
+        }
+    ]
+}
