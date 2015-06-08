@@ -49,7 +49,7 @@ var CourseSchedule = React.createClass({displayName: "CourseSchedule",
 
         localStorage.setItem("subjects", JSON.stringify(ids));
 
-        var url = "/data/lectures/" + encodeURI(subject) + ".json";
+        var url = "data/lectures/" + encodeURI(subject) + ".json";
 
         $.ajax({
             url: url,
@@ -146,7 +146,7 @@ var Selection = React.createClass({displayName: "Selection",
 
     componentDidMount: function() {
         $.ajax({
-            url: "/data"+this.props.type+".json",
+            url: "data/"+this.props.type+".json",
             dataType: "json",
             cache: false,
             success: function(data) {
