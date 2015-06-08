@@ -81,7 +81,13 @@ var CourseSchedule = React.createClass({
     },
 
     setDay: function(date) {
-        this.setState({day: date});
+        var d = new Date(date);
+
+        if (Object.prototype.toString.call(d) === "[object Date]") {
+            if (!isNaN(d.getTime())) {
+                this.setState({day: d});
+            }
+        }
     },
 
     getInitialState: function() {
@@ -140,7 +146,7 @@ var Controls = React.createClass({
 
 var DateInput = React.createClass({
     onChange: function() {
-        this.props.onChange(new Date(this.getDOMNode().value));
+        this.props.onChange(this.getDOMNode().value);
     },
 
     render: function() {
