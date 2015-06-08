@@ -1,7 +1,5 @@
 var ids = [];
 
-var today = new Date("3/23/2015");
-
 var CourseSchedule = React.createClass({displayName: "CourseSchedule",
     handleClick: function(id) {
         var subjects = this.state.subjects.slice();
@@ -66,13 +64,9 @@ var CourseSchedule = React.createClass({displayName: "CourseSchedule",
                 var lectures = this.state.lectures.slice();
 
                 data.Lectures.forEach(function(lecture) {
-                    var start = new Date(lecture.Date);
-
-                    if (start.toDateString() == today.toDateString()) {
                         lecture.Id = subject;
                         lectures.push(lecture);
-                    }
-                });
+                }.bind(this));
 
                 lectures.sort(function(a, b) {
                     return a.Date > b.Date;
@@ -86,8 +80,13 @@ var CourseSchedule = React.createClass({displayName: "CourseSchedule",
         });
     },
 
+    setDay: function(date) {
+        this.setState({day: date});
+    },
+
     getInitialState: function() {
         return {
+            day: new Date(),
             subjects: [],
             lectures: []
         };
@@ -102,10 +101,18 @@ var CourseSchedule = React.createClass({displayName: "CourseSchedule",
     },
 
     render: function() {
+        var lectures = this.state.lectures.filter(function(lecture) {
+            var start = new Date(lecture.Date);
+
+            if (start.toDateString() == this.state.day.toDateString()) {
+                return lecture;
+            }
+        }.bind(this));
+
         return (
             React.createElement("div", {className: "container"}, 
-                React.createElement(Controls, {subjects: this.state.subjects, onSubmit: this.addSubject, onClick: this.handleClick}), 
-                React.createElement(LectureList, {data: this.state.lectures})
+                React.createElement(Controls, {day: this.state.day, subjects: this.state.subjects, onSubmit: this.addSubject, onClick: this.handleClick, onChange: this.setDay}), 
+                React.createElement(LectureList, {data: lectures})
             )
         );
     }
@@ -121,10 +128,24 @@ var Controls = React.createClass({displayName: "Controls",
     render: function() {
         return(
             React.createElement("div", {className: "well"}, 
+                React.createElement("label", {htmlFor: "date-input"}, "Date:"), 
+                React.createElement(DateInput, {day: this.props.day, onChange: this.props.onChange}), 
                 React.createElement(Selection, {type: "programs", data: this.props.programs, onSubmit: this.addProgram}), 
                 React.createElement(Selection, {type: "subjects", data: this.props.subjects, onSubmit: this.props.onSubmit}), 
                 React.createElement(SelectedSubjects, {data: this.props.subjects, onClick: this.props.onClick})
             )
+        );
+    }
+});
+
+var DateInput = React.createClass({displayName: "DateInput",
+    onChange: function() {
+        this.props.onChange(new Date(this.getDOMNode().value));
+    },
+
+    render: function() {
+        return (
+            React.createElement("input", {id: "date-input", className: "form-control", type: "date", defaultValue: this.props.day.toISOString().substring(0, 10), onChange: this.onChange})
         );
     }
 });

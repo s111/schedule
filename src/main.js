@@ -1,7 +1,5 @@
 var ids = [];
 
-var today = new Date("3/23/2015");
-
 var CourseSchedule = React.createClass({
     handleClick: function(id) {
         var subjects = this.state.subjects.slice();
@@ -66,13 +64,9 @@ var CourseSchedule = React.createClass({
                 var lectures = this.state.lectures.slice();
 
                 data.Lectures.forEach(function(lecture) {
-                    var start = new Date(lecture.Date);
-
-                    if (start.toDateString() == today.toDateString()) {
                         lecture.Id = subject;
                         lectures.push(lecture);
-                    }
-                });
+                }.bind(this));
 
                 lectures.sort(function(a, b) {
                     return a.Date > b.Date;
@@ -86,8 +80,13 @@ var CourseSchedule = React.createClass({
         });
     },
 
+    setDay: function(date) {
+        this.setState({day: date});
+    },
+
     getInitialState: function() {
         return {
+            day: new Date(),
             subjects: [],
             lectures: []
         };
@@ -102,10 +101,18 @@ var CourseSchedule = React.createClass({
     },
 
     render: function() {
+        var lectures = this.state.lectures.filter(function(lecture) {
+            var start = new Date(lecture.Date);
+
+            if (start.toDateString() == this.state.day.toDateString()) {
+                return lecture;
+            }
+        }.bind(this));
+
         return (
             <div className="container">
-                <Controls subjects={this.state.subjects} onSubmit={this.addSubject} onClick={this.handleClick} />
-                <LectureList data={this.state.lectures} />
+                <Controls day={this.state.day} subjects={this.state.subjects} onSubmit={this.addSubject} onClick={this.handleClick} onChange={this.setDay} />
+                <LectureList data={lectures} />
             </div>
         );
     }
@@ -121,10 +128,24 @@ var Controls = React.createClass({
     render: function() {
         return(
             <div className="well">
+                <label htmlFor="date-input" >Date:</label>
+                <DateInput day={this.props.day} onChange={this.props.onChange}/>
                 <Selection type="programs" data={this.props.programs} onSubmit={this.addProgram} />
                 <Selection type="subjects" data={this.props.subjects} onSubmit={this.props.onSubmit} />
                 <SelectedSubjects data={this.props.subjects} onClick={this.props.onClick} />
             </div>
+        );
+    }
+});
+
+var DateInput = React.createClass({
+    onChange: function() {
+        this.props.onChange(new Date(this.getDOMNode().value));
+    },
+
+    render: function() {
+        return (
+            <input id="date-input" className="form-control" type="date" defaultValue={this.props.day.toISOString().substring(0, 10)} onChange={this.onChange} />
         );
     }
 });
