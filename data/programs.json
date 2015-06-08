@@ -1,318 +1,30 @@
 [
     {
-        "Name": "-ENGELSK - årsstudium 2.sem.",
+        "Name": "B-STATSVIT 4.sem samf sikk - Statsvitenskap - bachelorstudium",
+        "Id": "%23SPLUS05A2F7",
         "Subjects": [
-            "ENG175%2D1",
-            "ENG195%2D1"
+            "BSA240%2D1",
+            "BSA250%2D1",
+            "BSA260%2D1"
         ]
     },
     {
-        "Name": "-ENGELSK - årsstudium 2.sem.",
+        "Name": "B-STATSVIT 4.sem valgfrie - Statsvitenskap - bachelorstudium",
+        "Id": "%23SPLUS05A2F8",
         "Subjects": [
-            "ENG175%2D1",
-            "ENG195%2D1"
+            "BSP250%2D1"
         ]
     },
     {
-        "Name": "-ENGELSK bachelor 2. sem.",
+        "Name": "B-SOSIOL 4.sem valgfrie - Sosiologi - bachelorstudium",
+        "Id": "%23SPLUS05A2F9",
         "Subjects": [
-            "ENG175%2D1",
-            "ENG195%2D1"
-        ]
-    },
-    {
-        "Name": "-ENGELSK-fordypning",
-        "Subjects": [
-            "ENG370%2D1"
-        ]
-    },
-    {
-        "Name": "-Eng/Nor/Rel/His Bredde-5.sem.",
-        "Subjects": []
-    },
-    {
-        "Name": "-HISTORIE - årsstudium 2.sem.",
-        "Subjects": [
-            "HIS165%2D1",
-            "HIS175%2D1"
-        ]
-    },
-    {
-        "Name": "-HISTORIE - årsstudium 2.sem.",
-        "Subjects": [
-            "HIS165%2D1",
-            "HIS175%2D1"
-        ]
-    },
-    {
-        "Name": "-HISTORIE bachelor 2. sem.",
-        "Subjects": [
-            "HIS165%2D1",
-            "HIS175%2D1"
-        ]
-    },
-    {
-        "Name": "-HISTORIE-fordypning",
-        "Subjects": [
-            "HIS370%2D1"
-        ]
-    },
-    {
-        "Name": "-Lektor/PPU program",
-        "Subjects": [
-            "PPU112%2D1",
-            "PPU114%2D1",
-            "PPU132%2D1",
-            "PPU134%2D1",
-            "PPU137%2D1",
-            "PPU142%2D1",
-            "PPU146%2D1",
-            "PPU180%2D1",
-            "PPU220%2D1"
-        ]
-    },
-    {
-        "Name": "-NORDISK - årsstudium 2.sem",
-        "Subjects": [
-            "NOR115%2D1",
-            "NOR165%2D1"
-        ]
-    },
-    {
-        "Name": "-NORDISK - årsstudium 2.sem.",
-        "Subjects": [
-            "NOR115%2D1",
-            "NOR165%2D1"
-        ]
-    },
-    {
-        "Name": "-NORDISK bachelor 2. sem.",
-        "Subjects": [
-            "NOR115%2D1",
-            "NOR165%2D1"
-        ]
-    },
-    {
-        "Name": "-NORDISK-fordypning",
-        "Subjects": [
-            "NOR370%2D1"
-        ]
-    },
-    {
-        "Name": "-RELIGION- årsstudium",
-        "Subjects": [
-            "REL165%2D1",
-            "REL175%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEHAGELÆRER- 1.ÅR A-KL.",
-        "Subjects": [
-            "%23SPLUS88D464",
-            "%23SPLUS88D47B",
-            "BBL100%2D1",
-            "BBL110%2D1",
-            "BBL120%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEHAGELÆRER- 1.ÅR B-KL.",
-        "Subjects": [
-            "%23SPLUS88D464",
-            "%23SPLUS88D47B",
-            "BBL100%2D1",
-            "BBL110%2D1",
-            "BBL120%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEHAGELÆRER- 1.ÅR C-KL.",
-        "Subjects": [
-            "%23SPLUS88D464",
-            "%23SPLUS88D47B",
-            "BBL100%2D1",
-            "BBL110%2D1",
-            "BBL120%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEHAGELÆRER- 1.ÅR D-KL.",
-        "Subjects": [
-            "%23SPLUS88D464",
-            "%23SPLUS88D47B",
-            "BBL100%2D1",
-            "BBL110%2D1",
-            "BBL120%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEHAGELÆRER- 2- ÅR A-KL",
-        "Subjects": [
-            "BBL200%2D1",
-            "BBL210%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEHAGELÆRER- 2- ÅR B-KL",
-        "Subjects": [
-            "BBL200%2D1",
-            "BBL210%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEHAGELÆRER- 2- ÅR C-KL",
-        "Subjects": [
-            "BBL200%2D1",
-            "BBL210%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEHAGELÆRER- 2- ÅR D-KL",
-        "Subjects": [
-            "BBL200%2D1",
-            "BBL210%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEHAGELÆRERUTD. DELTID 1.år",
-        "Subjects": [
-            "BBD100%2D1",
-            "BBD110%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEHAGELÆRERUTD. DELTID 2.år",
-        "Subjects": [
-            "BBD120%2D1",
-            "BBD200%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEV-1",
-        "Subjects": [
-            "%23SPLUSE297CF",
-            "BBA160%2D1",
-            "BBA165%2D1",
-            "BSO130%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEV-2",
-        "Subjects": [
-            "BBAP20%2D1"
-        ]
-    },
-    {
-        "Name": "B-BARNEV-3",
-        "Subjects": [
-            "%23SPLUS12B33A",
-            "BBABAC%2D5"
-        ]
-    },
-    {
-        "Name": "B-BIOKJE 2.sem - Biologisk kjemi - bioteknologi - bachelorstudium i biologisk kjemi",
-        "Subjects": [
-            "BIO110%2D1",
-            "KJE150%2D1",
-            "STA100%2D1"
-        ]
-    },
-    {
-        "Name": "B-BIOKJE 4.sem - Biologisk kjemi - bioteknologi - bachelorstudium i biologisk kjemi",
-        "Subjects": [
-            "BIO200%2D1",
-            "BIO210%2D1",
-            "KJE240%2D1"
-        ]
-    },
-    {
-        "Name": "B-BIOKJE 6.sem",
-        "Subjects": [
-            "BIO300%2D1",
-            "BIO560%2D1",
-            "BSS220%2D1",
-            "MAT200%2D1"
-        ]
-    },
-    {
-        "Name": "B-BYGG 2.sem byutv/urban d - Byggingeniør - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "BYG105%2D1",
-            "BYG110%2D1",
-            "MAT200%2D1"
-        ]
-    },
-    {
-        "Name": "B-BYGG 2.sem konstr. - Byggingeniør - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "BYG102%2D1",
-            "BYG140%2D1",
-            "MAT200%2D1"
-        ]
-    },
-    {
-        "Name": "B-BYGG 2.sem teknisk plan - Byggingeniør - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "BYG102%2D1",
-            "BYG140%2D1",
-            "MAT200%2D1"
-        ]
-    },
-    {
-        "Name": "B-BYGG 4.sem byutv/urban d - Byggingeniør - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "BYG210%2D1",
-            "BYG215%2D1",
-            "STA100%2D1"
-        ]
-    },
-    {
-        "Name": "B-BYGG 4.sem konstr. - Byggingeniør - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "BYG210%2D1",
-            "BYG220%2D1",
-            "STA100%2D1"
-        ]
-    },
-    {
-        "Name": "B-BYGG 4.sem teknisk plan - Byggingeniør - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "BYG125%2D1",
-            "BYG210%2D1",
-            "STA100%2D1"
-        ]
-    },
-    {
-        "Name": "B-BYGG 6.sem byutv - Byggingeniør - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "BYGBBAC%2D1",
-            "ING200%2D1"
-        ]
-    },
-    {
-        "Name": "B-BYGG 6.sem konstr - Byggingeniør - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "BYGKBAC%2D1",
-            "ING200%2D1"
-        ]
-    },
-    {
-        "Name": "B-BYGG 6.sem tekn pl - Byggingeniør - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "BYGTBAC%2D1",
-            "ING200%2D1"
-        ]
-    },
-    {
-        "Name": "B-DATA 2.sem - Data - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "DAT100%2D1",
-            "MAT200%2D1",
-            "STA100%2D1"
+            "BSP250%2D1"
         ]
     },
     {
         "Name": "B-DATA 4.sem - Data - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS0E0C74",
         "Subjects": [
             "DAT220%2D1",
             "DAT230%2D1",
@@ -321,21 +33,15 @@
     },
     {
         "Name": "B-DATA 6.sem - Data - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS0E0C75",
         "Subjects": [
             "DATBAC%2D1",
             "ING200%2D1"
         ]
     },
     {
-        "Name": "B-ELE-YVEI 2.sem - Elektroingeniør, y-vei, bachelor i ingeniørfag",
-        "Subjects": [
-            "DAT100%2D1",
-            "ELE220%2D1",
-            "YMF110%2D1"
-        ]
-    },
-    {
         "Name": "B-ELE-YVEI 4.sem - Elektroingeniør, y-vei, bachelor i ingeniørfag",
+        "Id": "%23SPLUS0E0C76",
         "Subjects": [
             "ELE300%2D1",
             "MAT200%2D1",
@@ -343,15 +49,8 @@
         ]
     },
     {
-        "Name": "B-ELEKTRO 2.sem - Elektro - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "DAT100%2D1",
-            "ELE100%2D1",
-            "MAT200%2D1"
-        ]
-    },
-    {
         "Name": "B-ELEKTRO 4.sem studieret el. og komm - Elektro - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS0E0C77",
         "Subjects": [
             "DAT230%2D1",
             "ELE300%2D1",
@@ -359,145 +58,16 @@
         ]
     },
     {
-        "Name": "B-ELEKTRO 4.sem studieret ind aut - Elektro - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "ELE220%2D1",
-            "ELE300%2D1",
-            "STA100%2D1"
-        ]
-    },
-    {
         "Name": "B-ELEKTRO 6.sem - Elektro - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS0E0C78",
         "Subjects": [
             "ELEBAC%2D1",
             "ING200%2D1"
-        ]
-    },
-    {
-        "Name": "B-FJERMU - Fjernsyns- og multimedieproduksjon - bachelorstudium",
-        "Subjects": [
-            "BSS120%2D1"
-        ]
-    },
-    {
-        "Name": "B-FØRLÆRD-F3-deltid",
-        "Subjects": [
-            "BFD102%2D2",
-            "BFD140%2D1",
-            "BFD230%2D1",
-            "BFD350%2D1"
-        ]
-    },
-    {
-        "Name": "B-FØRLÆRD-F4-deltid- org. led.",
-        "Subjects": [
-            "BFD301%2D1"
-        ]
-    },
-    {
-        "Name": "B-Førskolelærerutd. Komperativ pedagogikk",
-        "Subjects": [
-            "BF%D8335%2D1"
-        ]
-    },
-    {
-        "Name": "B-Førskolelærerutd. fordypning  Forming",
-        "Subjects": [
-            "BF%D8365%2D1"
-        ]
-    },
-    {
-        "Name": "B-Førskolelærerutd. fordypning  Musikk",
-        "Subjects": [
-            "BF%D8380%2D1"
-        ]
-    },
-    {
-        "Name": "B-Førskolelærerutd. fordypning org.led.",
-        "Subjects": [
-            "BF%D8301%2D1"
-        ]
-    },
-    {
-        "Name": "B-Førskolelærerutd. fordypning småbarnsped.",
-        "Subjects": [
-            "BF%D8305%2D1"
-        ]
-    },
-    {
-        "Name": "B-HOTLED 2.sem - Hotelledelse - bachelorstudium",
-        "Subjects": [
-            "BHO115%2D1",
-            "BHO130%2D1",
-            "BHO150%2D2"
-        ]
-    },
-    {
-        "Name": "B-HOTLED 4.sem - Hotelledelse - bachelorstudium",
-        "Subjects": [
-            "BHO285%2D1",
-            "BHO290%2D1",
-            "BHO295%2D1"
-        ]
-    },
-    {
-        "Name": "B-HOTLED 6.sem - Hotelledelse - bachelorstudium",
-        "Subjects": [
-            "BHO275%2D1",
-            "BRL340%2D1"
-        ]
-    },
-    {
-        "Name": "B-IDRETT- 2.semester - Idrett/kroppsøving - bachelorstudium",
-        "Subjects": [
-            "IDR101%2D2"
-        ]
-    },
-    {
-        "Name": "B-IDRETT- 4.semester - Idrett/kroppsøving - bachelorstudium",
-        "Subjects": [
-            "IDR107%2D1"
-        ]
-    },
-    {
-        "Name": "B-IDRETT- 6.semester - Idrett/kroppsøving - bachelorstudium",
-        "Subjects": [
-            "IDR105%2D3",
-            "IDR115%2D1"
-        ]
-    },
-    {
-        "Name": "B-ING ELEKTRO 2.sem fra sots - Elektro - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "ELE300%2D1",
-            "MAT200%2D1",
-            "STA100%2D1"
-        ]
-    },
-    {
-        "Name": "B-ING ELEKTRO 4.sem fra sots - Elektro - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "ELEBAC%2D1",
-            "ING200%2D1"
-        ]
-    },
-    {
-        "Name": "B-JOURNAL - Journalistikk - bachelorstudium",
-        "Subjects": [
-            "BJO115%2D1",
-            "BSS120%2D1"
-        ]
-    },
-    {
-        "Name": "B-KJEMIL 2.sem - Kjemi og miljø - bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "KJE150%2D1",
-            "MAT200%2D1",
-            "STA100%2D1"
         ]
     },
     {
         "Name": "B-KJEMIL 4.sem - Kjemi og miljø - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS0E0C79",
         "Subjects": [
             "BIO200%2D1",
             "BYG125%2D1",
@@ -508,25 +78,15 @@
     },
     {
         "Name": "B-KJEMIL 6.sem - Kjemi og miljø - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS0E0C7A",
         "Subjects": [
             "ING200%2D1",
             "KJEBAC%2D1"
         ]
     },
     {
-        "Name": "B-KUNSTV - Kunst- og kulturstudier - bachelorstudium",
-        "Subjects": []
-    },
-    {
-        "Name": "B-MASKIN 2.sem - Maskiningeniør - bachelorstudium i ingeniørfag, studieretning konstruksjons- og materialteknikk",
-        "Subjects": [
-            "BYG140%2D1",
-            "MAT200%2D1",
-            "STA100%2D1"
-        ]
-    },
-    {
         "Name": "B-MASKIN 4.sem - Maskiningeniør - bachelorstudium i ingeniørfag, studieretning konstruksjons- og materialteknikk",
+        "Id": "%23SPLUS0E0C7B",
         "Subjects": [
             "ELE100%2D1",
             "MSK210%2D1",
@@ -535,49 +95,15 @@
     },
     {
         "Name": "B-MASKIN 6.sem - Maskiningeniør - bachelorstudium i ingeniørfag, studieretning konstruksjons- og materialteknikk",
+        "Id": "%23SPLUS0E0C7C",
         "Subjects": [
             "ING200%2D1",
             "MSKBAC%2D1"
         ]
     },
     {
-        "Name": "B-MATEMA - Matematikk - bachelorstudium i matematikk",
-        "Subjects": []
-    },
-    {
-        "Name": "B-MATFYS 2.sem - Matematikk og fysikk - bachelorstudium",
-        "Subjects": [
-            "FYS210%2D1",
-            "MAT210%2D1",
-            "STA100%2D1"
-        ]
-    },
-    {
-        "Name": "B-MATFYS 4.sem - Matematikk og fysikk - bachelorstudium",
-        "Subjects": [
-            "FYS300%2D1",
-            "FYS310%2D1",
-            "MAT230%2D1",
-            "MAT320%2D1"
-        ]
-    },
-    {
-        "Name": "B-MATFYS 6.sem - Matematikk og fysikk - bachelorstudium",
-        "Subjects": [
-            "MAFBAC%2D1",
-            "MAT240%2D1"
-        ]
-    },
-    {
-        "Name": "B-PETGEO 2.sem - Petroleumsgeologi - Bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "GEO100%2D1",
-            "MAT200%2D1",
-            "STA100%2D1"
-        ]
-    },
-    {
         "Name": "B-PETGEO 4.sem - Petroleumsgeologi - Bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS0E0C7D",
         "Subjects": [
             "GEO260%2D1",
             "KJE150%2D1",
@@ -587,39 +113,33 @@
     },
     {
         "Name": "B-PETGEO 6.sem - Petroleumsgeologi - Bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS0E0C7E",
         "Subjects": [
             "GEOBAC%2D1",
             "ING200%2D1"
         ]
     },
     {
-        "Name": "B-PETROL 2.sem - Petroleumsteknologi - Bachelorstudium i ingeniørfag",
+        "Name": "B-MATFYS 4.sem - Matematikk og fysikk - bachelorstudium",
+        "Id": "%23SPLUS0E0C7F",
         "Subjects": [
-            "GEO100%2D1",
-            "MAT200%2D1",
-            "STA100%2D1"
+            "FYS300%2D1",
+            "FYS310%2D1",
+            "MAT230%2D1",
+            "MAT320%2D1"
         ]
     },
     {
-        "Name": "B-PETROL 4.sem ford boring - Petroleumsteknologi - Bachelorstudium i ingeniørfag",
+        "Name": "B-MATFYS 6.sem - Matematikk og fysikk - bachelorstudium",
+        "Id": "%23SPLUS0E0C80",
         "Subjects": [
-            "BYG140%2D1",
-            "PET110%2D1",
-            "PET120%2D1"
-        ]
-    },
-    {
-        "Name": "B-PETROL 4.sem ford naturgass - Petroleumsteknologi - Bachelorstudium i ingeniørfag",
-        "Subjects": [
-            "BYG140%2D1",
-            "ELE100%2D1",
-            "KJE150%2D1",
-            "PET110%2D1",
-            "PET120%2D1"
+            "MAFBAC%2D1",
+            "MAT240%2D1"
         ]
     },
     {
         "Name": "B-PETROL 4.sem ford reservoar - Petroleumsteknologi - Bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS0E0C81",
         "Subjects": [
             "KJE150%2D1",
             "PET110%2D1",
@@ -628,643 +148,63 @@
     },
     {
         "Name": "B-PETROL 6.sem - Petroleumsteknologi - Bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS0E0C82",
         "Subjects": [
             "ING200%2D1",
             "PETBAC%2D1"
         ]
     },
     {
-        "Name": "B-REGREV 2.sem - Regnskap og revisjon - bachelorstudium",
-        "Subjects": [
-            "B%D8K103%2D1",
-            "B%D8K104%2D1",
-            "B%D8K225%2D1"
-        ]
-    },
-    {
-        "Name": "B-REGREV 4.sem - Regnskap og revisjon - bachelorstudium",
-        "Subjects": [
-            "B%D8K275%2D1",
-            "BRE235%2D1",
-            "BRE255%2D1",
-            "BRE260%2D1"
-        ]
-    },
-    {
-        "Name": "B-REGREV 6.sem - Regnskap og revisjon - bachelorstudium",
-        "Subjects": [
-            "BRE320%2D2",
-            "BRE330%2D2",
-            "BRE340%2D1"
-        ]
-    },
-    {
-        "Name": "B-REILED 2.sem - Reiselivsledelse - bachelorstudium",
-        "Subjects": [
-            "BHO115%2D1",
-            "BHO130%2D1",
-            "BHO150%2D2"
-        ]
-    },
-    {
-        "Name": "B-REILED 4.sem - Reiselivsledelse - bachelorstudium",
-        "Subjects": [
-            "BHO290%2D1",
-            "BRL260%2D1",
-            "BRL270%2D1"
-        ]
-    },
-    {
-        "Name": "B-REILED 6.sem - Reiselivsledelse - bachelorstudium",
-        "Subjects": [
-            "BHO275%2D1",
-            "BRL340%2D1"
-        ]
-    },
-    {
-        "Name": "B-RETVIT 2.sem - Rettsvitenskap - bachelorstudium",
-        "Subjects": [
-            "BRV100%2D1",
-            "BRV110%2D1",
-            "BRV120%2D1"
-        ]
-    },
-    {
-        "Name": "B-RETVIT 4.sem - Rettsvitenskap - bachelorstudium",
-        "Subjects": [
-            "BRV220%2D1",
-            "BRV230%2D1",
-            "BSS270%2D1"
-        ]
-    },
-    {
-        "Name": "B-RETVIT 6.sem - Rettsvitenskap - bachelorstudium",
-        "Subjects": [
-            "BRV210%2D1",
-            "BRV310%2D1"
-        ]
-    },
-    {
-        "Name": "B-SFAGPL - Samfunnsfag med personalledelse - bachelorstudium",
-        "Subjects": []
-    },
-    {
-        "Name": "B-SOSIOL 2.sem - Sosiologi - bachelorstudium",
-        "Subjects": [
-            "BSA145%2D1",
-            "BSS120%2D1",
-            "BSS130%2D1"
-        ]
-    },
-    {
-        "Name": "B-SOSIOL 4.sem pers.l. - Sosiologi - bachelorstudium",
-        "Subjects": [
-            "BSS220%2D1",
-            "BSS235%2D1",
-            "BSS270%2D1"
-        ]
-    },
-    {
-        "Name": "B-SOSIOL 4.sem samf.sik. - Sosiologi - bachelorstudium",
-        "Subjects": [
-            "BSA240%2D1",
-            "BSA250%2D1",
-            "BSA260%2D1"
-        ]
-    },
-    {
-        "Name": "B-SOSIOL 4.sem valgfrie - Sosiologi - bachelorstudium",
-        "Subjects": [
-            "BSP250%2D1"
-        ]
-    },
-    {
-        "Name": "B-SOSIOL 6.sem - Sosiologi - bachelorstudium",
-        "Subjects": [
-            "BSS320%2D1",
-            "BSSBAC%2D1"
-        ]
-    },
-    {
-        "Name": "B-SOSIONOM-1",
-        "Subjects": [
-            "%23SPLUS520581",
-            "BBA165%2D1",
-            "BSO130%2D1",
-            "BSO165%2D1"
-        ]
-    },
-    {
-        "Name": "B-SOSIONOM-2",
-        "Subjects": [
-            "BSOP20%2D2"
-        ]
-    },
-    {
-        "Name": "B-SOSIONOM-3",
-        "Subjects": [
-            "%23SPLUS12B33A",
-            "BBABAC%2D5"
-        ]
-    },
-    {
-        "Name": "B-STATSVIT 2.sem - Statsvitenskap - bachelorstudium",
-        "Subjects": [
-            "BSS120%2D1",
-            "BST120%2D1",
-            "BST130%2D1"
-        ]
-    },
-    {
-        "Name": "B-STATSVIT 4.sem personal - Statsvitenskap - bachelorstudium",
-        "Subjects": [
-            "BSS220%2D1",
-            "BSS235%2D1",
-            "BSS270%2D1"
-        ]
-    },
-    {
-        "Name": "B-STATSVIT 4.sem samf sikk - Statsvitenskap - bachelorstudium",
-        "Subjects": [
-            "BSA240%2D1",
-            "BSA250%2D1",
-            "BSA260%2D1"
-        ]
-    },
-    {
-        "Name": "B-STATSVIT 4.sem valgfrie - Statsvitenskap - bachelorstudium",
-        "Subjects": [
-            "BSP250%2D1"
-        ]
-    },
-    {
-        "Name": "B-STATSVIT 6.sem - Statsvitenskap - bachelorstudium",
-        "Subjects": [
-            "BST300%2D1",
-            "BSTBAC%2D1"
-        ]
-    },
-    {
-        "Name": "B-SYKEPD- 2 kull 2011",
-        "Subjects": [
-            "BSY341%2D1"
-        ]
-    },
-    {
-        "Name": "B-SYKEPD- 2 kull 2013",
-        "Subjects": [
-            "BSN143%2D1"
-        ]
-    },
-    {
-        "Name": "B-SYKEPD- 3 kull 2012",
-        "Subjects": [
-            "BSY242%2D1"
-        ]
-    },
-    {
-        "Name": "B-SYKEPD- kull 2011 - Sykepleie nettbasert - bachelorstudium",
-        "Subjects": [
-            "BSY341%2D1"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-1A",
-        "Subjects": [
-            "BSY153%2D1",
-            "BSY154%2D1",
-            "BSYP01%2D1",
-            "SVEXPHIL%2D2"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-1B",
-        "Subjects": [
-            "BSY153%2D1",
-            "BSY154%2D1",
-            "BSYP01%2D1",
-            "SVEXPHIL%2D2"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-1C",
-        "Subjects": [
-            "BSY153%2D1",
-            "BSY154%2D1",
-            "BSYP01%2D1",
-            "SVEXPHIL%2D2"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-1D",
-        "Subjects": [
-            "BSY153%2D1",
-            "BSY154%2D1",
-            "BSYP01%2D1",
-            "SVEXPHIL%2D2"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-1E",
-        "Subjects": [
-            "BSY153%2D1",
-            "BSY154%2D1",
-            "BSYP01%2D1",
-            "SVEXPHIL%2D2"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-1F",
-        "Subjects": [
-            "BSY153%2D1",
-            "BSY154%2D1",
-            "BSYP01%2D1",
-            "SVEXPHIL%2D2"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-1G",
-        "Subjects": [
-            "BSY153%2D1",
-            "BSY154%2D1",
-            "BSYP01%2D1",
-            "SVEXPHIL%2D2"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-1H",
-        "Subjects": [
-            "BSY154%2D1",
-            "BSYP01%2D1"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-2A",
-        "Subjects": [
-            "BSY242%2D1"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-2B",
-        "Subjects": [
-            "BSY242%2D1"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-2C",
-        "Subjects": [
-            "BSY242%2D1"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-2D",
-        "Subjects": [
-            "BSY242%2D1"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-3A",
-        "Subjects": [
-            "BSY341%2D1",
-            "BSYBAC%2D3"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-3B",
-        "Subjects": [
-            "BSY341%2D1",
-            "BSYBAC%2D3"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-3C",
-        "Subjects": [
-            "BSY341%2D1",
-            "BSYBAC%2D3"
-        ]
-    },
-    {
-        "Name": "B-SYKEPL-3D",
-        "Subjects": [
-            "BSY341%2D1",
-            "BSYBAC%2D3"
-        ]
-    },
-    {
-        "Name": "B-ØKAD 2.sem - Økonomisk-administrative fag - bachelorstudium",
-        "Subjects": [
-            "B%D8K103%2D1",
-            "B%D8K104%2D1",
-            "B%D8K225%2D1"
-        ]
-    },
-    {
-        "Name": "B-ØKAD 4.sem - Økonomisk-administrative fag - bachelorstudium",
-        "Subjects": [
-            "B%D8K255%2D1"
-        ]
-    },
-    {
-        "Name": "B-ØKAD 4.sem valgemner",
-        "Subjects": [
-            "B%D8K275%2D1",
-            "B%D8K285%2D1",
-            "B%D8K310%2D1",
-            "B%D8K350%2D1",
-            "B%D8K375%2D1",
-            "B%D8K395%2D1",
-            "BSS130%2D1",
-            "IND520%2D1"
-        ]
-    },
-    {
-        "Name": "B-ØKAD 6.sem - Økonomisk-administrative fag - bachelorstudium",
-        "Subjects": [
-            "B%D8K235%2D1"
-        ]
-    },
-    {
         "Name": "Comparativ Education Studies",
+        "Id": "%23SPLUS139C62",
         "Subjects": [
             "EIS100%2D1",
             "EIS120%2D2"
         ]
     },
     {
-        "Name": "D-BIOKJEMI - Biologisk kjemi - Ph.d.",
-        "Subjects": []
-    },
-    {
-        "Name": "D-DELHF - Midlertidig opptak til Ph.d. program",
-        "Subjects": []
-    },
-    {
-        "Name": "D-DELSV - Midlertidig opptak til Ph.d. program",
-        "Subjects": []
-    },
-    {
-        "Name": "D-DELTN - Midlertidig opptak til Ph.d. program",
-        "Subjects": []
-    },
-    {
-        "Name": "D-EMNE-SV - Opptak til enkeltemne på Ph.d. nivå ved SV",
-        "Subjects": []
-    },
-    {
-        "Name": "D-INFTEK - Informasjonsteknologi - Ph.d.",
-        "Subjects": []
-    },
-    {
-        "Name": "D-LEDELSE - Ledelse - Ph.d.",
-        "Subjects": []
-    },
-    {
-        "Name": "D-LESEVIT - Lesevitenskap - Ph.d.",
-        "Subjects": []
-    },
-    {
-        "Name": "D-OFFSH - Offshoreteknologi - Ph.d.",
-        "Subjects": []
-    },
-    {
-        "Name": "D-PETEK - Petroleumsteknologi - Ph.d.",
-        "Subjects": []
-    },
-    {
-        "Name": "D-RISKSIK - Risikostyring og samfunnssikkerhet - Ph.d.",
-        "Subjects": []
-    },
-    {
-        "Name": "D-SAMSIK - Risikostyring og samfunnssikkerhet - Ph.d.",
-        "Subjects": []
-    },
-    {
-        "Name": "D-SAMVIT - Samfunnsvitenskap - Ph.d.",
-        "Subjects": []
-    },
-    {
-        "Name": "D-STIPEND - Eksterne Doktorgradsprogram stipendiater",
-        "Subjects": []
-    },
-    {
-        "Name": "D-TEKNAT - Teknologi og naturvitenskap - doktorgradsprogram",
+        "Name": "-ENGELSK - årsstudium 2.sem.",
+        "Id": "%23SPLUS16E5AD",
         "Subjects": [
-            "TN900%2D1",
-            "TN910%2D1"
+            "ENG175%2D1",
+            "ENG195%2D1"
         ]
     },
     {
-        "Name": "DEL-TN - Enkeltemner ved Det teknisk-naturvitenskaplige fakultet",
-        "Subjects": []
-    },
-    {
-        "Name": "DEL-TN-EXT - Enkeltemner ved Det teknisk-naturvitenskaplige fakultet, eksternfinansiert",
-        "Subjects": []
-    },
-    {
-        "Name": "DR-PHILOS-DSP100-3 Phd-kurs i vitensk - Doctorgradsprogram i philosophiae",
+        "Name": "-HISTORIE - årsstudium 2.sem.",
+        "Id": "%23SPLUS16E5B1",
         "Subjects": [
-            "DSP100%2D3"
+            "HIS165%2D1",
+            "HIS175%2D1"
         ]
     },
     {
-        "Name": "E-SIKTR - Etter- og videreutdanning sikkerhetsstyring i transportsektoren",
-        "Subjects": []
-    },
-    {
-        "Name": "F-INGUTD - Forkurs for ingeniørutdanning",
+        "Name": "-NORDISK - årsstudium 2.sem",
+        "Id": "%23SPLUS16E5B4",
         "Subjects": [
-            "FIN100%2D2",
-            "FIN110%2D3",
-            "FIN120%2D3",
-            "FIN130%2D1",
-            "FIN170%2D2"
+            "NOR115%2D1",
+            "NOR165%2D1"
         ]
     },
     {
-        "Name": "G-GLU 1-7 3.år PEL - Grunnskolelærerutdanning 5. - 10. trinn",
+        "Name": "-RELIGION- årsstudium",
+        "Id": "%23SPLUS16E5B7",
         "Subjects": [
-            "GLU1300%2D1"
-        ]
-    },
-    {
-        "Name": "G-GLU 1-7 5.sem Norsk - Grunnskolelærerutdanning 5. - 10. trinn",
-        "Subjects": []
-    },
-    {
-        "Name": "G-GLU 1-7/5-10-  Idrett - Grunnskolelærerutdanning 5. - 10. trinn",
-        "Subjects": [
-            "GLU1060%2D1",
-            "GLU2060%2D1"
-        ]
-    },
-    {
-        "Name": "G-GLU 1-7/5-10- 5.sem Religion - Grunnskolelærerutdanning 5. - 10. trinn",
-        "Subjects": [
-            "GLU1041%2D1"
-        ]
-    },
-    {
-        "Name": "G-GLU 5-10 1.år 2.sem. Norsk - Grunnskolelærerutdanning 5. - 10. trinn",
-        "Subjects": [
-            "%23SPLUSBFD85E",
-            "GLU2121%2D1",
-            "GLU2122%2D1"
-        ]
-    },
-    {
-        "Name": "G-GLU 5-10 3.år PEL - Grunnskolelærerutdanning 5. - 10. trinn",
-        "Subjects": [
-            "GLU2300%2D1"
-        ]
-    },
-    {
-        "Name": "G-GLU- 1-7/5-10 engelsk 5.sem. - Grunnskolelærerutdanning 5. - 10. trinn",
-        "Subjects": [
-            "GLU1032%2D1"
-        ]
-    },
-    {
-        "Name": "G-GLU- 5-10 Samfunnsfag 5.sem. - Grunnskolelærerutdanning 5. - 10. trinn",
-        "Subjects": [
-            "GLU2051%2D1"
-        ]
-    },
-    {
-        "Name": "G-GLU- PEL 4 5.sem. 1-7/5-10 trinn - Grunnskolelærerutdanning 5. - 10. trinn",
-        "Subjects": [
-            "GLU1340%2D1"
-        ]
-    },
-    {
-        "Name": "G-GLU-Musikk-1-7/5-10 5.sem.",
-        "Subjects": [
-            "GLU1071%2D1"
-        ]
-    },
-    {
-        "Name": "G-GLU1-7 1.år 2.sem. - Grunnskolelærerutdanning 1. - 7. trinn",
-        "Subjects": [
-            "GLU0001%2D1",
-            "GLU1111%2D1",
-            "GLU1120%2D1"
-        ]
-    },
-    {
-        "Name": "G-GLU5-10 1. år 2.sem. Matematikk - Grunnskolelærerutdanning 5. - 10. trinn",
-        "Subjects": [
-            "%23SPLUSBFD85F",
-            "GLU2113%2D1"
+            "REL165%2D1",
+            "REL175%2D1"
         ]
     },
     {
         "Name": "GLU-NATMIL 1 valgfag",
+        "Id": "%23SPLUS21A5B0",
         "Subjects": [
             "GLU2080%2D1",
             "VGS340%2D1"
         ]
     },
     {
-        "Name": "GLU-Å-DRAMA - Drama og kommunikasjon - årsstudium",
-        "Subjects": [
-            "GLU0083%2D1"
-        ]
-    },
-    {
-        "Name": "GLU-Årskurs-KUNSTHÅN - Kunst og håndverk - årsstudium",
-        "Subjects": [
-            "%C5KH102%2D1"
-        ]
-    },
-    {
-        "Name": "H-REA-H - Realfagskurs",
-        "Subjects": [
-            "FIN100%2D2",
-            "FIN110%2D3",
-            "FIN120%2D3",
-            "FIN130%2D1",
-            "FIN170%2D2"
-        ]
-    },
-    {
-        "Name": "H-REA-V - Realfagskurs halvårig",
-        "Subjects": [
-            "%23SPLUSA8DFE1",
-            "FIN101%2D1"
-        ]
-    },
-    {
-        "Name": "M-BAHAV-kull 2012 - Barnehagevitenskap - masterstudium -deltid",
-        "Subjects": [
-            "MBV160%2D1"
-        ]
-    },
-    {
-        "Name": "M-BAHAV-kull 2014 - Barnehagevitenskap - masterstudium -deltid",
-        "Subjects": [
-            "MBV125%2D1"
-        ]
-    },
-    {
-        "Name": "M-BENERG - Bærekraftig energiteknologi - Master i teknologi/siv.ing.",
-        "Subjects": []
-    },
-    {
-        "Name": "M-BIOENG - Biological Chemistry - Master of Science Degree Programme",
-        "Subjects": [
-            "BIO300%2D1",
-            "BIO530%2D1",
-            "BIO540%2D1",
-            "BIO560%2D1",
-            "BIO600%2D1",
-            "MLJ550%2D1"
-        ]
-    },
-    {
-        "Name": "M-BYUTV - Byutvikling og urban design - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "BYG610%2D1",
-            "BYG640%2D1",
-            "SAM500%2D1"
-        ]
-    },
-    {
-        "Name": "M-DATENG - Informasjonsteknologi, datateknikk - Master program",
-        "Subjects": [
-            "DAT520%2D1",
-            "DAT600%2D1",
-            "ELE520%2D1",
-            "RIS510%2D1"
-        ]
-    },
-    {
-        "Name": "M-DOKPRO - Dokumentarproduksjon - mastergradsprogram",
-        "Subjects": []
-    },
-    {
-        "Name": "M-ENDLED - Endringsledelse - masterstudium",
-        "Subjects": [
-            "IND600%2D1",
-            "MEN135%2D1",
-            "MEN145%2D1",
-            "MEN165%2D1",
-            "MEN255%2D1",
-            "MSA125%2D1"
-        ]
-    },
-    {
-        "Name": "M-ENVTEC offsh Env.Eng - Environmental Technology - Master of Science Degree Programme",
-        "Subjects": [
-            "MLJ600%2D1",
-            "MLJ610%2D1",
-            "MLJ620%2D1",
-            "MLJ630%2D1",
-            "OFF510%2D1",
-            "OFF560%2D1"
-        ]
-    },
-    {
         "Name": "M-ENVTEC water Science - Environmental Technology - Master of Science Degree Programme",
+        "Id": "%23SPLUS26658D",
         "Subjects": [
             "MLJ600%2D1",
             "MLJ610%2D1",
@@ -1273,134 +213,18 @@
         ]
     },
     {
-        "Name": "M-FAMILY - European Master in Social Work with Families and Children",
+        "Name": "M-KONMAT ford offshore - Konstruksjoner og materialer - Master i teknologi/siv.ing.",
+        "Id": "%23SPLUS26658E",
         "Subjects": [
-            "%23SPLUS937892",
-            "MEM100%2D1",
-            "MEM110%2D1"
-        ]
-    },
-    {
-        "Name": "M-HELSEVIT-2.sem.",
-        "Subjects": [
-            "%23SPLUS81AB51",
-            "MHV141%2D1",
-            "MHV142%2D1",
-            "MHVP201%2D1",
-            "MHVR201%2D1"
-        ]
-    },
-    {
-        "Name": "M-HELSEVIT-4.sem.",
-        "Subjects": [
-            "MHVMAS%2D1",
-            "MHVPMAS%2D1",
-            "MHVPP10%2D1"
-        ]
-    },
-    {
-        "Name": "M-HISTORIEDIDAKTIKK 2. sem.",
-        "Subjects": [
-            "MHI330%2D1",
-            "MHI345%2D1",
-            "MHIMAS%2D1"
-        ]
-    },
-    {
-        "Name": "M-INDØK  Kontraktadm - Industriell økonomi - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "IND520%2D1",
-            "IND530%2D1",
-            "IND540%2D1"
-        ]
-    },
-    {
-        "Name": "M-INDØK  Prosjektledelse - Industriell økonomi - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "IND520%2D1",
-            "IND600%2D1"
-        ]
-    },
-    {
-        "Name": "M-INDØK data - Industriell økonomi - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "DAT520%2D1",
-            "IND520%2D1"
-        ]
-    },
-    {
-        "Name": "M-INDØK drift og vedlikeh - Industriell økonomi - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "IND520%2D1",
-            "OFF510%2D1",
-            "OFF540%2D1"
-        ]
-    },
-    {
-        "Name": "M-INDØK kyb/signal - Industriell økonomi - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "ELE520%2D1",
-            "IND520%2D1"
-        ]
-    },
-    {
-        "Name": "M-INDØK materialtekn - Industriell økonomi - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "IND520%2D1",
-            "MSK500%2D1",
-            "MSK520%2D1"
-        ]
-    },
-    {
-        "Name": "M-INDØK petr bor - Industriell økonomi - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "IND520%2D1",
-            "PET535%2D1"
-        ]
-    },
-    {
-        "Name": "M-INDØK petr.reservoar - Industriell økonomi - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "IND520%2D1",
-            "PET560%2D1",
-            "PET570%2D1"
-        ]
-    },
-    {
-        "Name": "M-INDØK risiko - Industriell økonomi - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "IND520%2D1",
-            "RIS510%2D1"
-        ]
-    },
-    {
-        "Name": "M-INFTEK - M-inf teknologi, aut og signalbehan",
-        "Subjects": [
-            "ELE520%2D1",
-            "ELE600%2D1",
-            "ELE610%2D1"
-        ]
-    },
-    {
-        "Name": "M-INHRLE - Internasjonal hotell- og reiselivsledelse - masterstudium",
-        "Subjects": [
-            "MHR195%2D1",
-            "MHR210%2D1",
-            "MHR220%2D2"
-        ]
-    },
-    {
-        "Name": "M-KONMAT ford byggkon - Konstruksjoner og materialer - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "BYG520%2D1",
             "BYG530%2D1",
             "MSK500%2D1",
-            "MSK520%2D1",
-            "MSK530%2D1"
+            "MSK530%2D1",
+            "OFF580%2D1"
         ]
     },
     {
         "Name": "M-KONMAT ford maskin - Konstruksjoner og materialer - Master i teknologi/siv.ing.",
+        "Id": "%23SPLUS26658F",
         "Subjects": [
             "BYG530%2D1",
             "MSK500%2D1",
@@ -1411,229 +235,76 @@
         ]
     },
     {
-        "Name": "M-KONMAT ford offshore - Konstruksjoner og materialer - Master i teknologi/siv.ing.",
+        "Name": "M-INDØK drift og vedlikeh - Industriell økonomi - Master i teknologi/siv.ing.",
+        "Id": "%23SPLUS266590",
         "Subjects": [
-            "BYG530%2D1",
+            "IND520%2D1",
+            "OFF510%2D1",
+            "OFF540%2D1"
+        ]
+    },
+    {
+        "Name": "M-INDØK data - Industriell økonomi - Master i teknologi/siv.ing.",
+        "Id": "%23SPLUS266591",
+        "Subjects": [
+            "DAT520%2D1",
+            "IND520%2D1"
+        ]
+    },
+    {
+        "Name": "M-INDØK kyb/signal - Industriell økonomi - Master i teknologi/siv.ing.",
+        "Id": "%23SPLUS266592",
+        "Subjects": [
+            "ELE520%2D1",
+            "IND520%2D1"
+        ]
+    },
+    {
+        "Name": "M-INDØK materialtekn - Industriell økonomi - Master i teknologi/siv.ing.",
+        "Id": "%23SPLUS266593",
+        "Subjects": [
+            "IND520%2D1",
             "MSK500%2D1",
-            "MSK530%2D1",
-            "OFF580%2D1"
+            "MSK520%2D1"
         ]
     },
     {
-        "Name": "M-KUNSTV - Kunst- og kulturstudier - masterstudium",
+        "Name": "M-INDØK petr.reservoar - Industriell økonomi - Master i teknologi/siv.ing.",
+        "Id": "%23SPLUS266594",
         "Subjects": [
-            "MKK150%2D1"
-        ]
-    },
-    {
-        "Name": "M-LESEVITENSKAP 2. sem",
-        "Subjects": [
-            "MLE345%2D1",
-            "MLEMAS%2D1"
-        ]
-    },
-    {
-        "Name": "M-LESEVITENSKAP 2. sem",
-        "Subjects": []
-    },
-    {
-        "Name": "M-LITERACY 2. semester",
-        "Subjects": [
-            "MLI335%2D1",
-            "MLI345%2D1",
-            "MLIMAS%2D1"
-        ]
-    },
-    {
-        "Name": "M-MAFENG ford fys - Mathematics and Physics - Master of Science Degree Programme",
-        "Subjects": [
-            "FYS520%2D1",
-            "FYS600%2D1",
-            "FYS610%2D1",
-            "FYS620%2D1"
-        ]
-    },
-    {
-        "Name": "M-MAFENG ford mat - Mathematics and Physics - Master of Science Degree Programme",
-        "Subjects": [
-            "MAT600%2D1",
-            "MAT610%2D1",
-            "MAT620%2D1",
-            "STA600%2D1"
-        ]
-    },
-    {
-        "Name": "M-MIGRATION-EMMIR - European Master in Migration and Intercultural Relations",
-        "Subjects": [
-            "EMM221%2D1"
-        ]
-    },
-    {
-        "Name": "M-MILNAT - Environmental Monitoring and Nature Management in the Northern Oil and Gas Producing Regions - M.Sc. Degree Programme",
-        "Subjects": []
-    },
-    {
-        "Name": "M-OFFDET - Offshore Field Development Technology - Master's Degree Programme",
-        "Subjects": []
-    },
-    {
-        "Name": "M-OFFINN - Offshore technology- Industrial Asset Management - Master's Degree Programme",
-        "Subjects": [
-            "OFF510%2D1",
-            "OFF540%2D1",
-            "OFF560%2D1",
-            "RIS510%2D1"
-        ]
-    },
-    {
-        "Name": "M-OFFMAR - M-offsh mar",
-        "Subjects": [
-            "BYG530%2D1",
-            "MSK530%2D1",
-            "MSK600%2D1",
-            "OFF510%2D1",
-            "OFF580%2D1"
-        ]
-    },
-    {
-        "Name": "M-OFFSYS - Offshore Technology - Marine- and subsea technology - Master's Degree Programme",
-        "Subjects": []
-    },
-    {
-        "Name": "M-OFFTEC ind ass - Offshore Technology - Master's Degree Programme",
-        "Subjects": [
-            "OFF510%2D1",
-            "OFF540%2D1",
-            "OFF560%2D1",
-            "RIS510%2D1"
-        ]
-    },
-    {
-        "Name": "M-OFFTEC marina subsea - Offshore Technology - Master's Degree Programme",
-        "Subjects": [
-            "BYG530%2D1",
-            "MSK530%2D1",
-            "OFF510%2D1",
-            "OFF580%2D1"
-        ]
-    },
-    {
-        "Name": "M-OFFTEC risk man - Offshore Technology - Master's Degree Programme",
-        "Subjects": [
-            "IND600%2D1",
-            "OFF510%2D1",
-            "OFF540%2D1",
-            "OFF580%2D1",
-            "RIS510%2D1"
-        ]
-    },
-    {
-        "Name": "M-OFFTEC subsea techn - Offshore Technology - Master's Degree Programme",
-        "Subjects": [
-            "BYG530%2D1",
-            "MSK600%2D1",
-            "OFF510%2D1"
-        ]
-    },
-    {
-        "Name": "M-PEGENG - Petroleum Geosciences Engineering - Master of Science Degree Programme",
-        "Subjects": [
-            "GEO530%2D1",
-            "GEO540%2D1",
-            "GEO600%2D1"
-        ]
-    },
-    {
-        "Name": "M-PETBOR - Bore- og brønnteknologi: Master i teknologi/sivilingeniør (to-årig)",
-        "Subjects": []
-    },
-    {
-        "Name": "M-PETENG boring - Petroleum Engineering - Master of Science Degree Programme",
-        "Subjects": [
-            "PET525%2D1",
-            "PET530%2D1",
-            "PET535%2D1"
-        ]
-    },
-    {
-        "Name": "M-PETENG naturgass - Petroleum Engineering - Master of Science Degree Programme",
-        "Subjects": [
-            "PET540%2D1",
-            "PET545%2D1",
-            "PET550%2D1"
-        ]
-    },
-    {
-        "Name": "M-PETENG reservoar - Petroleum Engineering - Master of Science Degree Programme",
-        "Subjects": [
-            "GEO530%2D1",
+            "IND520%2D1",
             "PET560%2D1",
-            "PET565%2D1",
             "PET570%2D1"
         ]
     },
     {
-        "Name": "M-SAMSIK krisehåndter - Samfunnssikkerhet - masterstudium",
+        "Name": "M-INDØK risiko - Industriell økonomi - Master i teknologi/siv.ing.",
+        "Id": "%23SPLUS266595",
         "Subjects": [
-            "MEN145%2D1",
-            "MEN255%2D1",
-            "MSA125%2D1",
-            "MSA270%2D1",
-            "MSA290%2D1",
-            "SAM500%2D1"
-        ]
-    },
-    {
-        "Name": "M-SAMSIK sikkerhet og styring - Samfunnssikkerhet - masterstudium",
-        "Subjects": [
-            "MEN145%2D1",
-            "MEN255%2D1",
-            "MSA125%2D1",
-            "MSA270%2D1",
-            "MSA290%2D1",
-            "SAM500%2D1"
-        ]
-    },
-    {
-        "Name": "M-SOSIALFAG- 2. sem.",
-        "Subjects": [
-            "%23SPLUS81AB51",
-            "%23SPLUS937892",
-            "MSO121%2D2",
-            "MSO130%2D2",
-            "MSO150%2D2",
-            "MSO190%2D1",
-            "MSO230%2D1",
-            "MSO270%2D1"
-        ]
-    },
-    {
-        "Name": "M-SYKEPL - Sykepleie - mastergrad",
-        "Subjects": [
-            "%23SPLUS81AB3E"
-        ]
-    },
-    {
-        "Name": "M-TESSIK - Samfunnssikkerhet - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "MEN165%2D1",
-            "MSA125%2D1",
-            "RIS510%2D1",
-            "SAM500%2D1"
-        ]
-    },
-    {
-        "Name": "M-TRISSTY ford offsh sikkerh - Risikostyring - Master i teknologi/siv.ing.",
-        "Subjects": [
-            "IND600%2D1",
-            "OFF510%2D1",
-            "OFF540%2D1",
-            "OFF580%2D1",
+            "IND520%2D1",
             "RIS510%2D1"
         ]
     },
     {
+        "Name": "M-INDØK  Kontraktadm - Industriell økonomi - Master i teknologi/siv.ing.",
+        "Id": "%23SPLUS266596",
+        "Subjects": [
+            "IND520%2D1",
+            "IND530%2D1",
+            "IND540%2D1"
+        ]
+    },
+    {
+        "Name": "M-INDØK  Prosjektledelse - Industriell økonomi - Master i teknologi/siv.ing.",
+        "Id": "%23SPLUS266597",
+        "Subjects": [
+            "IND520%2D1",
+            "IND600%2D1"
+        ]
+    },
+    {
         "Name": "M-TRISSTY ford risiko - Risikostyring - Master i teknologi/siv.ing.",
+        "Id": "%23SPLUS266599",
         "Subjects": [
             "IND520%2D1",
             "IND600%2D1",
@@ -1643,37 +314,292 @@
         ]
     },
     {
+        "Name": "M-OFFTEC risk man - Offshore Technology - Master's Degree Programme",
+        "Id": "%23SPLUS2665AE",
+        "Subjects": [
+            "IND600%2D1",
+            "OFF510%2D1",
+            "OFF540%2D1",
+            "OFF580%2D1",
+            "RIS510%2D1"
+        ]
+    },
+    {
+        "Name": "M-OFFTEC marina subsea - Offshore Technology - Master's Degree Programme",
+        "Id": "%23SPLUS2665AF",
+        "Subjects": [
+            "BYG530%2D1",
+            "MSK530%2D1",
+            "OFF510%2D1",
+            "OFF580%2D1"
+        ]
+    },
+    {
+        "Name": "M-OFFTEC subsea techn - Offshore Technology - Master's Degree Programme",
+        "Id": "%23SPLUS2665B0",
+        "Subjects": [
+            "BYG530%2D1",
+            "MSK600%2D1",
+            "OFF510%2D1"
+        ]
+    },
+    {
+        "Name": "M-PETENG reservoar - Petroleum Engineering - Master of Science Degree Programme",
+        "Id": "%23SPLUS2665B1",
+        "Subjects": [
+            "GEO530%2D1",
+            "PET560%2D1",
+            "PET565%2D1",
+            "PET570%2D1"
+        ]
+    },
+    {
+        "Name": "M-PETENG naturgass - Petroleum Engineering - Master of Science Degree Programme",
+        "Id": "%23SPLUS2665B2",
+        "Subjects": [
+            "PET540%2D1",
+            "PET545%2D1",
+            "PET550%2D1"
+        ]
+    },
+    {
+        "Name": "G-GLU5-10 1. år 2.sem. Matematikk - Grunnskolelærerutdanning 5. - 10. trinn",
+        "Id": "%23SPLUS2F1BCB",
+        "Subjects": [
+            "%23SPLUSBFD85F",
+            "GLU2113%2D1"
+        ]
+    },
+    {
+        "Name": "G-GLU 5-10 3.år PEL - Grunnskolelærerutdanning 5. - 10. trinn",
+        "Id": "%23SPLUS2F1BCC",
+        "Subjects": [
+            "GLU2300%2D1"
+        ]
+    },
+    {
+        "Name": "G-GLU 1-7 3.år PEL - Grunnskolelærerutdanning 5. - 10. trinn",
+        "Id": "%23SPLUS2F1BCD",
+        "Subjects": [
+            "GLU1300%2D1"
+        ]
+    },
+    {
+        "Name": "G-GLU 1-7 5.sem Norsk - Grunnskolelærerutdanning 5. - 10. trinn",
+        "Id": "%23SPLUS2F1BCE",
+        "Subjects": []
+    },
+    {
+        "Name": "G-GLU- PEL 4 5.sem. 1-7/5-10 trinn - Grunnskolelærerutdanning 5. - 10. trinn",
+        "Id": "%23SPLUS2F1BD1",
+        "Subjects": [
+            "GLU1340%2D1"
+        ]
+    },
+    {
+        "Name": "G-GLU- 1-7/5-10 engelsk 5.sem. - Grunnskolelærerutdanning 5. - 10. trinn",
+        "Id": "%23SPLUS2F1BD4",
+        "Subjects": [
+            "GLU1032%2D1"
+        ]
+    },
+    {
+        "Name": "G-GLU- 5-10 Samfunnsfag 5.sem. - Grunnskolelærerutdanning 5. - 10. trinn",
+        "Id": "%23SPLUS2F1BD5",
+        "Subjects": [
+            "GLU2051%2D1"
+        ]
+    },
+    {
+        "Name": "G-GLU 1-7/5-10- 5.sem Religion - Grunnskolelærerutdanning 5. - 10. trinn",
+        "Id": "%23SPLUS2F1BDF",
+        "Subjects": [
+            "GLU1041%2D1"
+        ]
+    },
+    {
+        "Name": "G-GLU 1-7/5-10-  Idrett - Grunnskolelærerutdanning 5. - 10. trinn",
+        "Id": "%23SPLUS2F1BE2",
+        "Subjects": [
+            "GLU1060%2D1",
+            "GLU2060%2D1"
+        ]
+    },
+    {
+        "Name": "B-IDRETT- 4.semester - Idrett/kroppsøving - bachelorstudium",
+        "Id": "%23SPLUS2F1BE3",
+        "Subjects": [
+            "IDR107%2D1"
+        ]
+    },
+    {
+        "Name": "B-IDRETT- 6.semester - Idrett/kroppsøving - bachelorstudium",
+        "Id": "%23SPLUS2F1BE4",
+        "Subjects": [
+            "IDR105%2D3",
+            "IDR115%2D1"
+        ]
+    },
+    {
         "Name": "M-UTDANVIT.-IDRETT-D",
+        "Id": "%23SPLUS33C25E",
         "Subjects": [
             "MUT502%2D1"
         ]
     },
     {
-        "Name": "M-UTDANVIT.-MATDID-D - Matematikkdidaktikk - masterstudium - deltid",
+        "Name": "B-BIOKJE 4.sem - Biologisk kjemi - bioteknologi - bachelorstudium i biologisk kjemi",
+        "Id": "%23SPLUS3CAF55",
         "Subjects": [
-            "MUT302%2D1",
-            "MUT303%2D1"
+            "BIO200%2D1",
+            "BIO210%2D1",
+            "KJE240%2D1"
         ]
     },
     {
-        "Name": "M-UTDANVIT.-NORSK-DID-D",
+        "Name": "B-BYGG 2.sem teknisk plan - Byggingeniør - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS3CAF56",
         "Subjects": [
-            "MUT402%2D1",
-            "MUT403%2D1"
+            "BYG102%2D1",
+            "BYG140%2D1",
+            "MAT200%2D1"
         ]
     },
     {
-        "Name": "M-UTDVIT SPES.PED.2.sem. - Utdanningsvitenskap - masterprogram",
+        "Name": "B-BYGG 2.sem konstr. - Byggingeniør - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS3CAF57",
         "Subjects": [
-            "MUT204%2D1",
-            "MUT205%2D1",
-            "MUT206%2D1",
-            "MUT207%2D1",
-            "MUT402%2D1"
+            "BYG102%2D1",
+            "BYG140%2D1",
+            "MAT200%2D1"
+        ]
+    },
+    {
+        "Name": "B-BYGG 4.sem konstr. - Byggingeniør - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS3CAF58",
+        "Subjects": [
+            "BYG210%2D1",
+            "BYG220%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "B-BYGG 4.sem byutv/urban d - Byggingeniør - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS3CAF59",
+        "Subjects": [
+            "BYG210%2D1",
+            "BYG215%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "B-BYGG 4.sem teknisk plan - Byggingeniør - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS3CAF5A",
+        "Subjects": [
+            "BYG125%2D1",
+            "BYG210%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "B-BYGG 6.sem byutv - Byggingeniør - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS3CAF5B",
+        "Subjects": [
+            "BYGBBAC%2D1",
+            "ING200%2D1"
+        ]
+    },
+    {
+        "Name": "B-ING ELEKTRO 2.sem fra sots - Elektro - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS3CAF5C",
+        "Subjects": [
+            "ELE300%2D1",
+            "MAT200%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "B-ING ELEKTRO 4.sem fra sots - Elektro - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS3CAF5D",
+        "Subjects": [
+            "ELEBAC%2D1",
+            "ING200%2D1"
+        ]
+    },
+    {
+        "Name": "B-PETROL 4.sem ford boring - Petroleumsteknologi - Bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS3CAF5E",
+        "Subjects": [
+            "BYG140%2D1",
+            "PET110%2D1",
+            "PET120%2D1"
+        ]
+    },
+    {
+        "Name": "B-PETROL 4.sem ford naturgass - Petroleumsteknologi - Bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS3CAF5F",
+        "Subjects": [
+            "BYG140%2D1",
+            "ELE100%2D1",
+            "KJE150%2D1",
+            "PET110%2D1",
+            "PET120%2D1"
+        ]
+    },
+    {
+        "Name": "B-ELEKTRO 4.sem studieret ind aut - Elektro - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS3CAF60",
+        "Subjects": [
+            "ELE220%2D1",
+            "ELE300%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "M-INFTEK - M-inf teknologi, aut og signalbehan",
+        "Id": "%23SPLUS445A06",
+        "Subjects": [
+            "ELE520%2D1",
+            "ELE600%2D1",
+            "ELE610%2D1"
+        ]
+    },
+    {
+        "Name": "M-MAFENG ford mat - Mathematics and Physics - Master of Science Degree Programme",
+        "Id": "%23SPLUS445A0F",
+        "Subjects": [
+            "MAT600%2D1",
+            "MAT610%2D1",
+            "MAT620%2D1",
+            "STA600%2D1"
+        ]
+    },
+    {
+        "Name": "M-BAHAV-kull 2012 - Barnehagevitenskap - masterstudium -deltid",
+        "Id": "%23SPLUS541ECD",
+        "Subjects": [
+            "MBV160%2D1"
+        ]
+    },
+    {
+        "Name": "B-BYGG 6.sem tekn pl - Byggingeniør - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS5F333B",
+        "Subjects": [
+            "BYGTBAC%2D1",
+            "ING200%2D1"
+        ]
+    },
+    {
+        "Name": "B-BYGG 6.sem konstr - Byggingeniør - bachelorstudium i ingeniørfag",
+        "Id": "%23SPLUS5F333C",
+        "Subjects": [
+            "BYGKBAC%2D1",
+            "ING200%2D1"
         ]
     },
     {
         "Name": "M-ØKAD anv finans - Økonomisk-administrative fag - masterstudium",
+        "Id": "%23SPLUS6D7AFB",
         "Subjects": [
             "M%D8A185%2D1",
             "M%D8A205%2D1",
@@ -1687,6 +613,7 @@
     },
     {
         "Name": "M-ØKAD strategi og led - Økonomisk-administrative fag - masterstudium",
+        "Id": "%23SPLUS6D7AFC",
         "Subjects": [
             "M%D8A185%2D1",
             "M%D8A205%2D1",
@@ -1699,7 +626,1186 @@
         ]
     },
     {
+        "Name": "B-BIOKJE 6.sem",
+        "Id": "%23SPLUS750A01",
+        "Subjects": [
+            "BIO300%2D1",
+            "BIO560%2D1",
+            "BSS220%2D1",
+            "MAT200%2D1"
+        ]
+    },
+    {
+        "Name": "B-REILED 4.sem - Reiselivsledelse - bachelorstudium",
+        "Id": "%23SPLUS750A06",
+        "Subjects": [
+            "BHO290%2D1",
+            "BRL260%2D1",
+            "BRL270%2D1"
+        ]
+    },
+    {
+        "Name": "B-REILED 6.sem - Reiselivsledelse - bachelorstudium",
+        "Id": "%23SPLUS750A07",
+        "Subjects": [
+            "BHO275%2D1",
+            "BRL340%2D1"
+        ]
+    },
+    {
+        "Name": "B-HOTLED 4.sem - Hotelledelse - bachelorstudium",
+        "Id": "%23SPLUS750A08",
+        "Subjects": [
+            "BHO285%2D1",
+            "BHO290%2D1",
+            "BHO295%2D1"
+        ]
+    },
+    {
+        "Name": "B-HOTLED 6.sem - Hotelledelse - bachelorstudium",
+        "Id": "%23SPLUS750A09",
+        "Subjects": [
+            "BHO275%2D1",
+            "BRL340%2D1"
+        ]
+    },
+    {
+        "Name": "B-REGREV 4.sem - Regnskap og revisjon - bachelorstudium",
+        "Id": "%23SPLUS750A0A",
+        "Subjects": [
+            "B%D8K275%2D1",
+            "BRE235%2D1",
+            "BRE255%2D1",
+            "BRE260%2D1"
+        ]
+    },
+    {
+        "Name": "B-REGREV 6.sem - Regnskap og revisjon - bachelorstudium",
+        "Id": "%23SPLUS750A0B",
+        "Subjects": [
+            "BRE320%2D2",
+            "BRE330%2D2",
+            "BRE340%2D1"
+        ]
+    },
+    {
+        "Name": "B-RETVIT 4.sem - Rettsvitenskap - bachelorstudium",
+        "Id": "%23SPLUS750A0C",
+        "Subjects": [
+            "BRV220%2D1",
+            "BRV230%2D1",
+            "BSS270%2D1"
+        ]
+    },
+    {
+        "Name": "B-RETVIT 6.sem - Rettsvitenskap - bachelorstudium",
+        "Id": "%23SPLUS750A0D",
+        "Subjects": [
+            "BRV210%2D1",
+            "BRV310%2D1"
+        ]
+    },
+    {
+        "Name": "B-ØKAD 4.sem - Økonomisk-administrative fag - bachelorstudium",
+        "Id": "%23SPLUS750A0E",
+        "Subjects": [
+            "B%D8K255%2D1"
+        ]
+    },
+    {
+        "Name": "B-ØKAD 6.sem - Økonomisk-administrative fag - bachelorstudium",
+        "Id": "%23SPLUS750A0F",
+        "Subjects": [
+            "B%D8K235%2D1"
+        ]
+    },
+    {
+        "Name": "B-STATSVIT 4.sem personal - Statsvitenskap - bachelorstudium",
+        "Id": "%23SPLUS750A10",
+        "Subjects": [
+            "BSS220%2D1",
+            "BSS235%2D1",
+            "BSS270%2D1"
+        ]
+    },
+    {
+        "Name": "B-STATSVIT 6.sem - Statsvitenskap - bachelorstudium",
+        "Id": "%23SPLUS750A11",
+        "Subjects": [
+            "BST300%2D1",
+            "BSTBAC%2D1"
+        ]
+    },
+    {
+        "Name": "H-REA-H - Realfagskurs",
+        "Id": "%23SPLUS7770B5",
+        "Subjects": [
+            "FIN100%2D2",
+            "FIN110%2D3",
+            "FIN120%2D3",
+            "FIN130%2D1",
+            "FIN170%2D2"
+        ]
+    },
+    {
+        "Name": "B-Førskolelærerutd. fordypning småbarnsped.",
+        "Id": "%23SPLUS937884",
+        "Subjects": [
+            "BF%D8305%2D1"
+        ]
+    },
+    {
+        "Name": "G-GLU-Musikk-1-7/5-10 5.sem.",
+        "Id": "%23SPLUS9610A1",
+        "Subjects": [
+            "GLU1071%2D1"
+        ]
+    },
+    {
+        "Name": "M-UTDANVIT.-NORSK-DID-D",
+        "Id": "%23SPLUS9610D5",
+        "Subjects": [
+            "MUT402%2D1",
+            "MUT403%2D1"
+        ]
+    },
+    {
+        "Name": "B-SOSIOL 4.sem pers.l. - Sosiologi - bachelorstudium",
+        "Id": "%23SPLUS96903B",
+        "Subjects": [
+            "BSS220%2D1",
+            "BSS235%2D1",
+            "BSS270%2D1"
+        ]
+    },
+    {
+        "Name": "B-SOSIOL 4.sem samf.sik. - Sosiologi - bachelorstudium",
+        "Id": "%23SPLUS96903C",
+        "Subjects": [
+            "BSA240%2D1",
+            "BSA250%2D1",
+            "BSA260%2D1"
+        ]
+    },
+    {
+        "Name": "B-SOSIOL 6.sem - Sosiologi - bachelorstudium",
+        "Id": "%23SPLUS96903D",
+        "Subjects": [
+            "BSS320%2D1",
+            "BSSBAC%2D1"
+        ]
+    },
+    {
+        "Name": "M-OFFMAR - M-offsh mar",
+        "Id": "%23SPLUS9DE564",
+        "Subjects": [
+            "BYG530%2D1",
+            "MSK530%2D1",
+            "MSK600%2D1",
+            "OFF510%2D1",
+            "OFF580%2D1"
+        ]
+    },
+    {
+        "Name": "B-SYKEPD- kull 2011 - Sykepleie nettbasert - bachelorstudium",
+        "Id": "%23SPLUSA5A514",
+        "Subjects": [
+            "BSY341%2D1"
+        ]
+    },
+    {
+        "Name": "H-REA-V - Realfagskurs halvårig",
+        "Id": "%23SPLUSA8DFDF",
+        "Subjects": [
+            "%23SPLUSA8DFE1",
+            "FIN101%2D1"
+        ]
+    },
+    {
+        "Name": "B-Førskolelærerutd. fordypning org.led.",
+        "Id": "%23SPLUSBA7FA5",
+        "Subjects": [
+            "BF%D8301%2D1"
+        ]
+    },
+    {
+        "Name": "B-Førskolelærerutd. fordypning  Musikk",
+        "Id": "%23SPLUSBA7FA8",
+        "Subjects": [
+            "BF%D8380%2D1"
+        ]
+    },
+    {
+        "Name": "B-Førskolelærerutd. fordypning  Forming",
+        "Id": "%23SPLUSBA7FA9",
+        "Subjects": [
+            "BF%D8365%2D1"
+        ]
+    },
+    {
+        "Name": "B-Førskolelærerutd. Komperativ pedagogikk",
+        "Id": "%23SPLUSBFD862",
+        "Subjects": [
+            "BF%D8335%2D1"
+        ]
+    },
+    {
+        "Name": "M-SAMSIK sikkerhet og styring - Samfunnssikkerhet - masterstudium",
+        "Id": "%23SPLUSDC04FB",
+        "Subjects": [
+            "MEN145%2D1",
+            "MEN255%2D1",
+            "MSA125%2D1",
+            "MSA270%2D1",
+            "MSA290%2D1",
+            "SAM500%2D1"
+        ]
+    },
+    {
+        "Name": "B-ØKAD 4.sem valgemner",
+        "Id": "%23SPLUSE2F267",
+        "Subjects": [
+            "B%D8K275%2D1",
+            "B%D8K285%2D1",
+            "B%D8K310%2D1",
+            "B%D8K350%2D1",
+            "B%D8K375%2D1",
+            "B%D8K395%2D1",
+            "BSS130%2D1",
+            "IND520%2D1"
+        ]
+    },
+    {
+        "Name": "-Lektor/PPU program",
+        "Id": "%23SPLUSF81CA0",
+        "Subjects": [
+            "PPU112%2D1",
+            "PPU114%2D1",
+            "PPU132%2D1",
+            "PPU134%2D1",
+            "PPU137%2D1",
+            "PPU142%2D1",
+            "PPU146%2D1",
+            "PPU180%2D1",
+            "PPU220%2D1"
+        ]
+    },
+    {
+        "Name": "GLU-Å-DRAMA - Drama og kommunikasjon - årsstudium",
+        "Id": "%C5%2DDRAMA",
+        "Subjects": [
+            "GLU0083%2D1"
+        ]
+    },
+    {
+        "Name": "GLU-Årskurs-KUNSTHÅN - Kunst og håndverk - årsstudium",
+        "Id": "%C5%2DKUNSTH%C5N",
+        "Subjects": [
+            "%C5KH102%2D1"
+        ]
+    },
+    {
+        "Name": "Å-MATEMA - Matematikk - årsstudium",
+        "Id": "%C5%2DMATEMA",
+        "Subjects": [
+            "MAT210%2D1",
+            "MAT230%2D1",
+            "MAT240%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "Å-RESTLED - Restaurantledelse - årsstudium",
+        "Id": "%C5%2DRESTLED",
+        "Subjects": []
+    },
+    {
+        "Name": "Å-SOSIO - Sosiologi - årsstudium",
+        "Id": "%C5%2DSOSIO",
+        "Subjects": [
+            "BSA145%2D1",
+            "BSS120%2D1",
+            "BSS130%2D1"
+        ]
+    },
+    {
+        "Name": "-HISTORIE bachelor 2. sem.",
+        "Id": "*%23SPLUS03059C",
+        "Subjects": [
+            "HIS165%2D1",
+            "HIS175%2D1"
+        ]
+    },
+    {
+        "Name": "B-SOSIONOM-3",
+        "Id": "*%23SPLUS0AE681",
+        "Subjects": [
+            "%23SPLUS12B33A",
+            "BBABAC%2D5"
+        ]
+    },
+    {
+        "Name": "B-BARNEV-3",
+        "Id": "*%23SPLUS0AE682",
+        "Subjects": [
+            "%23SPLUS12B33A",
+            "BBABAC%2D5"
+        ]
+    },
+    {
+        "Name": "B-BARNEHAGELÆRER- 1.ÅR A-KL.",
+        "Id": "*%23SPLUS12E27A",
+        "Subjects": [
+            "%23SPLUS88D464",
+            "%23SPLUS88D47B",
+            "BBL100%2D1",
+            "BBL110%2D1",
+            "BBL120%2D1"
+        ]
+    },
+    {
+        "Name": "B-BARNEHAGELÆRER- 1.ÅR B-KL.",
+        "Id": "*%23SPLUS12E27B",
+        "Subjects": [
+            "%23SPLUS88D464",
+            "%23SPLUS88D47B",
+            "BBL100%2D1",
+            "BBL110%2D1",
+            "BBL120%2D1"
+        ]
+    },
+    {
+        "Name": "B-BARNEHAGELÆRER- 1.ÅR C-KL.",
+        "Id": "*%23SPLUS12E27C",
+        "Subjects": [
+            "%23SPLUS88D464",
+            "%23SPLUS88D47B",
+            "BBL100%2D1",
+            "BBL110%2D1",
+            "BBL120%2D1"
+        ]
+    },
+    {
+        "Name": "B-BARNEHAGELÆRER- 1.ÅR D-KL.",
+        "Id": "*%23SPLUS12E27D",
+        "Subjects": [
+            "%23SPLUS88D464",
+            "%23SPLUS88D47B",
+            "BBL100%2D1",
+            "BBL110%2D1",
+            "BBL120%2D1"
+        ]
+    },
+    {
+        "Name": "NORINT- Gr-3- Norwegian Language and Culture",
+        "Id": "*%23SPLUS1E232A",
+        "Subjects": [
+            "HNO200%2D1"
+        ]
+    },
+    {
+        "Name": "M-LESEVITENSKAP 2. sem",
+        "Id": "*%23SPLUS21A5F6",
+        "Subjects": []
+    },
+    {
+        "Name": "M-SOSIALFAG- 2. sem.",
+        "Id": "*%23SPLUS2DB06E",
+        "Subjects": [
+            "%23SPLUS81AB51",
+            "%23SPLUS937892",
+            "MSO121%2D2",
+            "MSO130%2D2",
+            "MSO150%2D2",
+            "MSO190%2D1",
+            "MSO230%2D1",
+            "MSO270%2D1"
+        ]
+    },
+    {
+        "Name": "B-FØRLÆRD-F3-deltid",
+        "Id": "*%23SPLUS35AA99",
+        "Subjects": [
+            "BFD102%2D2",
+            "BFD140%2D1",
+            "BFD230%2D1",
+            "BFD350%2D1"
+        ]
+    },
+    {
+        "Name": "B-BARNEHAGELÆRER- 2- ÅR A-KL",
+        "Id": "*%23SPLUS4C0E5E",
+        "Subjects": [
+            "BBL200%2D1",
+            "BBL210%2D1"
+        ]
+    },
+    {
+        "Name": "B-BARNEHAGELÆRER- 2- ÅR B-KL",
+        "Id": "*%23SPLUS4C0E5F",
+        "Subjects": [
+            "BBL200%2D1",
+            "BBL210%2D1"
+        ]
+    },
+    {
+        "Name": "B-BARNEHAGELÆRER- 2- ÅR C-KL",
+        "Id": "*%23SPLUS4C0E60",
+        "Subjects": [
+            "BBL200%2D1",
+            "BBL210%2D1"
+        ]
+    },
+    {
+        "Name": "B-BARNEHAGELÆRER- 2- ÅR D-KL",
+        "Id": "*%23SPLUS4C0E61",
+        "Subjects": [
+            "BBL200%2D1",
+            "BBL210%2D1"
+        ]
+    },
+    {
+        "Name": "B-BARNEV-1",
+        "Id": "*%23SPLUS4D227F",
+        "Subjects": [
+            "%23SPLUSE297CF",
+            "BBA160%2D1",
+            "BBA165%2D1",
+            "BSO130%2D1"
+        ]
+    },
+    {
+        "Name": "B-SOSIONOM-1",
+        "Id": "*%23SPLUS4D2280",
+        "Subjects": [
+            "%23SPLUS520581",
+            "BBA165%2D1",
+            "BSO130%2D1",
+            "BSO165%2D1"
+        ]
+    },
+    {
+        "Name": "-ENGELSK-fordypning",
+        "Id": "*%23SPLUS520532",
+        "Subjects": [
+            "ENG370%2D1"
+        ]
+    },
+    {
+        "Name": "-HISTORIE-fordypning",
+        "Id": "*%23SPLUS520533",
+        "Subjects": [
+            "HIS370%2D1"
+        ]
+    },
+    {
+        "Name": "-NORDISK-fordypning",
+        "Id": "*%23SPLUS520534",
+        "Subjects": [
+            "NOR370%2D1"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-1E",
+        "Id": "*%23SPLUS5F77E5",
+        "Subjects": [
+            "BSY153%2D1",
+            "BSY154%2D1",
+            "BSYP01%2D1",
+            "SVEXPHIL%2D2"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-1F",
+        "Id": "*%23SPLUS5F77E6",
+        "Subjects": [
+            "BSY153%2D1",
+            "BSY154%2D1",
+            "BSYP01%2D1",
+            "SVEXPHIL%2D2"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-1G",
+        "Id": "*%23SPLUS5F77E7",
+        "Subjects": [
+            "BSY153%2D1",
+            "BSY154%2D1",
+            "BSYP01%2D1",
+            "SVEXPHIL%2D2"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-1H",
+        "Id": "*%23SPLUS5F77E8",
+        "Subjects": [
+            "BSY154%2D1",
+            "BSYP01%2D1"
+        ]
+    },
+    {
+        "Name": "-Eng/Nor/Rel/His Bredde-5.sem.",
+        "Id": "*%23SPLUS60C8A9",
+        "Subjects": []
+    },
+    {
+        "Name": "-NORDISK bachelor 2. sem.",
+        "Id": "*%23SPLUS729F98",
+        "Subjects": [
+            "NOR115%2D1",
+            "NOR165%2D1"
+        ]
+    },
+    {
+        "Name": "-ENGELSK bachelor 2. sem.",
+        "Id": "*%23SPLUS729F9B",
+        "Subjects": [
+            "ENG175%2D1",
+            "ENG195%2D1"
+        ]
+    },
+    {
+        "Name": "-ENGELSK - årsstudium 2.sem.",
+        "Id": "*%23SPLUS729F9E",
+        "Subjects": [
+            "ENG175%2D1",
+            "ENG195%2D1"
+        ]
+    },
+    {
+        "Name": "-HISTORIE - årsstudium 2.sem.",
+        "Id": "*%23SPLUS729F9F",
+        "Subjects": [
+            "HIS165%2D1",
+            "HIS175%2D1"
+        ]
+    },
+    {
+        "Name": "-NORDISK - årsstudium 2.sem.",
+        "Id": "*%23SPLUS729FA0",
+        "Subjects": [
+            "NOR115%2D1",
+            "NOR165%2D1"
+        ]
+    },
+    {
+        "Name": "NORINT- Gr-1-Norwegian Language and Culture",
+        "Id": "*%23SPLUS769F91",
+        "Subjects": [
+            "HNO200%2D1"
+        ]
+    },
+    {
+        "Name": "NORINT- Gr-2-Norwegian Language and Culture",
+        "Id": "*%23SPLUS769F92",
+        "Subjects": [
+            "HNO200%2D1"
+        ]
+    },
+    {
+        "Name": "B-BARNEHAGELÆRERUTD. DELTID 1.år",
+        "Id": "*%23SPLUS7A0063",
+        "Subjects": [
+            "BBD100%2D1",
+            "BBD110%2D1"
+        ]
+    },
+    {
+        "Name": "PPU-112/114 pedagogikk",
+        "Id": "*%23SPLUS7CC4E8",
+        "Subjects": [
+            "PPU112%2D1",
+            "PPU114%2D1"
+        ]
+    },
+    {
+        "Name": "PPU-Engelsk fagdid.",
+        "Id": "*%23SPLUS7CC4EA",
+        "Subjects": [
+            "PPU132%2D1"
+        ]
+    },
+    {
+        "Name": "PPU-Samf.fag fagdid.",
+        "Id": "*%23SPLUS7CC4EB",
+        "Subjects": [
+            "PPU134%2D1"
+        ]
+    },
+    {
+        "Name": "PPU-Norsk fagdid.",
+        "Id": "*%23SPLUS7CC4EC",
+        "Subjects": [
+            "PPU137%2D1"
+        ]
+    },
+    {
+        "Name": "PPU-Rel.fagdid.",
+        "Id": "*%23SPLUS7CC4EE",
+        "Subjects": [
+            "PPU139%2D1"
+        ]
+    },
+    {
+        "Name": "PPU-Fr.spr. fag fagdid.",
+        "Id": "*%23SPLUS7CC4EF",
+        "Subjects": [
+            "PPU142%2D1"
+        ]
+    },
+    {
+        "Name": "PPU-Matematikk fagdid",
+        "Id": "*%23SPLUS7CC4F0",
+        "Subjects": [
+            "PPU144%2D1"
+        ]
+    },
+    {
+        "Name": "PPU-Nat.fag fagdid.",
+        "Id": "*%23SPLUS7CC4F1",
+        "Subjects": [
+            "PPU146%2D1"
+        ]
+    },
+    {
+        "Name": "PPU-Kr.øv. fagdid.",
+        "Id": "*%23SPLUS7CC4F2",
+        "Subjects": [
+            "PPU180%2D1"
+        ]
+    },
+    {
+        "Name": "B-SYKEPD- 2 kull 2011",
+        "Id": "*%23SPLUSA5A515",
+        "Subjects": [
+            "BSY341%2D1"
+        ]
+    },
+    {
+        "Name": "B-BARNEV-2",
+        "Id": "*%23SPLUSAAFF8C",
+        "Subjects": [
+            "BBAP20%2D1"
+        ]
+    },
+    {
+        "Name": "B-SOSIONOM-2",
+        "Id": "*%23SPLUSAAFF8D",
+        "Subjects": [
+            "BSOP20%2D2"
+        ]
+    },
+    {
+        "Name": "M-LITERACY 2. semester",
+        "Id": "*%23SPLUSB1F256",
+        "Subjects": [
+            "MLI335%2D1",
+            "MLI345%2D1",
+            "MLIMAS%2D1"
+        ]
+    },
+    {
+        "Name": "M-HISTORIEDIDAKTIKK 2. sem.",
+        "Id": "*%23SPLUSB1F257",
+        "Subjects": [
+            "MHI330%2D1",
+            "MHI345%2D1",
+            "MHIMAS%2D1"
+        ]
+    },
+    {
+        "Name": "M-LESEVITENSKAP 2. sem",
+        "Id": "*%23SPLUSB1F258",
+        "Subjects": [
+            "MLE345%2D1",
+            "MLEMAS%2D1"
+        ]
+    },
+    {
+        "Name": "B-BARNEHAGELÆRERUTD. DELTID 2.år",
+        "Id": "*%23SPLUSC979AC",
+        "Subjects": [
+            "BBD120%2D1",
+            "BBD200%2D1"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-1A",
+        "Id": "*%23SPLUSD79BBB",
+        "Subjects": [
+            "BSY153%2D1",
+            "BSY154%2D1",
+            "BSYP01%2D1",
+            "SVEXPHIL%2D2"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-1B",
+        "Id": "*%23SPLUSD79BBC",
+        "Subjects": [
+            "BSY153%2D1",
+            "BSY154%2D1",
+            "BSYP01%2D1",
+            "SVEXPHIL%2D2"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-1C",
+        "Id": "*%23SPLUSD79BBD",
+        "Subjects": [
+            "BSY153%2D1",
+            "BSY154%2D1",
+            "BSYP01%2D1",
+            "SVEXPHIL%2D2"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-1D",
+        "Id": "*%23SPLUSD79BBE",
+        "Subjects": [
+            "BSY153%2D1",
+            "BSY154%2D1",
+            "BSYP01%2D1",
+            "SVEXPHIL%2D2"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-2A",
+        "Id": "*%23SPLUSDE5567",
+        "Subjects": [
+            "BSY242%2D1"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-2B",
+        "Id": "*%23SPLUSDE556B",
+        "Subjects": [
+            "BSY242%2D1"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-2C",
+        "Id": "*%23SPLUSDE556C",
+        "Subjects": [
+            "BSY242%2D1"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-2D",
+        "Id": "*%23SPLUSDE556D",
+        "Subjects": [
+            "BSY242%2D1"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-3A",
+        "Id": "*%23SPLUSDE556E",
+        "Subjects": [
+            "BSY341%2D1",
+            "BSYBAC%2D3"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-3B",
+        "Id": "*%23SPLUSDE556F",
+        "Subjects": [
+            "BSY341%2D1",
+            "BSYBAC%2D3"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-3C",
+        "Id": "*%23SPLUSDE5570",
+        "Subjects": [
+            "BSY341%2D1",
+            "BSYBAC%2D3"
+        ]
+    },
+    {
+        "Name": "B-SYKEPL-3D",
+        "Id": "*%23SPLUSDE5571",
+        "Subjects": [
+            "BSY341%2D1",
+            "BSYBAC%2D3"
+        ]
+    },
+    {
+        "Name": "B-SYKEPD- 2 kull 2013",
+        "Id": "*%23SPLUSED2EBF",
+        "Subjects": [
+            "BSN143%2D1"
+        ]
+    },
+    {
+        "Name": "B-SYKEPD- 3 kull 2012",
+        "Id": "*%23SPLUSED2EC0",
+        "Subjects": [
+            "BSY242%2D1"
+        ]
+    },
+    {
+        "Name": "PPU-Formgiving/kunst og håndverk",
+        "Id": "*%23SPLUSF81CC9",
+        "Subjects": [
+            "PPU240%2D1"
+        ]
+    },
+    {
+        "Name": "PPU-Teknisk/industriell produksjon",
+        "Id": "*%23SPLUSF81CCA",
+        "Subjects": [
+            "PPU220%2D1"
+        ]
+    },
+    {
+        "Name": "B-FØRLÆRD-F4-deltid- org. led.",
+        "Id": "*%23SPLUSFDB9C3",
+        "Subjects": [
+            "BFD301%2D1"
+        ]
+    },
+    {
+        "Name": "M-HELSEVIT-2.sem.",
+        "Id": "*%23SPLUSFDBA65",
+        "Subjects": [
+            "%23SPLUS81AB51",
+            "MHV141%2D1",
+            "MHV142%2D1",
+            "MHVP201%2D1",
+            "MHVR201%2D1"
+        ]
+    },
+    {
+        "Name": "M-HELSEVIT-4.sem.",
+        "Id": "*%23SPLUSFDBA66",
+        "Subjects": [
+            "MHVMAS%2D1",
+            "MHVPMAS%2D1",
+            "MHVPP10%2D1"
+        ]
+    },
+    {
+        "Name": "B-ØKAD 2.sem - Økonomisk-administrative fag - bachelorstudium",
+        "Id": "B%2D%D8KAD",
+        "Subjects": [
+            "B%D8K103%2D1",
+            "B%D8K104%2D1",
+            "B%D8K225%2D1"
+        ]
+    },
+    {
+        "Name": "B-BIOKJE 2.sem - Biologisk kjemi - bioteknologi - bachelorstudium i biologisk kjemi",
+        "Id": "B%2DBIOKJE",
+        "Subjects": [
+            "BIO110%2D1",
+            "KJE150%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "B-BYGG 2.sem byutv/urban d - Byggingeniør - bachelorstudium i ingeniørfag",
+        "Id": "B%2DBYGG",
+        "Subjects": [
+            "BYG105%2D1",
+            "BYG110%2D1",
+            "MAT200%2D1"
+        ]
+    },
+    {
+        "Name": "B-DATA 2.sem - Data - bachelorstudium i ingeniørfag",
+        "Id": "B%2DDATA",
+        "Subjects": [
+            "DAT100%2D1",
+            "MAT200%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "B-ELE-YVEI 2.sem - Elektroingeniør, y-vei, bachelor i ingeniørfag",
+        "Id": "B%2DELE%2DYVEI",
+        "Subjects": [
+            "DAT100%2D1",
+            "ELE220%2D1",
+            "YMF110%2D1"
+        ]
+    },
+    {
+        "Name": "B-ELEKTRO 2.sem - Elektro - bachelorstudium i ingeniørfag",
+        "Id": "B%2DELEKTRO",
+        "Subjects": [
+            "DAT100%2D1",
+            "ELE100%2D1",
+            "MAT200%2D1"
+        ]
+    },
+    {
+        "Name": "B-FJERMU - Fjernsyns- og multimedieproduksjon - bachelorstudium",
+        "Id": "B%2DFJERMU",
+        "Subjects": [
+            "BSS120%2D1"
+        ]
+    },
+    {
+        "Name": "B-HOTLED 2.sem - Hotelledelse - bachelorstudium",
+        "Id": "B%2DHOTLED",
+        "Subjects": [
+            "BHO115%2D1",
+            "BHO130%2D1",
+            "BHO150%2D2"
+        ]
+    },
+    {
+        "Name": "B-IDRETT- 2.semester - Idrett/kroppsøving - bachelorstudium",
+        "Id": "B%2DIDRETT",
+        "Subjects": [
+            "IDR101%2D2"
+        ]
+    },
+    {
+        "Name": "B-JOURNAL - Journalistikk - bachelorstudium",
+        "Id": "B%2DJOURNAL",
+        "Subjects": [
+            "BJO115%2D1",
+            "BSS120%2D1"
+        ]
+    },
+    {
+        "Name": "B-KJEMIL 2.sem - Kjemi og miljø - bachelorstudium i ingeniørfag",
+        "Id": "B%2DKJEMIL",
+        "Subjects": [
+            "KJE150%2D1",
+            "MAT200%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "B-KUNSTV - Kunst- og kulturstudier - bachelorstudium",
+        "Id": "B%2DKUNSTV",
+        "Subjects": []
+    },
+    {
+        "Name": "B-MASKIN 2.sem - Maskiningeniør - bachelorstudium i ingeniørfag, studieretning konstruksjons- og materialteknikk",
+        "Id": "B%2DMASKIN",
+        "Subjects": [
+            "BYG140%2D1",
+            "MAT200%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "B-MATEMA - Matematikk - bachelorstudium i matematikk",
+        "Id": "B%2DMATEMA",
+        "Subjects": []
+    },
+    {
+        "Name": "B-MATFYS 2.sem - Matematikk og fysikk - bachelorstudium",
+        "Id": "B%2DMATFYS",
+        "Subjects": [
+            "FYS210%2D1",
+            "MAT210%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "B-PETGEO 2.sem - Petroleumsgeologi - Bachelorstudium i ingeniørfag",
+        "Id": "B%2DPETGEO",
+        "Subjects": [
+            "GEO100%2D1",
+            "MAT200%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "B-PETROL 2.sem - Petroleumsteknologi - Bachelorstudium i ingeniørfag",
+        "Id": "B%2DPETROL",
+        "Subjects": [
+            "GEO100%2D1",
+            "MAT200%2D1",
+            "STA100%2D1"
+        ]
+    },
+    {
+        "Name": "B-REGREV 2.sem - Regnskap og revisjon - bachelorstudium",
+        "Id": "B%2DREGREV",
+        "Subjects": [
+            "B%D8K103%2D1",
+            "B%D8K104%2D1",
+            "B%D8K225%2D1"
+        ]
+    },
+    {
+        "Name": "B-REILED 2.sem - Reiselivsledelse - bachelorstudium",
+        "Id": "B%2DREILED",
+        "Subjects": [
+            "BHO115%2D1",
+            "BHO130%2D1",
+            "BHO150%2D2"
+        ]
+    },
+    {
+        "Name": "B-RETVIT 2.sem - Rettsvitenskap - bachelorstudium",
+        "Id": "B%2DRETVIT",
+        "Subjects": [
+            "BRV100%2D1",
+            "BRV110%2D1",
+            "BRV120%2D1"
+        ]
+    },
+    {
+        "Name": "B-SFAGPL - Samfunnsfag med personalledelse - bachelorstudium",
+        "Id": "B%2DSFAGPL",
+        "Subjects": []
+    },
+    {
+        "Name": "B-SOSIOL 2.sem - Sosiologi - bachelorstudium",
+        "Id": "B%2DSOSIOL",
+        "Subjects": [
+            "BSA145%2D1",
+            "BSS120%2D1",
+            "BSS130%2D1"
+        ]
+    },
+    {
+        "Name": "B-STATSVIT 2.sem - Statsvitenskap - bachelorstudium",
+        "Id": "B%2DSTATSVIT",
+        "Subjects": [
+            "BSS120%2D1",
+            "BST120%2D1",
+            "BST130%2D1"
+        ]
+    },
+    {
+        "Name": "D-BIOKJEMI - Biologisk kjemi - Ph.d.",
+        "Id": "D%2DBIOKJEMI",
+        "Subjects": []
+    },
+    {
+        "Name": "D-DELHF - Midlertidig opptak til Ph.d. program",
+        "Id": "D%2DDELHF",
+        "Subjects": []
+    },
+    {
+        "Name": "D-DELSV - Midlertidig opptak til Ph.d. program",
+        "Id": "D%2DDELSV",
+        "Subjects": []
+    },
+    {
+        "Name": "D-DELTN - Midlertidig opptak til Ph.d. program",
+        "Id": "D%2DDELTN",
+        "Subjects": []
+    },
+    {
+        "Name": "D-EMNE-SV - Opptak til enkeltemne på Ph.d. nivå ved SV",
+        "Id": "D%2DEMNE%2DSV",
+        "Subjects": []
+    },
+    {
+        "Name": "D-INFTEK - Informasjonsteknologi - Ph.d.",
+        "Id": "D%2DINFTEK",
+        "Subjects": []
+    },
+    {
+        "Name": "D-LEDELSE - Ledelse - Ph.d.",
+        "Id": "D%2DLEDELSE",
+        "Subjects": []
+    },
+    {
+        "Name": "D-LESEVIT - Lesevitenskap - Ph.d.",
+        "Id": "D%2DLESEVIT",
+        "Subjects": []
+    },
+    {
+        "Name": "D-OFFSH - Offshoreteknologi - Ph.d.",
+        "Id": "D%2DOFFSH",
+        "Subjects": []
+    },
+    {
+        "Name": "D-PETEK - Petroleumsteknologi - Ph.d.",
+        "Id": "D%2DPETEK",
+        "Subjects": []
+    },
+    {
+        "Name": "D-RISKSIK - Risikostyring og samfunnssikkerhet - Ph.d.",
+        "Id": "D%2DRISKSIK",
+        "Subjects": []
+    },
+    {
+        "Name": "D-SAMSIK - Risikostyring og samfunnssikkerhet - Ph.d.",
+        "Id": "D%2DSAMSIK",
+        "Subjects": []
+    },
+    {
+        "Name": "D-SAMVIT - Samfunnsvitenskap - Ph.d.",
+        "Id": "D%2DSAMVIT",
+        "Subjects": []
+    },
+    {
+        "Name": "D-STIPEND - Eksterne Doktorgradsprogram stipendiater",
+        "Id": "D%2DSTIPEND",
+        "Subjects": []
+    },
+    {
+        "Name": "D-TEKNAT - Teknologi og naturvitenskap - doktorgradsprogram",
+        "Id": "D%2DTEKNAT",
+        "Subjects": [
+            "TN900%2D1",
+            "TN910%2D1"
+        ]
+    },
+    {
+        "Name": "DEL-TN - Enkeltemner ved Det teknisk-naturvitenskaplige fakultet",
+        "Id": "DEL%2DTN",
+        "Subjects": []
+    },
+    {
+        "Name": "DEL-TN-EXT - Enkeltemner ved Det teknisk-naturvitenskaplige fakultet, eksternfinansiert",
+        "Id": "DEL%2DTN%2DEXT",
+        "Subjects": []
+    },
+    {
+        "Name": "DR-PHILOS-DSP100-3 Phd-kurs i vitensk - Doctorgradsprogram i philosophiae",
+        "Id": "DR%2DPHILOS",
+        "Subjects": [
+            "DSP100%2D3"
+        ]
+    },
+    {
+        "Name": "E-SIKTR - Etter- og videreutdanning sikkerhetsstyring i transportsektoren",
+        "Id": "E%2DSIKTR",
+        "Subjects": []
+    },
+    {
+        "Name": "F-INGUTD - Forkurs for ingeniørutdanning",
+        "Id": "F%2DINGUTD",
+        "Subjects": [
+            "FIN100%2D2",
+            "FIN110%2D3",
+            "FIN120%2D3",
+            "FIN130%2D1",
+            "FIN170%2D2"
+        ]
+    },
+    {
+        "Name": "G-GLU1-7 1.år 2.sem. - Grunnskolelærerutdanning 1. - 7. trinn",
+        "Id": "G%2DGLU1%2D7",
+        "Subjects": [
+            "GLU0001%2D1",
+            "GLU1111%2D1",
+            "GLU1120%2D1"
+        ]
+    },
+    {
+        "Name": "G-GLU 5-10 1.år 2.sem. Norsk - Grunnskolelærerutdanning 5. - 10. trinn",
+        "Id": "G%2DGLU5%2D10",
+        "Subjects": [
+            "%23SPLUSBFD85E",
+            "GLU2121%2D1",
+            "GLU2122%2D1"
+        ]
+    },
+    {
         "Name": "M-ØKAD øk analyse - Økonomisk-administrative fag - masterstudium",
+        "Id": "M%2D%D8KAD",
         "Subjects": [
             "M%D8A185%2D1",
             "M%D8A205%2D1",
@@ -1713,157 +1819,310 @@
         ]
     },
     {
-        "Name": "NORINT- Gr-1-Norwegian Language and Culture",
+        "Name": "M-BAHAV-kull 2014 - Barnehagevitenskap - masterstudium -deltid",
+        "Id": "M%2DBAHAV%2DD",
         "Subjects": [
-            "HNO200%2D1"
+            "MBV125%2D1"
         ]
     },
     {
-        "Name": "NORINT- Gr-2-Norwegian Language and Culture",
+        "Name": "M-BENERG - Bærekraftig energiteknologi - Master i teknologi/siv.ing.",
+        "Id": "M%2DBENERG",
+        "Subjects": []
+    },
+    {
+        "Name": "M-BIOENG - Biological Chemistry - Master of Science Degree Programme",
+        "Id": "M%2DBIOENG",
         "Subjects": [
-            "HNO200%2D1"
+            "BIO300%2D1",
+            "BIO530%2D1",
+            "BIO540%2D1",
+            "BIO560%2D1",
+            "BIO600%2D1",
+            "MLJ550%2D1"
         ]
     },
     {
-        "Name": "NORINT- Gr-3- Norwegian Language and Culture",
+        "Name": "M-BYUTV - Byutvikling og urban design - Master i teknologi/siv.ing.",
+        "Id": "M%2DBYUTV",
         "Subjects": [
-            "HNO200%2D1"
+            "BYG610%2D1",
+            "BYG640%2D1",
+            "SAM500%2D1"
+        ]
+    },
+    {
+        "Name": "M-DATENG - Informasjonsteknologi, datateknikk - Master program",
+        "Id": "M%2DDATENG",
+        "Subjects": [
+            "DAT520%2D1",
+            "DAT600%2D1",
+            "ELE520%2D1",
+            "RIS510%2D1"
+        ]
+    },
+    {
+        "Name": "M-DOKPRO - Dokumentarproduksjon - mastergradsprogram",
+        "Id": "M%2DDOKPRO",
+        "Subjects": []
+    },
+    {
+        "Name": "M-ENDLED - Endringsledelse - masterstudium",
+        "Id": "M%2DENDLED",
+        "Subjects": [
+            "IND600%2D1",
+            "MEN135%2D1",
+            "MEN145%2D1",
+            "MEN165%2D1",
+            "MEN255%2D1",
+            "MSA125%2D1"
+        ]
+    },
+    {
+        "Name": "M-ENVTEC offsh Env.Eng - Environmental Technology - Master of Science Degree Programme",
+        "Id": "M%2DENVTEC",
+        "Subjects": [
+            "MLJ600%2D1",
+            "MLJ610%2D1",
+            "MLJ620%2D1",
+            "MLJ630%2D1",
+            "OFF510%2D1",
+            "OFF560%2D1"
+        ]
+    },
+    {
+        "Name": "M-FAMILY - European Master in Social Work with Families and Children",
+        "Id": "M%2DFAMILY",
+        "Subjects": [
+            "%23SPLUS937892",
+            "MEM100%2D1",
+            "MEM110%2D1"
+        ]
+    },
+    {
+        "Name": "M-INDØK petr bor - Industriell økonomi - Master i teknologi/siv.ing.",
+        "Id": "M%2DIND%D8KG",
+        "Subjects": [
+            "IND520%2D1",
+            "PET535%2D1"
+        ]
+    },
+    {
+        "Name": "M-INHRLE - Internasjonal hotell- og reiselivsledelse - masterstudium",
+        "Id": "M%2DINHRLE",
+        "Subjects": [
+            "MHR195%2D1",
+            "MHR210%2D1",
+            "MHR220%2D2"
+        ]
+    },
+    {
+        "Name": "M-KONMAT ford byggkon - Konstruksjoner og materialer - Master i teknologi/siv.ing.",
+        "Id": "M%2DKONMAT",
+        "Subjects": [
+            "BYG520%2D1",
+            "BYG530%2D1",
+            "MSK500%2D1",
+            "MSK520%2D1",
+            "MSK530%2D1"
+        ]
+    },
+    {
+        "Name": "M-KUNSTV - Kunst- og kulturstudier - masterstudium",
+        "Id": "M%2DKUNSTV",
+        "Subjects": [
+            "MKK150%2D1"
+        ]
+    },
+    {
+        "Name": "M-MAFENG ford fys - Mathematics and Physics - Master of Science Degree Programme",
+        "Id": "M%2DMAFENG",
+        "Subjects": [
+            "FYS520%2D1",
+            "FYS600%2D1",
+            "FYS610%2D1",
+            "FYS620%2D1"
+        ]
+    },
+    {
+        "Name": "M-UTDANVIT.-MATDID-D - Matematikkdidaktikk - masterstudium - deltid",
+        "Id": "M%2DMATDID%2DD",
+        "Subjects": [
+            "MUT302%2D1",
+            "MUT303%2D1"
+        ]
+    },
+    {
+        "Name": "M-MIGRATION-EMMIR - European Master in Migration and Intercultural Relations",
+        "Id": "M%2DMIGRA",
+        "Subjects": [
+            "EMM221%2D1"
+        ]
+    },
+    {
+        "Name": "M-MILNAT - Environmental Monitoring and Nature Management in the Northern Oil and Gas Producing Regions - M.Sc. Degree Programme",
+        "Id": "M%2DMILNAT",
+        "Subjects": []
+    },
+    {
+        "Name": "M-OFFDET - Offshore Field Development Technology - Master's Degree Programme",
+        "Id": "M%2DOFFDET",
+        "Subjects": []
+    },
+    {
+        "Name": "M-OFFINN - Offshore technology- Industrial Asset Management - Master's Degree Programme",
+        "Id": "M%2DOFFINN",
+        "Subjects": [
+            "OFF510%2D1",
+            "OFF540%2D1",
+            "OFF560%2D1",
+            "RIS510%2D1"
+        ]
+    },
+    {
+        "Name": "M-OFFSYS - Offshore Technology - Marine- and subsea technology - Master's Degree Programme",
+        "Id": "M%2DOFFSYS",
+        "Subjects": []
+    },
+    {
+        "Name": "M-OFFTEC ind ass - Offshore Technology - Master's Degree Programme",
+        "Id": "M%2DOFFTEC",
+        "Subjects": [
+            "OFF510%2D1",
+            "OFF540%2D1",
+            "OFF560%2D1",
+            "RIS510%2D1"
+        ]
+    },
+    {
+        "Name": "M-PEGENG - Petroleum Geosciences Engineering - Master of Science Degree Programme",
+        "Id": "M%2DPEGENG",
+        "Subjects": [
+            "GEO530%2D1",
+            "GEO540%2D1",
+            "GEO600%2D1"
+        ]
+    },
+    {
+        "Name": "M-PETBOR - Bore- og brønnteknologi: Master i teknologi/sivilingeniør (to-årig)",
+        "Id": "M%2DPETBOR",
+        "Subjects": []
+    },
+    {
+        "Name": "M-PETENG boring - Petroleum Engineering - Master of Science Degree Programme",
+        "Id": "M%2DPETENG",
+        "Subjects": [
+            "PET525%2D1",
+            "PET530%2D1",
+            "PET535%2D1"
+        ]
+    },
+    {
+        "Name": "M-SAMSIK krisehåndter - Samfunnssikkerhet - masterstudium",
+        "Id": "M%2DSAMSIK",
+        "Subjects": [
+            "MEN145%2D1",
+            "MEN255%2D1",
+            "MSA125%2D1",
+            "MSA270%2D1",
+            "MSA290%2D1",
+            "SAM500%2D1"
+        ]
+    },
+    {
+        "Name": "M-SYKEPL - Sykepleie - mastergrad",
+        "Id": "M%2DSYKEPL",
+        "Subjects": [
+            "%23SPLUS81AB3E"
+        ]
+    },
+    {
+        "Name": "M-TESSIK - Samfunnssikkerhet - Master i teknologi/siv.ing.",
+        "Id": "M%2DTESSIK",
+        "Subjects": [
+            "MEN165%2D1",
+            "MSA125%2D1",
+            "RIS510%2D1",
+            "SAM500%2D1"
+        ]
+    },
+    {
+        "Name": "M-TRISSTY ford offsh sikkerh - Risikostyring - Master i teknologi/siv.ing.",
+        "Id": "M%2DTRISSTY",
+        "Subjects": [
+            "IND600%2D1",
+            "OFF510%2D1",
+            "OFF540%2D1",
+            "OFF580%2D1",
+            "RIS510%2D1"
+        ]
+    },
+    {
+        "Name": "M-UTDVIT SPES.PED.2.sem. - Utdanningsvitenskap - masterprogram",
+        "Id": "M%2DUTDVIT",
+        "Subjects": [
+            "MUT204%2D1",
+            "MUT205%2D1",
+            "MUT206%2D1",
+            "MUT207%2D1",
+            "MUT402%2D1"
         ]
     },
     {
         "Name": "P-PPUD - Praktisk pedagogisk utdanning - deltid",
+        "Id": "P%2DPPUD",
         "Subjects": []
     },
     {
-        "Name": "PPU-112/114 pedagogikk",
-        "Subjects": [
-            "PPU112%2D1",
-            "PPU114%2D1"
-        ]
-    },
-    {
-        "Name": "PPU-Engelsk fagdid.",
-        "Subjects": [
-            "PPU132%2D1"
-        ]
-    },
-    {
-        "Name": "PPU-Formgiving/kunst og håndverk",
-        "Subjects": [
-            "PPU240%2D1"
-        ]
-    },
-    {
-        "Name": "PPU-Fr.spr. fag fagdid.",
-        "Subjects": [
-            "PPU142%2D1"
-        ]
-    },
-    {
-        "Name": "PPU-Kr.øv. fagdid.",
-        "Subjects": [
-            "PPU180%2D1"
-        ]
-    },
-    {
-        "Name": "PPU-Matematikk fagdid",
-        "Subjects": [
-            "PPU144%2D1"
-        ]
-    },
-    {
-        "Name": "PPU-Nat.fag fagdid.",
-        "Subjects": [
-            "PPU146%2D1"
-        ]
-    },
-    {
-        "Name": "PPU-Norsk fagdid.",
-        "Subjects": [
-            "PPU137%2D1"
-        ]
-    },
-    {
-        "Name": "PPU-Rel.fagdid.",
-        "Subjects": [
-            "PPU139%2D1"
-        ]
-    },
-    {
-        "Name": "PPU-Samf.fag fagdid.",
-        "Subjects": [
-            "PPU134%2D1"
-        ]
-    },
-    {
-        "Name": "PPU-Teknisk/industriell produksjon",
-        "Subjects": [
-            "PPU220%2D1"
-        ]
-    },
-    {
         "Name": "UTV-SV - Utveksling ved Det samfunnsvitenskapelige fakultet",
+        "Id": "UTV%2DSV",
         "Subjects": []
     },
     {
         "Name": "UTV-TN - Utveksling ved Det teknisk- naturvitenskapelige fakultet",
+        "Id": "UTV%2DTN",
         "Subjects": []
     },
     {
         "Name": "V-HELSES - Helsesøsterutdanning",
+        "Id": "V%2DHELSES",
         "Subjects": [
             "VHE121%2D1"
         ]
     },
     {
         "Name": "V-KSYKEPL - Kreftsykepleie - videreutdanning",
+        "Id": "V%2DKSYKEPL",
         "Subjects": [
             "VKS110%2D1"
         ]
     },
     {
         "Name": "V-PUB - Pedagogisk utviklingsarbeid i barnehagen",
+        "Id": "V%2DPUB",
         "Subjects": [
             "PUB100%2D1"
         ]
     },
     {
         "Name": "V-PVEIL - Pedagogisk veiledning",
+        "Id": "V%2DPVEIL",
         "Subjects": [
             "PVE102%2D1"
         ]
     },
     {
         "Name": "V-SMÅBNET - Småbarnspedagogikk -nettbasert videreutdanning",
+        "Id": "V%2DSM%C5BNET",
         "Subjects": [
             "NSP100%2D2"
         ]
     },
     {
         "Name": "V-VEIKONS - Tverrfaglig veiledning  - videreutdanning",
+        "Id": "V%2DVEIKONS",
         "Subjects": [
             "VKK120%2D1"
-        ]
-    },
-    {
-        "Name": "Å-MATEMA - Matematikk - årsstudium",
-        "Subjects": [
-            "MAT210%2D1",
-            "MAT230%2D1",
-            "MAT240%2D1",
-            "STA100%2D1"
-        ]
-    },
-    {
-        "Name": "Å-RESTLED - Restaurantledelse - årsstudium",
-        "Subjects": []
-    },
-    {
-        "Name": "Å-SOSIO - Sosiologi - årsstudium",
-        "Subjects": [
-            "BSA145%2D1",
-            "BSS120%2D1",
-            "BSS130%2D1"
         ]
     }
 ]

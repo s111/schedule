@@ -1,39 +1,107 @@
 [
     {
-        "Name": ".BBL100-1 BULL/SRLE Heltid",
-        "Id": "BBL100%2D1"
+        "Name": "BBA/BSOBACH- 5- Skrivekurs",
+        "Id": "%23SPLUS12B33A"
     },
     {
-        "Name": ".BBL110-1 NHB Heltid 1.",
-        "Id": "%23SPLUS88D47B"
+        "Name": "BSO130-1 Profesjonelt sosialt",
+        "Id": "%23SPLUS520581"
+    },
+    {
+        "Name": "M- Anestesi/operasjon/intensiv",
+        "Id": "%23SPLUS81AB3E"
+    },
+    {
+        "Name": "MHV/MSO-Forskningstorget",
+        "Id": "%23SPLUS81AB51"
     },
     {
         "Name": ".BBL110-1 NHB Naturfag Heltid 1.",
         "Id": "%23SPLUS88D464"
     },
     {
-        "Name": ".BBL110-1 NHB/Fys.fos. Heltid 1.",
-        "Id": "BBL110%2D1"
+        "Name": ".BBL110-1 NHB Heltid 1.",
+        "Id": "%23SPLUS88D47B"
     },
     {
-        "Name": "BBA/BSOBACH- 5- Skrivekurs",
-        "Id": "%23SPLUS12B33A"
+        "Name": "MEM110/MSO121- velferdspolitikk/ Welfare stat",
+        "Id": "%23SPLUS937892"
     },
     {
-        "Name": "BBA/BSOBACH- Forskingmetode",
-        "Id": "BBABAC%2D5"
+        "Name": "FIN131 Fysikk forkurs",
+        "Id": "%23SPLUSA8DFE1"
     },
     {
-        "Name": "BBA160-1 Barn og unges utvikl",
-        "Id": "BBA160%2D1"
+        "Name": "GLU0001-1 Obl. Drama  5-10 1.år 2.sem.norsk",
+        "Id": "%23SPLUSBFD85E"
+    },
+    {
+        "Name": "GLU0001-1 Obl. Drama  5-10 1.år 2.sem  Matematikk",
+        "Id": "%23SPLUSBFD85F"
     },
     {
         "Name": "BBA165-1 Velferdssamfunn, vel",
         "Id": "%23SPLUSE297CF"
     },
     {
+        "Name": "ÅKH102-105-106-1 K \u0026 H 1",
+        "Id": "%C5KH102%2D1"
+    },
+    {
+        "Name": "BØK103-1 Økonomistyring",
+        "Id": "B%D8K103%2D1"
+    },
+    {
+        "Name": "BØK104-1 Statistikk",
+        "Id": "B%D8K104%2D1"
+    },
+    {
+        "Name": "BØK225-1 Org. og ledelse",
+        "Id": "B%D8K225%2D1"
+    },
+    {
+        "Name": "BØK235-1 Strategi",
+        "Id": "B%D8K235%2D1"
+    },
+    {
+        "Name": "BØK255-1 Makroøkonomi",
+        "Id": "B%D8K255%2D1"
+    },
+    {
+        "Name": "BØK275-1 Rettslære-revisoreks",
+        "Id": "B%D8K275%2D1"
+    },
+    {
+        "Name": "BØK285-1 Financial markets.",
+        "Id": "B%D8K285%2D1"
+    },
+    {
+        "Name": "BØK310-1 Personlig økonomi",
+        "Id": "B%D8K310%2D1"
+    },
+    {
+        "Name": "BØK350-1 Operation Management",
+        "Id": "B%D8K350%2D1"
+    },
+    {
+        "Name": "BØK375-1 International Busine",
+        "Id": "B%D8K375%2D1"
+    },
+    {
+        "Name": "BØK395-1 Consumer",
+        "Id": "B%D8K395%2D1"
+    },
+    {
+        "Name": "BBA160-1 Barn og unges utvikl",
+        "Id": "BBA160%2D1"
+    },
+    {
         "Name": "BBA165-BSO-1 Velferdssamfunn, vel",
         "Id": "BBA165%2D1"
+    },
+    {
+        "Name": "BBA/BSOBACH- Forskingmetode",
+        "Id": "BBABAC%2D5"
     },
     {
         "Name": "BBAP20-1 Praksis",
@@ -56,6 +124,14 @@
         "Id": "BBD200%2D1"
     },
     {
+        "Name": ".BBL100-1 BULL/SRLE Heltid",
+        "Id": "BBL100%2D1"
+    },
+    {
+        "Name": ".BBL110-1 NHB/Fys.fos. Heltid 1.",
+        "Id": "BBL110%2D1"
+    },
+    {
         "Name": "BBL120-1 SRE Heltid",
         "Id": "BBL120%2D1"
     },
@@ -66,26 +142,6 @@
     {
         "Name": "BBL210-1 STM Heltid",
         "Id": "BBL210%2D1"
-    },
-    {
-        "Name": "BFD102-2 Ped. 3.st.år",
-        "Id": "BFD102%2D2"
-    },
-    {
-        "Name": "BFD140-1 Fysisk fostring",
-        "Id": "BFD140%2D1"
-    },
-    {
-        "Name": "BFD230-1 Naturfag m miljølære",
-        "Id": "BFD230%2D1"
-    },
-    {
-        "Name": "BFD301-1 Org. og ledelse",
-        "Id": "BFD301%2D1"
-    },
-    {
-        "Name": "BFD350-1 Samf.fag",
-        "Id": "BFD350%2D1"
     },
     {
         "Name": "BFØ301-1 Org. og ledelse",
@@ -106,6 +162,26 @@
     {
         "Name": "BFØ380-1 Musikk fordypning",
         "Id": "BF%D8380%2D1"
+    },
+    {
+        "Name": "BFD102-2 Ped. 3.st.år",
+        "Id": "BFD102%2D2"
+    },
+    {
+        "Name": "BFD140-1 Fysisk fostring",
+        "Id": "BFD140%2D1"
+    },
+    {
+        "Name": "BFD230-1 Naturfag m miljølære",
+        "Id": "BFD230%2D1"
+    },
+    {
+        "Name": "BFD301-1 Org. og ledelse",
+        "Id": "BFD301%2D1"
+    },
+    {
+        "Name": "BFD350-1 Samf.fag",
+        "Id": "BFD350%2D1"
     },
     {
         "Name": "BHO115-1 Stat. og metode",
@@ -256,10 +332,6 @@
         "Id": "BSN143%2D1"
     },
     {
-        "Name": "BSO130-1 Profesjonelt sosialt",
-        "Id": "%23SPLUS520581"
-    },
-    {
         "Name": "BSO130/BBA-160-1 Profesjonelt sosialt",
         "Id": "BSO130%2D1"
     },
@@ -336,12 +408,12 @@
         "Id": "BSY341%2D1"
     },
     {
-        "Name": "BSY/BSNP01-1 Praksisstudier sykep",
-        "Id": "BSYP01%2D1"
-    },
-    {
         "Name": "BSYBAC-3 Bachelor oppg. i syk",
         "Id": "BSYBAC%2D3"
+    },
+    {
+        "Name": "BSY/BSNP01-1 Praksisstudier sykep",
+        "Id": "BSYP01%2D1"
     },
     {
         "Name": "BYG102-1 BYGGMATGEOTEK",
@@ -402,50 +474,6 @@
     {
         "Name": "BYGTBAC-1 BACHELOROPPG BYGG-TE",
         "Id": "BYGTBAC%2D1"
-    },
-    {
-        "Name": "BØK103-1 Økonomistyring",
-        "Id": "B%D8K103%2D1"
-    },
-    {
-        "Name": "BØK104-1 Statistikk",
-        "Id": "B%D8K104%2D1"
-    },
-    {
-        "Name": "BØK225-1 Org. og ledelse",
-        "Id": "B%D8K225%2D1"
-    },
-    {
-        "Name": "BØK235-1 Strategi",
-        "Id": "B%D8K235%2D1"
-    },
-    {
-        "Name": "BØK255-1 Makroøkonomi",
-        "Id": "B%D8K255%2D1"
-    },
-    {
-        "Name": "BØK275-1 Rettslære-revisoreks",
-        "Id": "B%D8K275%2D1"
-    },
-    {
-        "Name": "BØK285-1 Financial markets.",
-        "Id": "B%D8K285%2D1"
-    },
-    {
-        "Name": "BØK310-1 Personlig økonomi",
-        "Id": "B%D8K310%2D1"
-    },
-    {
-        "Name": "BØK350-1 Operation Management",
-        "Id": "B%D8K350%2D1"
-    },
-    {
-        "Name": "BØK375-1 International Busine",
-        "Id": "B%D8K375%2D1"
-    },
-    {
-        "Name": "BØK395-1 Consumer",
-        "Id": "B%D8K395%2D1"
     },
     {
         "Name": "DAT100-1 PROG",
@@ -552,10 +580,6 @@
         "Id": "FIN130%2D1"
     },
     {
-        "Name": "FIN131 Fysikk forkurs",
-        "Id": "%23SPLUSA8DFE1"
-    },
-    {
         "Name": "FIN170-2 Teknol - Forkurs",
         "Id": "FIN170%2D2"
     },
@@ -612,14 +636,6 @@
         "Id": "GEOBAC%2D1"
     },
     {
-        "Name": "GLU0001-1 Obl. Drama  5-10 1.år 2.sem  Matematikk",
-        "Id": "%23SPLUSBFD85F"
-    },
-    {
-        "Name": "GLU0001-1 Obl. Drama  5-10 1.år 2.sem.norsk",
-        "Id": "%23SPLUSBFD85E"
-    },
-    {
         "Name": "GLU0001-1 Obl. Drama 1-7 1.år",
         "Id": "GLU0001%2D1"
     },
@@ -644,10 +660,6 @@
         "Id": "GLU1071%2D1"
     },
     {
-        "Name": "GLU1080-83/2080-83-1 Nat.1. biolo(5.-10.)",
-        "Id": "GLU2080%2D1"
-    },
-    {
         "Name": "GLU1111-1 Matematikk 1- emne 2",
         "Id": "GLU1111%2D1"
     },
@@ -670,6 +682,10 @@
     {
         "Name": "GLU2060-1 Kroppsøving 1 (5.-10",
         "Id": "GLU2060%2D1"
+    },
+    {
+        "Name": "GLU1080-83/2080-83-1 Nat.1. biolo(5.-10.)",
+        "Id": "GLU2080%2D1"
     },
     {
         "Name": "GLU2113-1 Matematikk 1 (5.-10.",
@@ -752,8 +768,40 @@
         "Id": "KJEBAC%2D1"
     },
     {
-        "Name": "M- Anestesi/operasjon/intensiv",
-        "Id": "%23SPLUS81AB3E"
+        "Name": "MØA185-1 Strategic Sourcing",
+        "Id": "M%D8A185%2D1"
+    },
+    {
+        "Name": "MØA205-1 Investments",
+        "Id": "M%D8A205%2D1"
+    },
+    {
+        "Name": "MØA220-2 Fin. statement anal.",
+        "Id": "M%D8A220%2D2"
+    },
+    {
+        "Name": "MØA280-1 Empirical Labor Econ",
+        "Id": "M%D8A280%2D1"
+    },
+    {
+        "Name": "MØA285-1 Energy Markets",
+        "Id": "M%D8A285%2D1"
+    },
+    {
+        "Name": "MØA290-1 Applied game theory",
+        "Id": "M%D8A290%2D1"
+    },
+    {
+        "Name": "MØA295-1 Empirical Methods",
+        "Id": "M%D8A295%2D1"
+    },
+    {
+        "Name": "MØA310-1 Corporate Finance",
+        "Id": "M%D8A310%2D1"
+    },
+    {
+        "Name": "MØA415-1 KnowEntre",
+        "Id": "M%D8A415%2D1"
     },
     {
         "Name": "MAFBAC-1 BACHOPPG",
@@ -808,10 +856,6 @@
         "Id": "MEM110%2D1"
     },
     {
-        "Name": "MEM110/MSO121- velferdspolitikk/ Welfare stat",
-        "Id": "%23SPLUS937892"
-    },
-    {
         "Name": "MEN135-1 Endringsledelse II",
         "Id": "MEN135%2D1"
     },
@@ -852,10 +896,6 @@
         "Id": "MHR220%2D2"
     },
     {
-        "Name": "MHV/MSO-Forskningstorget",
-        "Id": "%23SPLUS81AB51"
-    },
-    {
         "Name": "MHV141-1 Brukermedvirkning; s",
         "Id": "MHV141%2D1"
     },
@@ -868,16 +908,16 @@
         "Id": "MHVMAS%2D1"
     },
     {
-        "Name": "MHVP-1 Faglige perspektiver",
-        "Id": "MHVPP10%2D1"
-    },
-    {
         "Name": "MHVP201-1 Grunnlagsforst. psy",
         "Id": "MHVP201%2D1"
     },
     {
         "Name": "MHVPMAS/MHVRMAS-1 M-oppg i helsv",
         "Id": "MHVPMAS%2D1"
+    },
+    {
+        "Name": "MHVP-1 Faglige perspektiver",
+        "Id": "MHVPP10%2D1"
     },
     {
         "Name": "MHVR201-202-1 Rusmidler/rusmiddelb",
@@ -1036,42 +1076,6 @@
         "Id": "MUT502%2D1"
     },
     {
-        "Name": "MØA185-1 Strategic Sourcing",
-        "Id": "M%D8A185%2D1"
-    },
-    {
-        "Name": "MØA205-1 Investments",
-        "Id": "M%D8A205%2D1"
-    },
-    {
-        "Name": "MØA220-2 Fin. statement anal.",
-        "Id": "M%D8A220%2D2"
-    },
-    {
-        "Name": "MØA280-1 Empirical Labor Econ",
-        "Id": "M%D8A280%2D1"
-    },
-    {
-        "Name": "MØA285-1 Energy Markets",
-        "Id": "M%D8A285%2D1"
-    },
-    {
-        "Name": "MØA290-1 Applied game theory",
-        "Id": "M%D8A290%2D1"
-    },
-    {
-        "Name": "MØA295-1 Empirical Methods",
-        "Id": "M%D8A295%2D1"
-    },
-    {
-        "Name": "MØA310-1 Corporate Finance",
-        "Id": "M%D8A310%2D1"
-    },
-    {
-        "Name": "MØA415-1 KnowEntre",
-        "Id": "M%D8A415%2D1"
-    },
-    {
         "Name": "NOR115-1 Nordisk språk",
         "Id": "NOR115%2D1"
     },
@@ -1192,12 +1196,12 @@
         "Id": "PPU180%2D1"
     },
     {
-        "Name": "PPU200/240-1 Spes.y.did.formgivn.",
-        "Id": "PPU240%2D1"
-    },
-    {
         "Name": "PPU220-1 Spes.y.did-Teknisk industriell prod.",
         "Id": "PPU220%2D1"
+    },
+    {
+        "Name": "PPU200/240-1 Spes.y.did.formgivn.",
+        "Id": "PPU240%2D1"
     },
     {
         "Name": "PUB100-1 PUB",
@@ -1266,9 +1270,5 @@
     {
         "Name": "YMF110-1 REALFAG 2",
         "Id": "YMF110%2D1"
-    },
-    {
-        "Name": "ÅKH102-105-106-1 K \u0026 H 1",
-        "Id": "%C5KH102%2D1"
     }
 ]
