@@ -71,10 +71,6 @@ var CourseSchedule = React.createClass({displayName: "CourseSchedule",
                         lectures.push(lecture);
                 }.bind(this));
 
-                lectures.sort(function(a, b) {
-                    return a.Date > b.Date;
-                });
-
                 this.setState({subjects: subjects, lectures: lectures});
             }.bind(this),
             error: function(xhr, status, err) {
@@ -110,6 +106,8 @@ var CourseSchedule = React.createClass({displayName: "CourseSchedule",
     },
 
     render: function() {
+        $(document.body).find("ul:visible").toggle();
+
         var lectures = this.state.lectures.filter(function(lecture) {
             var start = new Date(lecture.Date);
 
@@ -117,6 +115,10 @@ var CourseSchedule = React.createClass({displayName: "CourseSchedule",
                 return lecture;
             }
         }.bind(this));
+
+        lectures.sort(function(a, b) {
+            return a.Date > b.Date;
+        });
 
         return (
             React.createElement("div", {className: "container"}, 
