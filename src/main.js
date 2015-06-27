@@ -138,12 +138,13 @@ var Controls = React.createClass({
 
     render: function() {
         return(
-            <div className="well">
+            <div className="well clearfix">
                 <label htmlFor="date-input" >Date:</label>
                 <DateInput day={this.props.day} onInput={this.props.onInput}/>
                 <Selection type="programs" data={this.props.programs} onSubmit={this.addProgram} />
                 <Selection type="subjects" data={this.props.subjects} onSubmit={this.props.onSubmit} />
                 <SelectedSubjects data={this.props.subjects} onClick={this.props.onClick} />
+                <CalendarLink data={this.props.subjects} />
             </div>
         );
     }
@@ -265,6 +266,26 @@ var SelectedSubjects = React.createClass({
                 {selected}
             </div>
         );
+    }
+});
+
+var CalendarLink = React.createClass({
+    handleClick: function() {
+        var ids = this.props.data.map(function(subject) {
+            return encodeURIComponent(subject.Id);
+        });
+
+        var link = "https://icalgenerator.herokuapp.com/" + ids.join("/") + "/calendar.ics";
+
+        prompt("Calendar link", link);
+    },
+
+    render: function() {
+        return (
+            <div className="calendar-link" onClick={this.handleClick}>
+                <a href="#" className="btn btn-primary btn-xs pull-right" role="button">Export to calendar</a>
+            </div>
+        )
     }
 });
 

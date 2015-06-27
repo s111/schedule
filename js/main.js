@@ -138,12 +138,13 @@ var Controls = React.createClass({displayName: "Controls",
 
     render: function() {
         return(
-            React.createElement("div", {className: "well"}, 
+            React.createElement("div", {className: "well clearfix"}, 
                 React.createElement("label", {htmlFor: "date-input"}, "Date:"), 
                 React.createElement(DateInput, {day: this.props.day, onInput: this.props.onInput}), 
                 React.createElement(Selection, {type: "programs", data: this.props.programs, onSubmit: this.addProgram}), 
                 React.createElement(Selection, {type: "subjects", data: this.props.subjects, onSubmit: this.props.onSubmit}), 
-                React.createElement(SelectedSubjects, {data: this.props.subjects, onClick: this.props.onClick})
+                React.createElement(SelectedSubjects, {data: this.props.subjects, onClick: this.props.onClick}), 
+                React.createElement(CalendarLink, {data: this.props.subjects})
             )
         );
     }
@@ -265,6 +266,26 @@ var SelectedSubjects = React.createClass({displayName: "SelectedSubjects",
                 selected
             )
         );
+    }
+});
+
+var CalendarLink = React.createClass({displayName: "CalendarLink",
+    handleClick: function() {
+        var ids = this.props.data.map(function(subject) {
+            return encodeURIComponent(subject.Id);
+        });
+
+        var link = "https://icalgenerator.herokuapp.com/" + ids.join("/") + "/calendar.ics";
+
+        prompt("Calendar link", link);
+    },
+
+    render: function() {
+        return (
+            React.createElement("div", {className: "calendar-link", onClick: this.handleClick}, 
+                React.createElement("a", {href: "#", className: "btn btn-primary btn-xs pull-right", role: "button"}, "Export to calendar")
+            )
+        )
     }
 });
 
